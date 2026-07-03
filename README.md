@@ -104,7 +104,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CAE** | Cybersecurity DevOps Integration Spec... | Montreal | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Incident-Response-Analyst_121201) |
 | **RTX** | Junior Software Engineer Co-Op (Onsite) | On, CA | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-OTTAWA-030--30-Edgewater-St--EDGEWATER/Junior-Software-Engineer-Co-Op--Onsite-_01853388) |
 | **Magnet Forensics** | Software Engineer - Review Team | Canada | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/magnetforensics/1fb542aa-c624-4577-a3f7-6a328653b5c2/apply) |
-| **Stripe** | Backend Engineer, Financial Connections | Toronto, Remote i... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8030859) |
+| **Stripe** | Backend Engineer, Financial Connections | Toronto, Remote i... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8030859) |
 | **ClickHouse** | Cloud Engineer - Product Metrics | Canada (remote) | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/clickhouse/jobs/6101326004) |
 | **Texas Instruments** | Software Engineer - Career Accelerato... | Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011161) |
 | **Microsoft** | Software Engineer II - Distributed Sy... | Vancouver, Britis... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556913139) |
@@ -175,7 +175,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **SS&C Technologies** | Software Engineer P2 - PA2026Q1JB050 | Ontario, Toronto | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Ontario-Toronto/Software-Engineer-P2---PA2026Q1JB050_R42442) |
 | **Palo Alto Networks** | Solutions Engineer, DevOps - US West ... | Vancouver, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Vancouver-Canada/Solutions-Engineer--DevOps---US-West-and-Canada_JR-018736) |
 | **Aptiv** | Cloud Networking Software Developer –... | CAN Kanata (2), O... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Networking-Software-Developer---MTS_J000698858-1) |
-| **1Password** | Developer, Billing Integrations | Remote (United St... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/1password/983c56ca-f8df-42bd-b362-897be81d8675/application) |
+| **1Password** | Developer, Billing Integrations | Remote (United St... | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/1password/983c56ca-f8df-42bd-b362-897be81d8675/application) |
 | **1Password** | Developer Intern, Trust Platforms - F... | Remote (United St... | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/application) |
 | **Rivian and Volkswagen Group Technologies** | Software Engineer Intern - Android Co... | Vancouver, Britis... | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211/application) |
 | **Zip** | Software Engineer Intern (Fall 2026) | Toronto | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/zip/caa5ba75-3b38-4d29-88cd-69a90b01fd6f/application) |
@@ -255,7 +255,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **WSP** | Junior Geotechnical Engineer-in-Training | Terrace, BC, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/81087) |
 | **Dialpad** | AI Engineer, Voice Designer | Kitchener, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8601273002) |
 | **Dialpad** | AI Engineer, Voice Designer | Vancouver, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8597852002) |
-| **Mistral AI** | AI Deployment Strategist - Canada | Montreal | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/mistral/ebbae799-78e9-4705-97bc-9f86d359f56f/apply) |
+| **Mistral AI** | AI Deployment Strategist - Canada | Montreal | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/mistral/ebbae799-78e9-4705-97bc-9f86d359f56f/apply) |
 | **Capco** | Back-End - .NET, API, AI Ready | Toronto | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8018387) |
 | **FLIR Systems** | Gestionnaire de projets Industrialisa... | Bromont, QC | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Gestionnaire-de-projets-Industrialisation_REQ35184-1) |
 | **Rockwell Automation** | Co-op, Robotics Research – Physical AI | Waterloo, Ontario... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Physical-AI_R26-4210) |
@@ -292,7 +292,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Honeywell** | Advanced Field Service Engineer – BMS | Abbotsford, Victo... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/150718) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20274831) |
 | **SS&C Technologies** | Associate, Operations | Halifax, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Halifax-Canada/Associate--Operations_R43253) |
-| **Stripe** | Credit Operations Collections Analyst | Toronto, Atlanta,... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7722943) |
+| **Stripe** | Credit Operations Collections Analyst | Toronto, Atlanta,... | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7722943) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
