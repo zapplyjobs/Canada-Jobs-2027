@@ -106,7 +106,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Magnet Forensics** | Software Engineer - Review Team | Canada | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/magnetforensics/1fb542aa-c624-4577-a3f7-6a328653b5c2/apply) |
 | **Stripe** | Backend Engineer, Financial Connections | Toronto, Remote i... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8030859) |
 | **ClickHouse** | Cloud Engineer - Product Metrics | Canada (remote) | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/clickhouse/jobs/6101326004) |
-| **Texas Instruments** | Software Engineer - Career Accelerato... | Canada | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011161) |
+| **Texas Instruments** | Software Engineer - Career Accelerato... | Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011161) |
 | **Microsoft** | Software Engineer II - Distributed Sy... | Vancouver, Britis... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556913139) |
 | **Pinterest** | Software Engineer II, Web | Toronto, ON, CA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://www.pinterestcareers.com/jobs/?gh_jid=8024883) |
 | **Affirm** | Software Engineer II, Machine Learnin... | Remote Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7785602003) |
@@ -199,7 +199,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nokia** | ASIC Verification Intern | Ottawa, ON | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36281) |
 | **Schweitzer Engineering Laboratories** | Power Systems Automation Engineer | Canada Markham + ... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Canada---Markham/Project-Engineer-III---Auto_2025-19158) |
 | **Schweitzer Engineering Laboratories** | Power Systems Protection Engineer | Brossard | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Canada---Brossard/Power-Systems-Protection-Engineer_2026-19476-1) |
-| **WSP** | Intermediate Electrical Engineer, Res... | Vancouver, BC, Ca... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89952) |
+| **WSP** | Intermediate Electrical Engineer, Res... | Vancouver, BC, Ca... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89952) |
 | **WSP** | Electrical Engineer, Buildings | Victoria, BC, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/83532) |
 | **WSP** | High Voltage Electrical Construction ... | Vancouver, WA, Un... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89802) |
 | **General Motors** | Software Test Engineering - Autonomou... | Markham, Ontario,... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Software-Test-Engineering---Autonomous-Interface-Software_JR-202613665-1) |
@@ -232,7 +232,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sanofi** | Clinical Data Scientist | Toronto, ON | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Clinical-Data-Scientist_R2853801) |
 | **Cohere** | Machine Learning Intern/Co-op  (Fall,... | Canada | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) |
 | **Stripe** | PhD Data Scientist, Intern | Toronto, Ontario,... | 9mo | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7285974) |
-| **Cresta** | Machine Learning Engineering Intern | Toronto Canada | 21mo | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/4123863008) |
+| **Cresta** | Machine Learning Engineering Intern | Toronto Canada | 22mo | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/4123863008) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -281,7 +281,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Hitachi** | Field Service Representative | Kelowna, British ... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Kelowna-British-Columbia-Canada/Field-Service-Representative_R0127691) |
 | **Leidos** | Application Support Engineer | Scoresby, Victori... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Scoresby-Victoria-Australia/Application-Support-Engineer_R-00185898) |
 | **Tailscale** | Customer Support Engineer | Remote (Canada) | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tailscale/jobs/4709826005) |
-| **Fortinet** | Technical Support Engineer | Ottawa, ON, Canada | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23387) |
+| **Fortinet** | Technical Support Engineer | Ottawa, ON, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23387) |
 | **Vertiv** | Canada Power Field Service Representa... | NS, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20264167) |
 | **RTX** | Computer Support Specialist | On, CA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MIDLAND-450--450-Leitz-Rd--BLDG-450/Computer-Support-Specialist_01855327) |
 | **Honeywell** | Field Service Engineer II | Calgary, AB, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/149346) |
@@ -328,9 +328,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **BeyondTrust** | Associate Software Development Engineer | Remote Canada | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/beyondtrust/jobs/7996826) |
 | **JLL** | Responsable des Systèmes d'Automatisa... | Bromont, QC | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bromont-QC/Building-Automation-Systems-Manager_REQ513706-1) |
 | **Field AI** | Field Application Engineer | Toronto, ON | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/field-ai/6a93ac30-56af-4726-bb05-9d71f8622b58/apply) |
-| **WSP** | Intermediate Distribution Lines Engin... | Toronto, ON, Canada | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/83312) |
-| **WSP** | Regional Project Manager - Property &... | Dartmouth, NS, Ca... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89924) |
-| **WSP** | Intermediate Highway Designer, Engineer | Thunder Bay, ON, ... | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89925) |
+| **WSP** | Intermediate Distribution Lines Engin... | Toronto, ON, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/83312) |
+| **WSP** | Regional Project Manager - Property &... | Dartmouth, NS, Ca... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89924) |
+| **WSP** | Intermediate Highway Designer, Engineer | Thunder Bay, ON, ... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89925) |
 | **D.E. Shaw** | Trading System Data Specialist | Montreal | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/8028470) |
 | **Astera Labs** | Product Applications Engineer (Switch... | Vancouver, Britis... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/asteralabs/jobs/4609456005) |
 | **Rocket Lab** | Optical Engineer II | Toronto, CAN | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7779900003) |
@@ -441,6 +441,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: July 2, 2026
+**Last Updated**: July 3, 2026
 
 </div>
