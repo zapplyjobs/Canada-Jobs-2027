@@ -291,7 +291,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Leidos** | Application Support Engineer   Defence | Melbourne, Victor... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Melbourne-Victoria-Australia/Application-Support-Engineer---Defence_R-00185591) |
 | **Honeywell** | Advanced Field Service Engineer – BMS | Abbotsford, Victo... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/150718) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20274831) |
-| **SS&C Technologies** | Associate, Operations | Halifax, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Halifax-Canada/Associate--Operations_R43253) |
+| **SS&C Technologies** | Associate, Operations | Halifax, Canada | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Halifax-Canada/Associate--Operations_R43253) |
 | **Stripe** | Credit Operations Collections Analyst | Toronto, Atlanta,... | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7722943) |
 
 <p align="center">Apply for more jobs at</p>
