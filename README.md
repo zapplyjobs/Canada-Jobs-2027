@@ -132,7 +132,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Planet** | Software Engineer, Mission Systems | United States, Re... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/planetlabs/jobs/8008293) |
 | **Capco** | Jr. Back-End Developer (Contract) | Toronto | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8024562) |
 | **1Password** | Developer Intern, Service Development... | Remote (United St... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/1password/b6b8c8ed-ff1c-4bc2-9dbe-5122207ea3a2/application) |
-| **Capco** | Intermediate Backend Developer (Contr... | Toronto | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8024264) |
+| **Capco** | Intermediate Backend Developer (Contr... | Toronto | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8024264) |
 | **Cerebras Systems** | Network Security Engineer | Remote, Californi... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cerebrassystems/jobs/7782108003) |
 | **Cerebras Systems** | Hardware / Low Level Security Engineer | Remote, Californi... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cerebrassystems/jobs/7782099003) |
 | **Affirm** | Software Engineer II, Backend (Reliab... | Remote Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7764836003) |
