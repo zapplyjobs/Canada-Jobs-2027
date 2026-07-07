@@ -252,7 +252,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **WSP** | Ingénieur civil – Génie aéroportuaire | Brossard, QC, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89518) |
 | **ABB** | Gestionnaire de la formation | Bromont, Quebec, ... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bromont-Quebec-Canada/Gestionnaire-de-la-formation_JR00039127) |
 | **Citi** | GenAI Platform Engineer - Python | Mississauga Ontar... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/GenAI-Platform-Engineer---Python_26960735) |
-| **WSP** | Junior Geotechnical Engineer-in-Training | Terrace, BC, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/81087) |
+| **WSP** | Junior Geotechnical Engineer-in-Training | Terrace, BC, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/81087) |
 | **Dialpad** | AI Engineer, Voice Designer | Kitchener, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8601273002) |
 | **Dialpad** | AI Engineer, Voice Designer | Vancouver, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8597852002) |
 | **Mistral AI** | AI Deployment Strategist - Canada | Montreal | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/mistral/ebbae799-78e9-4705-97bc-9f86d359f56f/apply) |
@@ -441,6 +441,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: July 6, 2026
+**Last Updated**: July 7, 2026
 
 </div>
