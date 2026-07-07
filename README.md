@@ -135,8 +135,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Capco** | Intermediate Backend Developer (Contr... | Toronto | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8024264) |
 | **Cerebras Systems** | Network Security Engineer | Remote, Californi... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cerebrassystems/jobs/7782108003) |
 | **Cerebras Systems** | Hardware / Low Level Security Engineer | Remote, Californi... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cerebrassystems/jobs/7782099003) |
-| **Affirm** | Software Engineer II, Backend (Reliab... | Remote Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7764836003) |
-| **Dialpad** | Software Engineer (Growth) | Vancouver, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8599677002) |
+| **Affirm** | Software Engineer II, Backend (Reliab... | Remote Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7764836003) |
+| **Dialpad** | Software Engineer (Growth) | Vancouver, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8599677002) |
 | **Citi** | Python Application Developer, Officer | Mississauga Ontar... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Python-Application-Developer--Officer_26973066) |
 | **Citi** | Full Stack Developer (React, Python) ... | Mississauga Ontar... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Full-Stack-Developer--React--Python----Assistant-Vice-President_26971772) |
 | **Brex** | Software Engineer II, Backend | Vancouver, Britis... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://www.brex.com/careers/8603327002?gh_jid=8603327002) |
