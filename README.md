@@ -121,7 +121,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sanofi** | Software Engineer | Toronto, ON | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Software-Engineer_R2859187) |
 | **Cisco** | Software Developer--Cisco Innovation ... | Toronto, Ontario,... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Toronto-Ontario-Canada/Software-Developer--Cisco-Innovation-Labs_2017703) |
 | **Cisco** | Développeur ASIC I (Temps plein) – Ca... | Kanata, Ontario, ... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Dveloppeur-ASIC-I--Temps-plein----Canada-ASIC-Developer-I--Full-Time----Canada-ENG-CPO-WTG-ETR_2016920) |
-| **Oracle** | Data Systems Software Engineer 1 | Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/337774) |
+| **Oracle** | Data Systems Software Engineer 1 | Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/337774) |
 | **Mastercard** | Information Security Engineer II | Vancouver, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Information-Security-Engineer-II_R-279731-1) |
 | **Expedia Group** | Développeur logiciel III (généraliste... | Quebec | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://expedia.wd108.myworkdayjobs.com/private/job/Canada---Quebec---Montreal/Dveloppeur-logiciel-III--pleine-pile---Contenu----Software-Developer-III--Full-Stack---Content-_R-106556-2) |
 | **Expedia Group** | Développeur logiciel II (généraliste ... | Quebec | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://expedia.wd108.myworkdayjobs.com/private/job/Canada---Quebec---Montreal/Dveloppeur-logiciel-II--pleine-pile---Contenu----Software-Developer-II--Full-Stack---Content-_R-106551) |
@@ -164,7 +164,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cohere** | Data Annotation Specialist, Software ... | Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/5d31ba60-683a-4d59-8059-3f728b772a9e/application) |
 | **General Motors** | Fall Co-op- Embedded Software Test De... | Markham, Ontario,... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Fall-Co-op--Embedded-Software-Test-Developer---Propulsion-and-Thermal-Management_JR-202613388) |
 | **Mistral AI** | Systems Engineer, HPC (US & Canada) | Montreal | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/mistral/18347854-1639-43f7-a0ff-7dfed538420a/apply) |
-| **Fortinet** | Embedded Software Developer | Burnaby, BC, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23300) |
+| **Fortinet** | Embedded Software Developer | Burnaby, BC, Canada | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23300) |
 | **TD Synnex** | IT Business System Engineer – DevOps ... | Mississauga, Onta... | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mississauga-Ontario-Canada/IT-Business-System-Engineer---DevOps-for-EDI-and-Microservices--Ingnieur-des-systmes-d-affaires-TI---DevOps-pour-l-EDI-et-les-microservices_R52284) |
 | **Lyft** | Software Engineer, Frontend - Lyft Ur... | Toronto, Canada | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8594759002?gh_jid=8594759002) |
 | **Okta** | Software Engineer II, Core Identity (... | Toronto, Ontario,... | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://www.okta.com/company/careers/opportunity/8001096?gh_jid=8001096) |
@@ -249,7 +249,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sanofi** | Data and AI Engineer | Toronto, ON | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Data-and-AI-Engineer_R2857077) |
 | **WSP** | Designer, Cable Containment, Rail and... | Toronto, ON, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89581) |
 | **TD Bank** | Quality Engineer I - Mainframe | Toronto, Ontario | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Quality-Engineer-I---Mainframe_R_1488449) |
-| **WSP** | Ingénieur civil – Génie aéroportuaire | Brossard, QC, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89518) |
+| **WSP** | Ingénieur civil – Génie aéroportuaire | Brossard, QC, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89518) |
 | **ABB** | Gestionnaire de la formation | Bromont, Quebec, ... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bromont-Quebec-Canada/Gestionnaire-de-la-formation_JR00039127) |
 | **Citi** | GenAI Platform Engineer - Python | Mississauga Ontar... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/GenAI-Platform-Engineer---Python_26960735) |
 | **WSP** | Junior Geotechnical Engineer-in-Training | Terrace, BC, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/81087) |
@@ -284,13 +284,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Fortinet** | Technical Support Engineer | Ottawa, ON, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23387) |
 | **Vertiv** | Canada Power Field Service Representa... | NS, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20264167) |
 | **RTX** | Computer Support Specialist | On, CA | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MIDLAND-450--450-Leitz-Rd--BLDG-450/Computer-Support-Specialist_01855327) |
-| **Honeywell** | Field Service Engineer II | Calgary, AB, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/149346) |
+| **Honeywell** | Field Service Engineer II | Calgary, AB, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/149346) |
 | **ABB** | R&D Mechanical Engineer - Product Sup... | Jean | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Saint-Jean-sur-Richelieu-Quebec-Canada/Mechanical-Engineer---Product-Support_JR00039003) |
 | **HP Inc** | Print Software Program Manager | Vancouver, Washin... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Print-Software-Program-Manager_3163374-2) |
 | **HP Inc** | Print Software Program Manager | Vancouver, Washin... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Print-Software-Program-Manager_3163380-1) |
 | **Leidos** | Application Support Engineer   Defence | Melbourne, Victor... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Melbourne-Victoria-Australia/Application-Support-Engineer---Defence_R-00185591) |
 | **Honeywell** | Advanced Field Service Engineer – BMS | Abbotsford, Victo... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/150718) |
-| **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20274831) |
+| **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20274831) |
 | **SS&C Technologies** | Associate, Operations | Halifax, Canada | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Halifax-Canada/Associate--Operations_R43253) |
 | **Stripe** | Credit Operations Collections Analyst | Toronto, Atlanta,... | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7722943) |
 
@@ -441,6 +441,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: July 7, 2026
+**Last Updated**: July 8, 2026
 
 </div>
