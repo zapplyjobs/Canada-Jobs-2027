@@ -113,8 +113,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Kabam** | Software Engineer (Gameplay) Co-op | Vancouver | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/kabam/ad42a9d4-838d-443e-be94-e18b9097851e/apply) |
 | **Microsoft** | Software Engineer II - Full Stack | Vancouver, Britis... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556753316) |
 | **Microsoft** | Software Engineer II - AI Engineering | Vancouver, Britis... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556753319) |
-| **MongoDB** | Software Engineer 3, Query Integration | Toronto | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=8026663) |
-| **MongoDB** | Software Engineer 3, Query Integration | Vancouver | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=8026658) |
+| **MongoDB** | Software Engineer 3, Query Integration | Toronto | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=8026663) |
+| **MongoDB** | Software Engineer 3, Query Integration | Vancouver | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=8026658) |
 | **Citi** | Full Stack Java Engineer | Mississauga Ontar... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Full-Stack-Java-Engineer_26973940) |
 | **Sanofi** | Software Engineer | Toronto, ON | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Software-Engineer_R2859178) |
 | **Sanofi** | Software Engineer | Toronto, ON | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Software-Engineer_R2859186) |
