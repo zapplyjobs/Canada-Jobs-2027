@@ -1,28 +1,26 @@
 /**
- * Canada-Tech-Jobs-2027-private Configuration
+ * Canada-Jobs-2027 Configuration
  */
 module.exports = {
   version: 1,
   repoPrefix: 'can',
+  buttonPrefix: 'ngj-can',
   headingImageAlt: 'Canada Tech Jobs 2027',
   title: 'Canada Tech Jobs 2027',
-  tagline: '(Private Verification Sandbox)',
+  tagline: '',
   jobCountBadgeLabel: 'Canada Tech Jobs',
-  descriptionLine1: '🚀 Entry-level, new-grad, and early-career tech jobs across Canada, sourced live from the canada-tech-jobs R2 feed and reviewed privately before any public rollout.',
+  descriptionLine1: '🚀 Entry-level, new-grad, and early-career tech jobs across Canada, sourced live and updated in real time.',
   descriptionLine2: '',
   noteType: 'TIP',
-  noteText: '🔒 Private verification sandbox. The workflow runs on manual trigger only (no schedule) until go-live — no public surface yet.',
-  features: { internships: false, moreResources: false, showVisaColumn: false },
+  noteText: '🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](CONTRIBUTING-GUIDE.md).',
+  jobsSectionHeader: 'Fresh Canada Tech Jobs 2027',
+  features: {
+    internships: false,
+    moreResources: true
+  },
   defaultCategory: 'other',
-  // R2 feed location (consumed by update-readme-only.js)
   feedKey: 'canada-tech-jobs.jsonl',
   r2Prefix: 'data/',
-  // Rendered into the README top section as a go-live checklist (see consumer/lib/readme-generator.js)
-  goLiveSecrets: [
-    { name: 'R2_ACCESS_KEY_ID', description: 'Cloudflare R2 access key (set in repo Settings → Secrets before enabling the workflow).' },
-    { name: 'R2_SECRET_ACCESS_KEY', description: 'Cloudflare R2 secret access key.' },
-    { name: 'R2_ENDPOINT', description: 'R2 S3 endpoint, e.g. https://<accountid>.r2.cloudflarestorage.com.' },
-    { name: 'R2_BUCKET_NAME', description: 'R2 bucket holding the data/ feed (e.g. zjp-data).' },
-    { name: 'GH_PAT', description: 'GitHub PAT with repo scope — used by the workflow to checkout and push the regenerated README.' },
-  ],
+  filters: { locations: ['canada'] },
+  activeWindowDays: 14
 };
