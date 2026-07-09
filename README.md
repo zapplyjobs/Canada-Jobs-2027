@@ -24,23 +24,6 @@
 
 </div>
 
-> [!TIP]
-> 🔒 Private verification sandbox. The workflow runs on manual trigger only (no schedule) until go-live — no public surface yet.
----
-
-
-## 🔑 Required secrets (go-live)
-
-This is a **private verification sandbox** — the workflow runs on manual trigger only and no schedule is set. To regenerate the README against the live R2 feed, set each of these under **Settings → Secrets and variables → Actions** before triggering the workflow:
-
-- `R2_ACCESS_KEY_ID` — Cloudflare R2 access key (set in repo Settings → Secrets before enabling the workflow).
-- `R2_SECRET_ACCESS_KEY` — Cloudflare R2 secret access key.
-- `R2_ENDPOINT` — R2 S3 endpoint, e.g. https://<accountid>.r2.cloudflarestorage.com.
-- `R2_BUCKET_NAME` — R2 bucket holding the data/ feed (e.g. zjp-data).
-- `GH_PAT` — GitHub PAT with repo scope — used by the workflow to checkout and push the regenerated README.
-
----
-
 
 
 ## **Website & Autofill Extension**
