@@ -22,5 +22,6 @@ module.exports = {
   feedKey: 'canada-jobs.jsonl',
   r2Prefix: 'data/',
   filters: { locations: ['canada'] },
-  activeWindowDays: 14
+  activeWindowDays: 14,
+  contributorLocation: 'Canada'
 };
