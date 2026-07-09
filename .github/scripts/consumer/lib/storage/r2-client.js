@@ -26,9 +26,16 @@ function createR2Client(options = {}) {
   const bucket = process.env.R2_BUCKET_NAME;
   if (!bucket) throw new Error('R2_BUCKET_NAME env var not set');
 
+  // OUT-CANADABOARD-R2-1: normalize endpoint (ensure https:// protocol) + forcePathStyle for R2.
+  // The S3 SDK throws 'Invalid URL' if R2_ENDPOINT lacks a protocol (e.g. '<acct>.r2.cloudflarestorage.com').
+  const rawEndpoint = process.env.R2_ENDPOINT;
+  const endpoint = rawEndpoint && !/^https?:\/\//i.test(rawEndpoint)
+    ? `https://${rawEndpoint}`
+    : rawEndpoint;
   const client = new S3Client({
     region: 'auto',
-    endpoint: process.env.R2_ENDPOINT,
+    endpoint,
+    forcePathStyle: true,
     credentials: {
       accessKeyId: process.env.R2_ACCESS_KEY_ID,
       secretAccessKey: process.env.R2_SECRET_ACCESS_KEY,
