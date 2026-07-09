@@ -9,8 +9,6 @@
 
 # Canada Tech Jobs 2027
 
-(Private Verification Sandbox)
-
 </div>
 
 <p align="center">🚀 Entry-level, new-grad, and early-career tech jobs across Canada, sourced live from the canada-tech-jobs R2 feed and reviewed privately before any public rollout.</p>
