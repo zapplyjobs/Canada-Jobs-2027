@@ -23,12 +23,12 @@ const { S3Client, PutObjectCommand, GetObjectCommand, HeadObjectCommand, ListObj
 function createR2Client(options = {}) {
   const { prefix = '', retries = 3 } = options;
 
-  const bucket = process.env.R2_BUCKET_NAME;
-  if (!bucket) throw new Error('R2_BUCKET_NAME env var not set');
+  const stripQuotes = v => (v || '').trim().replace(/^["']|["']$/g, '');
+  const bucket = stripQuotes(process.env.R2_BUCKET_NAME);
 
-  // OUT-CANADABOARD-R2-1: normalize endpoint (ensure https:// protocol) + forcePathStyle for R2.
-  // The S3 SDK throws 'Invalid URL' if R2_ENDPOINT lacks a protocol (e.g. '<acct>.r2.cloudflarestorage.com').
-  const rawEndpoint = process.env.R2_ENDPOINT;
+  // OUT-CANADABOARD-R2-1: normalize endpoint — strip quotes (secret may have literal quotes),
+  // ensure https:// protocol, + forcePathStyle for R2. Fixes 'Invalid URL' / ENOTFOUND errors.
+  const rawEndpoint = (process.env.R2_ENDPOINT || '').trim().replace(/^["']|["']$/g, '');
   const endpoint = rawEndpoint && !/^https?:\/\//i.test(rawEndpoint)
     ? `https://${rawEndpoint}`
     : rawEndpoint;
@@ -37,8 +37,8 @@ function createR2Client(options = {}) {
     endpoint,
     forcePathStyle: true,
     credentials: {
-      accessKeyId: process.env.R2_ACCESS_KEY_ID,
-      secretAccessKey: process.env.R2_SECRET_ACCESS_KEY,
+      accessKeyId: stripQuotes(process.env.R2_ACCESS_KEY_ID),
+      secretAccessKey: stripQuotes(process.env.R2_SECRET_ACCESS_KEY),
     },
     maxAttempts: retries,
   });
