@@ -11,8 +11,7 @@
 
 </div>
 
-<p align="center">🚀 Entry-level, new-grad, and early-career tech jobs across Canada, sourced live from the canada-tech-jobs R2 feed and reviewed privately before any public rollout.</p>
-
+<p align="center">🚀 Entry-level, new-grad, and early-career tech jobs across Canada
 <div align="center">
 
 ![Canada Tech Jobs](https://img.shields.io/badge/Canada_Tech_Jobs-418-brightgreen?style=flat&logo=briefcase)
