@@ -200,8 +200,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Schweitzer Engineering Laboratories** | Power Systems Automation Engineer | Canada Markham + ... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Canada---Markham/Project-Engineer-III---Auto_2025-19158) |
 | **Schweitzer Engineering Laboratories** | Power Systems Protection Engineer | Brossard | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Canada---Brossard/Power-Systems-Protection-Engineer_2026-19476-1) |
 | **WSP** | Intermediate Electrical Engineer, Res... | Vancouver, BC, Ca... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89952) |
-| **WSP** | Electrical Engineer, Buildings | Victoria, BC, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/83532) |
-| **WSP** | High Voltage Electrical Construction ... | Vancouver, WA, Un... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89802) |
+| **WSP** | Electrical Engineer, Buildings | Victoria, BC, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/83532) |
+| **WSP** | High Voltage Electrical Construction ... | Vancouver, WA, Un... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89802) |
 | **General Motors** | Software Test Engineering - Autonomou... | Markham, Ontario,... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Software-Test-Engineering---Autonomous-Interface-Software_JR-202613665-1) |
 | **Regal Rexnord** | Electrical Design Engineer | Langley, British ... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Langley-British-Columbia-Canada/Electrical-Engineering-Designer_R26_01705-1) |
 | **Ciena** | Optical Components Test Engineer - Ot... | Ottawa | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Components-Test-Engineer_R030610) |
@@ -247,7 +247,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TD Bank** | IT Support Analyst III (AI/ML) | Toronto, Ontario | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/IT-Support-Analyst-III--AI-ML-_R_1486523) |
 | **ICF** | Expert AI Enablement Consultant (On-C... | Ottawa, ON | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Ottawa-ON/Expert-AI-Enablement-Consultant--On-Call-_R2602269-1) |
 | **Sanofi** | Data and AI Engineer | Toronto, ON | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Data-and-AI-Engineer_R2857077) |
-| **WSP** | Designer, Cable Containment, Rail and... | Toronto, ON, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89581) |
+| **WSP** | Designer, Cable Containment, Rail and... | Toronto, ON, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89581) |
 | **TD Bank** | Quality Engineer I - Mainframe | Toronto, Ontario | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Quality-Engineer-I---Mainframe_R_1488449) |
 | **WSP** | Ingénieur civil – Génie aéroportuaire | Brossard, QC, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89518) |
 | **ABB** | Gestionnaire de la formation | Bromont, Quebec, ... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bromont-Quebec-Canada/Gestionnaire-de-la-formation_JR00039127) |
@@ -282,14 +282,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Leidos** | Application Support Engineer | Scoresby, Victori... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Scoresby-Victoria-Australia/Application-Support-Engineer_R-00185898) |
 | **Tailscale** | Customer Support Engineer | Remote (Canada) | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tailscale/jobs/4709826005) |
 | **Fortinet** | Technical Support Engineer | Ottawa, ON, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23387) |
-| **Vertiv** | Canada Power Field Service Representa... | NS, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20264167) |
+| **Vertiv** | Canada Power Field Service Representa... | NS, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20264167) |
 | **RTX** | Computer Support Specialist | On, CA | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MIDLAND-450--450-Leitz-Rd--BLDG-450/Computer-Support-Specialist_01855327) |
 | **Honeywell** | Field Service Engineer II | Calgary, AB, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/149346) |
 | **ABB** | R&D Mechanical Engineer - Product Sup... | Jean | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Saint-Jean-sur-Richelieu-Quebec-Canada/Mechanical-Engineer---Product-Support_JR00039003) |
 | **HP Inc** | Print Software Program Manager | Vancouver, Washin... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Print-Software-Program-Manager_3163374-2) |
 | **HP Inc** | Print Software Program Manager | Vancouver, Washin... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Print-Software-Program-Manager_3163380-1) |
 | **Leidos** | Application Support Engineer   Defence | Melbourne, Victor... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Melbourne-Victoria-Australia/Application-Support-Engineer---Defence_R-00185591) |
-| **Honeywell** | Advanced Field Service Engineer – BMS | Abbotsford, Victo... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/150718) |
+| **Honeywell** | Advanced Field Service Engineer – BMS | Abbotsford, Victo... | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/150718) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20274831) |
 | **SS&C Technologies** | Associate, Operations | Halifax, Canada | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Halifax-Canada/Associate--Operations_R43253) |
 | **Stripe** | Credit Operations Collections Analyst | Toronto, Atlanta,... | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7722943) |
@@ -333,7 +333,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **WSP** | Intermediate Highway Designer, Engineer | Thunder Bay, ON, ... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89925) |
 | **D.E. Shaw** | Trading System Data Specialist | Montreal | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/8028470) |
 | **Astera Labs** | Product Applications Engineer (Switch... | Vancouver, Britis... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/asteralabs/jobs/4609456005) |
-| **Rocket Lab** | Optical Engineer II | Toronto, CAN | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7779900003) |
+| **Rocket Lab** | Optical Engineer II | Toronto, CAN | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7779900003) |
 | **Zayo** | Network Engineer III - Packet | Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zayo.wd1.myworkdayjobs.com/Zayo_Careers/job/Canada/Network-Engineer-III---Packet_R0016598) |
 | **Autodesk** | Intern, Content Management | Toronto, ON, CAN | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Content-Management_26WD98394-1) |
 | **Autodesk** | Treasury Manager | Toronto, ON, CAN | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Treasury-Manager_26WD96333-1) |
@@ -441,6 +441,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: July 8, 2026
+**Last Updated**: July 9, 2026
 
 </div>
