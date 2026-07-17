@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1341-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-993-informational?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1336-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-990-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-216-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -116,8 +116,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **General Motors** | Vehicle Dynamics Controls Developer | Markham Ontario C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Vehicle-Dynamics-Controls-Developer_JR-202614653) |
 | **GitLab** | Backend Engineer (Ruby), AI Engineeri... | Remote, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gitlab/jobs/8620720002) |
 | **Amazon Web Services Canada, Inc.** | Gestionnaire de comptes techniques, C... | Montreal, QC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10469075/gestionnaire-de-comptes-techniques-cloud-technical-account-manager-enterprise) |
-| **Amazon Development Centre Canada ULC** | Software Engineer, SCOT-Fulfillment O... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10469424/software-engineer-scot-fulfillment-optimization) |
 | **Amazon Canada Fulfillment Services, ULC** | Software Engineer, SCOT-Fulfillment O... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10469425/software-engineer-scot-fulfillment-optimization-outbound-optimization) |
+| **Amazon Development Centre Canada ULC** | Software Engineer, SCOT-Fulfillment O... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10469424/software-engineer-scot-fulfillment-optimization) |
 | **WSP** | Corporate Security Specialist | Ottawa, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90668) |
 | **Robinhood** | Web Developer, Crypto Expansion | Toronto, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/robinhood/jobs/8049662?t=gh_src=&gh_jid=8049662) |
 | **Magical** | Software Engineer | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/magical/0f575ece-98cf-4366-a7f6-ef7eca2873b7/application) |
@@ -303,8 +303,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Alo Yoga** | Gestionnaire des ventes et du service... | Saint Catherine S... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6111010004?gh_jid=6111010004) |
 | **KION Group** | Resident Maintenance Technician | Montreal, QC, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Montreal-QC-Canada/Resident-Maintenance-Technician_JR-0089790-1) |
 | **Gilead Sciences** | Sr Manager, Medical Affairs | Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/Canada---Ontario---Mississauga/Sr-Manager--Medical-Affairs_R0053474-2) |
-| **MaintainX** | Représentant(e) en développement des ... | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/maintainx/c2a37fd8-9d94-4df8-baf0-7038bb29ae5a/application) |
-| **MaintainX** | Représentant(e) en développement des ... | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/maintainx/ff0cd3c0-0103-4a36-ac57-4771a4fc0b0b/application) |
 | **Allstate** | Field Claim Specialist Auto | Alberta | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Alberta-Office---Calgary/Field-Claim-Specialist-Auto_R32149) |
 | **Microsoft** | Stagiaire en opérations critiques / C... | Quebec City, Québ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556866705) |
 | **SharkNinja** | Gestionnaire de la communauté Social ... | Montréal, Quebec,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4693018006) |
@@ -553,7 +551,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1341 current opportunities from 216 companies**
+**🎯 1336 current opportunities from 216 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
