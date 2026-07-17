@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1338-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-992-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-216-blue?style=flat&logo=building)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1334-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-989-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-217-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -116,8 +116,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **General Motors** | Vehicle Dynamics Controls Developer | Markham Ontario C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Vehicle-Dynamics-Controls-Developer_JR-202614653) |
 | **GitLab** | Backend Engineer (Ruby), AI Engineeri... | Remote, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gitlab/jobs/8620720002) |
 | **Amazon Web Services Canada, Inc.** | Gestionnaire de comptes techniques, C... | Montreal, QC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10469075/gestionnaire-de-comptes-techniques-cloud-technical-account-manager-enterprise) |
-| **Amazon Development Centre Canada ULC** | Software Engineer, SCOT-Fulfillment O... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10469424/software-engineer-scot-fulfillment-optimization) |
 | **Amazon Canada Fulfillment Services, ULC** | Software Engineer, SCOT-Fulfillment O... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10469425/software-engineer-scot-fulfillment-optimization-outbound-optimization) |
+| **Amazon Development Centre Canada ULC** | Software Engineer, SCOT-Fulfillment O... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10469424/software-engineer-scot-fulfillment-optimization) |
 | **WSP** | Corporate Security Specialist | Ottawa, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90668) |
 | **Robinhood** | Web Developer, Crypto Expansion | Toronto, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/robinhood/jobs/8049662?t=gh_src=&gh_jid=8049662) |
 | **Magical** | Software Engineer | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/magical/0f575ece-98cf-4366-a7f6-ef7eca2873b7/application) |
@@ -131,7 +131,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lumentum** | Embedded Software Engineer | Ottawa | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer_20251645) |
 | **Ciena** | Experienced Photonic Card Software De... | Ottawa | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031262) |
 | **Oracle** | Application Software Engineer 2 | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/339082) |
-| **Capco** | Intermediate Java Backend Developer | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8045394) |
 | **Fortinet** | Full Stack Developer | Burnaby, BC, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22123) |
 | **Kabam** | Software Engineer (Gameplay) Co-op | Vancouver | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/kabam/ad42a9d4-838d-443e-be94-e18b9097851e/apply) |
 | **State Street** | Full Stack Software Engineer, Officer | Toronto, Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Full-Stack-Software-Engineer--Officer_R-792055) |
@@ -214,7 +213,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Development Centre Canada ULC** | Machine Learning Engineer, AICE - AI ... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10468233/machine-learning-engineer-aice-ai-center-of-excellence) |
 | **Ideogram** | Applied Machine Learning | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/ideogram/66610ff2-a888-44cf-b6cb-fd0116949697/application) |
 | **Lyft** | Machine Learning Engineer, Lyft Busin... | Toronto, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8620859002?gh_jid=8620859002) |
-| **Wealthsimple** | Sr Data Scientist, AI Products | Remote (Canada) | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/wealthsimple/ca658e54-6569-4081-84ac-a9b7541e7af8/application) |
 | **Amazon Development Centre Canada ULC** | Machine Learning Engineer, AICE - AI ... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10461696/machine-learning-engineer-aice-ai-center-of-excellence) |
 | **Cohere** | Machine Learning Intern/Co-op  (Fall,... | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) |
 | **Cresta** | Machine Learning Engineering Intern | Toronto, Canada (... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/4123863008) |
@@ -335,6 +333,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lyft** | Associate Program Manager, Technical ... | Toronto, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8599672002?gh_jid=8599672002) |
 | **Proofpoint** | Contract Product Support Engineer | Toronto, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Toronto-Canada/Contract-Product-Support-Engineer_R14456) |
 | **CAE** | C-MO-420 Manufacturing Operations Man... | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-MO-420-Manufacturing-Operations-Management-Intern_122406) |
+| **Saviynt** | Customer Success Manager - IAM/IGA - ... | Remote Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/saviynt/99cf4fa0-a96e-4f8b-b46f-dde4c47aa9a8/apply) |
 | **IEM** | Operations Manager - Switchgear | Surrey, British C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4322650009) |
 | **Lyft** | Program Manager, Autonomous Partnersh... | Toronto, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8630918002?gh_jid=8630918002) |
 | **Baxter International** | Bilingual Technical Support Specialis... | Mississauga, Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://baxter.wd1.myworkdayjobs.com/baxter/job/Mississauga-Ontario/Bilingual-Technical-Support-Specialist--French---English-_JR-203225-1) |
@@ -418,7 +417,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Development Centre Canada ULC** | Software Development Engineer II, AWS... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10476533/software-development-engineer-ii-aws-eventbridge) |
 | **Homebase** | UX Engineer (Hybrid) | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/homebase/df64d63b-b8e2-4133-8c18-36d0eb2411c1/application) |
 | **Rockstar Games** | IT Workflow Coordinator | Oakville, Ontario... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rockstargames/jobs/7800929003) |
-| **Wealthsimple** | IT Systems Administrator | Remote (Canada) | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/wealthsimple/58eb0a4c-928d-4078-a3eb-7f15663edf6e/application) |
 | **BMO** | Technology Development and Innovation... | Toronto, ON, CAN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/IT-Development-and-Emerging-Technology-Manager_R260011202) |
 | **Cadence** | Mixed Signal Systems and Verification... | TORONTO 02 + 1 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/TORONTO-02/Mixed-Signal-Systems-and-Verification-Engineer-II_R54499) |
 | **Cadence** | Firmware Design Engineer | MOUNT ROYAL Montr... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/MOUNT-ROYAL-Montreal/Ingnieur-en-conception-de-micrologiciel---Firmware-Design-Engineer_R55507) |
@@ -491,6 +489,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon.com.ca, ULC - A49** | Fall 2026 Applied Science Internship ... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394248/fall-2026-applied-science-internship-canada-phd-student-science-recruiting) |
 | **Apple** | CA - Specialist: Seasonal, Part-time | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
 | **Okta** | Product Manager, Zero Trust Authentic... | Toronto, Ontario,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.okta.com/company/careers/opportunity/8072528?gh_jid=8072528) |
+| **Coinbase** | Creative Director | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.coinbase.com/careers/positions/8054862?gh_jid=8054862) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -551,7 +550,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1338 current opportunities from 216 companies**
+**🎯 1334 current opportunities from 217 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
