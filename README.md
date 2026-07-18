@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1346-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-993-informational?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1343-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-992-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-221-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -301,7 +301,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Comcast** | Xfinity Retail Sales Consultant | Vancouver, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/WA---Vancouver-7809-NE-Vancouver-Plaza-Dr---Retail-XFR3551/Xfinity-Retail-Sales-Consultant_R440973-1) |
 | **AspenTech** | Partenaire Sénior, Expérience Employé | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aspentech.wd5.myworkdayjobs.com/AspenTech/job/Montreal-Mansfield/Partenaire-Snior--Exprience-Employ_R9245) |
 | **Microsoft** | Spécialiste des ventes IA pour la mai... | Quebec City, Québ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556924765) |
-| **Microsoft** | Gestionnaire de compte du succès clie... | Montreal, Québec,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556924773) |
 | **Alo Yoga** | Gestionnaire des ventes et du service... | Saint Catherine S... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6111010004?gh_jid=6111010004) |
 | **KION Group** | Resident Maintenance Technician | Montreal, QC, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Montreal-QC-Canada/Resident-Maintenance-Technician_JR-0089790-1) |
 | **Gilead Sciences** | Sr Manager, Medical Affairs | Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/Canada---Ontario---Mississauga/Sr-Manager--Medical-Affairs_R0053474-2) |
@@ -370,7 +369,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **StackAdapt** | Manager, Ad Operations | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/stackadapt/jobs/4308135009) |
 | **Microsoft** | Responsable de la réussite client/ Cu... | Montreal, Québec,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556924015) |
 | **Capco** | Program Manager | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8053605) |
-| **Microsoft** | Customer Success Account Manager | Vancouver, Britis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556924778) |
 | **Avis Budget Group** | Superviseur des Opérations   Operatio... | 850 Jean Paul Laf... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/850-Jean-Paul-Laframboise-Dorval-QC/Superviseur-des-Oprations---Operations-Supervisor_R0189673) |
 | **CAE** | In-Service Support (ISS) Project Manager | Montreal St Laure... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/In-Service-Support--ISS--Project-Manager_122505) |
 | **Cummins** | Engine Field Service Technician (Base... | Fort McMurray, AB... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430190) |
@@ -453,7 +451,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **SS&C Technologies** | Intern - Technical | Ontario Toronto +... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Ontario-Toronto/Intern---Technical_R40419) |
 | **Instacart** | Engineering Manager, Order Experience | Remote (ON, AB, B... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://instacart.careers/job/?gh_jid=8056110) |
 | **Docker** | Director, Business Development | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/docker/88de21a4-028a-4d79-980e-1abd7bf4e4c8/application) |
-| **Microsoft** | Data Center Technician | Greater Toronto, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556928291) |
 | **GitLab** | Engineering Manager, Tenant Scale:Git | Remote, Americas;... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gitlab/jobs/8617538002) |
 | **Citi** | Application Development Manager, Trad... | Mississauga Ontar... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Application-Development-Manager--Trading-Platforms--Vice-President_26974924) |
 | **CrowdStrike** | Associate Technical Account Manager (... | Canada AB + 5 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Canada---Remote-AB/Associate-Technical-Account-Manager--Remote--CAN-_R29341) |
@@ -498,6 +495,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Block** | Applied Research Intern, Proactive In... | Toronto, Ontario ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) |
 | **Cohere** | Research Internship (Fall, 2026) | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) |
 | **Amazon.com.ca, ULC - A49** | Fall 2026 Applied Science Internship ... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394248/fall-2026-applied-science-internship-canada-phd-student-science-recruiting) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -558,7 +556,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1346 current opportunities from 221 companies**
+**🎯 1343 current opportunities from 221 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
