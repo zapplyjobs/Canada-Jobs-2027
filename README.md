@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1386-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1032-informational?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1346-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1000-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-221-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -285,7 +285,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Avis Budget Group** | Car Detailer | 1 Convair Dr East... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/1-Convair-Dr-East-Etobicoke-ON-M9W-6Z9/Car-Detailer_R0188078) |
 | **Coca-Cola** | Maintenance Technician II - Fairlife ... | ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Canada---ON---Peterborough/Maintenance-Technician-II---Fairlife----4300---433A-Red-Seal-required_R-137823) |
 | **Sherwin-Williams** | Management and Sales Trainee | Regina, SK, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2617208) |
-| **Sherwin-Williams** | Collision Repair Painter - Technical ... | Toronto, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2617751) |
 | **Stantec** | Analyste - projet en adaptation aux c... | Montreal, QC, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006779) |
 | **Lightspeed** | Concepteur(trice) de produits, Commer... | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/803779c9-44ac-47ca-88df-883c1f3bce01/application) |
 | **Avis Budget Group** | Car Detailer - Part time | 10441 25 St NE, C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/10441-25-St-NE-Calgary-AB-T3N-0A1/Car-Detailer---Part-time_R0188881-1) |
@@ -558,7 +557,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1386 current opportunities from 221 companies**
+**🎯 1346 current opportunities from 221 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
