@@ -120,8 +120,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **General Motors** | Vehicle Dynamics Controls Developer | Markham Ontario C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Vehicle-Dynamics-Controls-Developer_JR-202614653) |
 | **GitLab** | Backend Engineer (Ruby), AI Engineeri... | Remote, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gitlab/jobs/8620720002) |
 | **Amazon Web Services Canada, Inc.** | Gestionnaire de comptes techniques, C... | Montreal, QC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10469075/gestionnaire-de-comptes-techniques-cloud-technical-account-manager-enterprise) |
-| **Amazon Development Centre Canada ULC** | Software Engineer, SCOT-Fulfillment O... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10469424/software-engineer-scot-fulfillment-optimization) |
 | **Amazon Canada Fulfillment Services, ULC** | Software Engineer, SCOT-Fulfillment O... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10469425/software-engineer-scot-fulfillment-optimization-outbound-optimization) |
+| **Amazon Development Centre Canada ULC** | Software Engineer, SCOT-Fulfillment O... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10469424/software-engineer-scot-fulfillment-optimization) |
 | **WSP** | Corporate Security Specialist | Ottawa, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90668) |
 | **Robinhood** | Web Developer, Crypto Expansion | Toronto, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/robinhood/jobs/8049662?t=gh_src=&gh_jid=8049662) |
 | **Magical** | Software Engineer | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/magical/0f575ece-98cf-4366-a7f6-ef7eca2873b7/application) |
@@ -566,6 +566,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: July 18, 2026
+**Last Updated**: July 19, 2026
 
 </div>
