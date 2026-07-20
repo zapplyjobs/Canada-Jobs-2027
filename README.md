@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1383-brightgreen?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1384-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1023-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-222-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -184,6 +184,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nokia** | Optical Firmware Integration and Test... | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37093) |
 | **Arlo** | Hardware Engineering Manager | Richmond, BC, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://arlo.wd12.myworkdayjobs.com/external_careers/job/Richmond-BC-Canada/Hardware-Engineering-Manager_JR100386) |
 | **Curtiss-Wright** | Electrical Engineer | Stratford | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/Canada-Stratford/Electrical-Engineer_JR12590) |
+| **Capco** | Consultant, Data Validation | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8072053) |
 | **TD Bank** | Audit Manager I, Financial Crimes Iss... | Toronto, Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Audit-Manager-I--Financial-Crimes-Issues-Validation--944-_R_1477749) |
 | **TD Bank** | Audit Manager II,  Financial Crimes B... | Toronto, Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Audit-Manager-II---Financial-Crimes-BAU-and-Regulatory-Issues-Validation--1077-_R_1497769) |
 
@@ -559,7 +560,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1383 current opportunities from 222 companies**
+**🎯 1384 current opportunities from 222 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
