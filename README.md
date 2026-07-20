@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1378-brightgreen?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1376-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1019-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-221-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -260,7 +260,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stripe** | ML Engineer Manager, AI Conversation ... | Toronto, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8022713) |
 | **Canadian Tire** | Director, Engineering Performance & A... | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Director--Engineering-Performance---AI-Metrics_JR163042) |
 | **GitLab** | Engineering Manager, AI Engineering: ... | Remote, Americas;... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gitlab/jobs/8603824002) |
-| **Magical** | AI Forward Deployed Engineer - Manager | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/magical/7954e740-3ba6-4aa3-aece-7bc5d72655e1/application) |
 | **Cresta** | Forward Deployed Engineering Intern (... | Toronto, Canada (... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5106468008) |
 | **Tenstorrent** | Buyer, Supply Chain - Contractor | Toronto, Ontario,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5190779007) |
 | **Cummins** | Supply Chain Coordinator | Winnipeg, MB, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433712) |
@@ -387,7 +386,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Air Liquide** | Branch Operations Manager | Montreal, QC - Bo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Montreal-QC---Boul-Ray-Lawson---Management---East-Region/Branch-Operations-Manager_R10095566) |
 | **Canadian Tire** | Assistant Manager, Operations, Great ... | Sault Ste. Marie, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Sault-Ste-Marie-ON/Assistant-Manager--Operations--Great-Northern-Rd_JR163275) |
 | **Alo Yoga** | Operations Associate (Part-Time) - Pa... | Vancouver, Britis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6111163004?gh_jid=6111163004) |
-| **Brex** | Revenue Operations Manager | Vancouver, Britis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.brex.com/careers/8621537002?gh_jid=8621537002) |
 | **Rocket Lab** | Operations Development Intern Fall 2026 | Toronto, CAN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7762789003) |
 
 <p align="center">Apply for more jobs at</p>
@@ -560,7 +558,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1378 current opportunities from 221 companies**
+**🎯 1376 current opportunities from 221 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
