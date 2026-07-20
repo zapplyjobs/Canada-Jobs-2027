@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1351-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1002-informational?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1357-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1008-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-221-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -397,6 +397,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **WSP** | Early Professional, Acoustics and Vib... | Aurora, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90849) |
+| **WSP** | Geotechnical Engineer - Hydro and Dams | Ottawa, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91031) |
 | **Capco** | GitHub Automation Engineer | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8071741) |
 | **Dialpad** | Applied Scientist | Vancouver, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8639037002) |
 | **Dialpad** | Applied Scientist | Kitchener, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8633549002) |
@@ -405,8 +407,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Development Centre Canada ULC** | Software Development Engineer II, Ads... | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10478030/software-development-engineer-ii-ads-marketing-effectiveness-intelligence) |
 | **Amazon Development Centre Canada ULC** | Applied Scientist, Demand Tech Planning | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477908/applied-scientist-demand-tech-planning) |
 | **WSP** | Chargé(e) de projet, industriels et m... | Iles, QC, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/80224) |
-| **WSP** | Ingénieur(e) en mécanique | Iles, QC, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/80227) |
-| **WSP** | Ingénieur(e) en électricité | Iles, QC, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/80228) |
 | **Stantec** | Intermediate Coastal Engineer | Vancouver, BC, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006775) |
 | **Stantec** | Bridge Engineer | Edmonton, AB, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006804) |
 | **Docker** | Director, Strategic Sales (SF Bay Area) | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/docker/f29f57fa-db23-43d3-9735-2ebafac3af06/application) |
@@ -494,9 +494,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cohere** | Research Internship (Fall, 2026) | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) |
 | **Amazon.com.ca, ULC - A49** | Fall 2026 Applied Science Internship ... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394248/fall-2026-applied-science-internship-canada-phd-student-science-recruiting) |
 | **Apple** | CA - Specialist: Seasonal, Part-time | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
+| **JPMorgan Chase** | Canada Subsidiary Banking Associate –... | Toronto, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210771654) |
+| **JP Morgan Chase** | Canada Subsidiary Banking Associate –... | Toronto, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771654) |
 | **Toast** | Territory Account Executive Vancouver | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.toasttab.com/jobs?gh_jid=8069221) |
-| **Hopper** | Finance & Strategy Manager,  HTS Fina... | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/hopper/8201d967-fe62-4502-b444-f9922927fe34/application) |
-| **Microsoft** | Account Technology Strategist | Calgary, Alberta,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556917838) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -557,7 +557,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1351 current opportunities from 221 companies**
+**🎯 1357 current opportunities from 221 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
