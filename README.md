@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1379-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1022-informational?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1381-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1024-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-222-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -499,7 +499,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Block** | Applied Research Intern, Proactive In... | Toronto, Ontario ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) |
 | **Cohere** | Research Internship (Fall, 2026) | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) |
 | **Amazon.com.ca, ULC - A49** | Fall 2026 Applied Science Internship ... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394248/fall-2026-applied-science-internship-canada-phd-student-science-recruiting) |
-| **Zip** | Solutions Director | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/zip/960839b0-a92d-48a7-94a1-8632cf6f6987/application) |
+| **OpenTable** | Account Executive | Montreal, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/opentable/jobs/8637454002) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -560,7 +560,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1379 current opportunities from 222 companies**
+**🎯 1381 current opportunities from 222 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
