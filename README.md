@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1382-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1024-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-222-blue?style=flat&logo=building)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1384-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1026-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-223-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -499,7 +499,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Block** | Applied Research Intern, Proactive In... | Toronto, Ontario ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) |
 | **Cohere** | Research Internship (Fall, 2026) | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) |
 | **Amazon.com.ca, ULC - A49** | Fall 2026 Applied Science Internship ... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394248/fall-2026-applied-science-internship-canada-phd-student-science-recruiting) |
-| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
+| **Sophos** | Threat Analyst 2 | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/sophos/1458b534-9d35-435a-9ccb-16dcffd53d7a/apply) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -560,7 +560,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1382 current opportunities from 222 companies**
+**🎯 1384 current opportunities from 223 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
