@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1396-brightgreen?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1395-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1036-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-226-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-225-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -302,7 +302,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Comcast** | Xfinity Retail Sales Consultant | Vancouver, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/WA---Vancouver-7809-NE-Vancouver-Plaza-Dr---Retail-XFR3551/Xfinity-Retail-Sales-Consultant_R440973-1) |
 | **AspenTech** | Partenaire Sénior, Expérience Employé | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aspentech.wd5.myworkdayjobs.com/AspenTech/job/Montreal-Mansfield/Partenaire-Snior--Exprience-Employ_R9245) |
 | **Microsoft** | Spécialiste des ventes IA pour la mai... | Quebec City, Québ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556924765) |
-| **Alo Yoga** | Gestionnaire des ventes et du service... | Saint Catherine S... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6111010004?gh_jid=6111010004) |
 | **KION Group** | Resident Maintenance Technician | Montreal, QC, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Montreal-QC-Canada/Resident-Maintenance-Technician_JR-0089790-1) |
 | **Gilead Sciences** | Sr Manager, Medical Affairs | Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/Canada---Ontario---Mississauga/Sr-Manager--Medical-Affairs_R0053474-2) |
 | **Allstate** | Field Claim Specialist Auto | Alberta | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Alberta-Office---Calgary/Field-Claim-Specialist-Auto_R32149) |
@@ -561,7 +560,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1396 current opportunities from 226 companies**
+**🎯 1395 current opportunities from 225 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
