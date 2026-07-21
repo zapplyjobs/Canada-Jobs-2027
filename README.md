@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1365-brightgreen?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1364-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1012-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-222-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -331,7 +331,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nasdaq** | Verafin – Office Support Coordinator | St. John's | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Office-Support-Coordinator_R0026520) |
 | **TD Bank** | TDS Operations Analyst II | Toronto, Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/TDS-Operations-Analyst-II_R_1499015-1) |
 | **Nasdaq** | Sr Analyst, Platform Operations | Toronto, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/CA-Toronto-York-St-2425/Sr-Analyst--Platform-Operations_R0025944) |
-| **Lyft** | Associate Program Manager, Technical ... | Toronto, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8599672002?gh_jid=8599672002) |
 | **Proofpoint** | Contract Product Support Engineer | Toronto, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Toronto-Canada/Contract-Product-Support-Engineer_R14456) |
 | **CAE** | C-MO-420 Manufacturing Operations Man... | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-MO-420-Manufacturing-Operations-Management-Intern_122406) |
 | **Okta** | Customer Success Operations Manager | Toronto, Ontario,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.okta.com/company/careers/opportunity/8070157?gh_jid=8070157) |
@@ -558,7 +557,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1365 current opportunities from 222 companies**
+**🎯 1364 current opportunities from 222 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
