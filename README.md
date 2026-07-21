@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1365-brightgreen?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1364-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1012-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-222-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -365,7 +365,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Microsoft** | Business Program Manager | Toronto, Ontario,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556933663) |
 | **Versapay** | Revenue & Accounting Operations Contr... | Canada (Remote) | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/versapay/1dca1668-db1f-4f23-b4f9-ca22e8b61e15/apply) |
 | **Cummins** | 14x14 Engine Field Service Technician... | Fort McMurray, AB... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2431403) |
-| **Axon** | Manager, Customer Success - Commonwealth | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7594070003) |
 | **BMO** | Receptionist/Branch Operations Admini... | Sherbrooke, QC, CAN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Sherbrooke-QC-CAN/Rceptionniste-Administrateur-trice--des-oprations-de-la-succursale--Nesbitt-Burns_R260020642) |
 | **Mastercard** | Specialist, Solutions Operations - Ag... | Toronto, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Specialist--Solutions-Operations---Agent-Suite_R-281517) |
 | **AstraZeneca** | Associate Director, Business Planning... | Mississauga | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Canada---Mississauga/Associate-Director--Business-Planning---Operations---12---Month-Contract_R-256278-1) |
@@ -558,7 +557,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1365 current opportunities from 222 companies**
+**🎯 1364 current opportunities from 222 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
