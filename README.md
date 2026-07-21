@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1367-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1015-informational?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1370-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1016-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-222-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -254,10 +254,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Canadian Tire** | Agentic AI Program Manager | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Agentic-AI-Program-Manager_JR157062-1) |
 | **Amazon Development Centre Canada ULC** | Software Development Engineer, AWS Am... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10469334/software-development-engineer-aws-amazon-connect-ai-voice-applications) |
 | **Lattice** | Engineering Manager, AI | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lattice.com/job?gh_jid=8623297002) |
-| **Stripe** | ML Engineer Manager, AI Conversation ... | Toronto, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8022713) |
 | **Canadian Tire** | Director, Engineering Performance & A... | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Director--Engineering-Performance---AI-Metrics_JR163042) |
 | **Cresta** | Forward Deployed Engineering Intern (... | Toronto, Canada (... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5106468008) |
 | **Stripe** | Head of Self-Serve Paid Media | San Francisco, Ne... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8068521) |
+| **Honeywell** | Technicien(ne) de service sur le terr... | Lachine, QC, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153680) |
+| **Sherwin-Williams** | Management and Sales Trainee | Edmonton, AB, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2617025) |
 | **Microsoft** | Stagiaire Technicien de Centre de Don... | Quebec City, Québ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556859421) |
 | **Tenstorrent** | Buyer, Supply Chain - Contractor | Toronto, Ontario,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5190779007) |
 | **Cummins** | Supply Chain Coordinator | Winnipeg, MB, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433712) |
@@ -281,7 +282,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Medtronic** | Training & Education Specialist | Brampton, Ontario... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Brampton-Ontario-Canada/Training---Education-Specialist_R72255-1) |
 | **Avis Budget Group** | Car Detailer | 1 Convair Dr East... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/1-Convair-Dr-East-Etobicoke-ON-M9W-6Z9/Car-Detailer_R0188078) |
 | **Coca-Cola** | Maintenance Technician II - Fairlife ... | ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Canada---ON---Peterborough/Maintenance-Technician-II---Fairlife----4300---433A-Red-Seal-required_R-137823) |
-| **Sherwin-Williams** | Management and Sales Trainee | Regina, SK, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2617208) |
 | **Lightspeed** | Concepteur(trice) de produits, Commer... | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/803779c9-44ac-47ca-88df-883c1f3bce01/application) |
 | **Avis Budget Group** | Car Detailer - Part time | 10441 25 St NE, C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/10441-25-St-NE-Calgary-AB-T3N-0A1/Car-Detailer---Part-time_R0188881-1) |
 | **Allstate** | Allstate Sales Agent Trainee (Burling... | Canadian Head | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Canadian-Head-Office/Allstate-Sales-Agent-Trainee--Burlington-_R32739) |
@@ -320,6 +320,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Honeywell** | Field Service Engineer | Sudbury, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153678) |
 | **Gilead Sciences** | IT Support Engineering Specialist | Alberta | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/Canada---Alberta---Edmonton/IT-Support-Engineering-Specialist_R0053411-1) |
 | **Teledyne** | Technical Support Engineer | Ancaster, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Ancaster-ON/Technical-Support-Engineer_REQ30528) |
 | **FLIR Systems** | Technical Support Engineer | Ancaster, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Ancaster-ON/Technical-Support-Engineer_REQ30528) |
@@ -557,7 +558,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1367 current opportunities from 222 companies**
+**🎯 1370 current opportunities from 222 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
