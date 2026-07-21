@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1385-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1029-informational?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1392-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1033-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-225-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -146,6 +146,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TribalScale** | Agile Software Engineer - Co-op | Toronto, Ontario,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tribalscale/jobs/4687337006) |
 | **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Applica... | Toronto, Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/rivianvw.tech/259f1a7c-3102-47a3-9919-c1174d9be89c/application) |
 | **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Vehicle... | Vancouver, Britis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/rivianvw.tech/a706bc73-8c3d-41b0-8bc5-874926a4af3e/application) |
+| **Nokia** | Embedded C/C++ SW Developer Co-op/Intern | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268) |
 | **Cohere** | Software Engineer Intern (Fall / Wint... | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application) |
 | **Magnet Forensics** | Software Developer Co-op (Fall 2026) | Waterloo / Ottawa... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/magnetforensics/b9fdce72-4c58-46bb-b7e2-b4bdc90390e5/apply) |
 | **Magnet Forensics** | Software Developer Co-op (Fall 2026) | Halifax, Nova Scotia | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/magnetforensics/d393ab82-448a-4dc2-87d0-a00981a55785/apply) |
@@ -167,6 +168,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Stantec** | Intermediate Electrical Engineer | Markham, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006752) |
 | **Stantec** | Electrical Designer - Roadways & High... | Markham, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006470) |
 | **WSP** | Electrical Engineer-in-Training (EIT) | Vancouver, BC, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91305) |
 | **Stantec** | Electrical Designer/EIT | Markham, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1004203) |
@@ -177,7 +179,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Ciena** | Optical Components Test Engineer - Ot... | Ottawa + 3 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Components-Test-Engineer_R030610) |
 | **Ciena** | AI-Enabled Software Test Engineer - N... | Ottawa | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-Enabled-Software-Test-Engineer-II_R030842) |
 | **Ciena** | Hardware Engineer, Power Design, onsi... | Ottawa | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineer--Power-Design--onsite-Kanata_R031227) |
-| **Stantec** | Electrical Engineering Technologist -... | Saskatoon, SK, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006519) |
 | **Nokia** | Optical Firmware Integration and Test... | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37094) |
 | **Arlo** | Hardware Engineering Manager | Richmond, BC, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://arlo.wd12.myworkdayjobs.com/external_careers/job/Richmond-BC-Canada/Hardware-Engineering-Manager_JR100386) |
 | **Curtiss-Wright** | Electrical Engineer | Stratford | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/Canada-Stratford/Electrical-Engineer_JR12590) |
@@ -227,6 +228,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **ShyftLabs** | AI Engineer Intern | Toronto, Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply) |
 | **PointClickCare** | Ai Solution Engineer - (Technology Su... | Mississauga | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pointclickcare/56e13d29-7f5e-4c80-b9cf-8f12a17db1a0/apply) |
 | **WSP** | Stagiaire, Génie électrique | Montreal, QC, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91301) |
 | **Guidepoint** | AI Engineer | Toronto, Ontario,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8635707002) |
@@ -558,7 +560,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1385 current opportunities from 225 companies**
+**🎯 1392 current opportunities from 225 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
