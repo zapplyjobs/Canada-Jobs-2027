@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1371-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1025-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-223-blue?style=flat&logo=building)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1349-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1006-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-217-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -93,7 +93,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **WSP** | Information Security Manager, Mergers... | Montreal, QC, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89493) |
 | **StackAdapt** | Software Engineer, User Profile | Alberta, Canada; ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/stackadapt/jobs/4274279009) |
 | **Mastercard** | Software Engineer - II (SDET) | Vancouver, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer---II--SDET-_R-277383) |
-| **Snap** | Embedded Software/Firmware Engineer | Vancouver, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wd1.myworkdaysite.com/snap/job/Vancouver-WA---805-Broadway/Embedded-Software-Firmware-Test-Engineer_R0046086-1) |
 | **Broadcom** | Software Engineer | Ottawa March Road | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/Ottawa-March-Road/Software-Engineer_R023954) |
 | **Amazon Development Centre Canada ULC** | Software Development Engineer, AWS Cl... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10473738/software-development-engineer-aws-cloudwatch) |
 | **Nokia** | Sr Embedded Software Engineer | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37939) |
@@ -289,7 +288,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **IEM** | Manufacturing Training Supervisor | Surrey, British C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4313864009) |
 | **Veeva Systems** | Technical Product Manager - Veeva Lab... | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/5fc64911-1f9d-4339-aabb-ddc9f5af4bcf/apply) |
 | **PointClickCare** | VP, Product Delivery & Growth - AI | Remote or Mississ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pointclickcare/04ae34da-9d7c-4d9d-96ae-eef30057a50a/apply) |
-| **Comcast** | Xfinity Retail Sales Consultant | Vancouver, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/WA---Vancouver-7809-NE-Vancouver-Plaza-Dr---Retail-XFR3551/Xfinity-Retail-Sales-Consultant_R440973-1) |
 | **AspenTech** | Partenaire Sénior, Expérience Employé | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aspentech.wd5.myworkdayjobs.com/AspenTech/job/Montreal-Mansfield/Partenaire-Snior--Exprience-Employ_R9245) |
 | **Microsoft** | Spécialiste des ventes IA pour la mai... | Quebec City, Québ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556924765) |
 | **KION Group** | Resident Maintenance Technician | Montreal, QC, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Montreal-QC-Canada/Resident-Maintenance-Technician_JR-0089790-1) |
@@ -366,7 +364,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Baker Hughes** | Operations Excellence Manager | Ab, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/CA-AB-FORT-MCMURRAY--3-360-MACKENZIE-BLVD/Operations-Excellence-Manager_R164948-1) |
 | **Curtiss-Wright** | Program Manager, Deputy | Stratford | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/Canada-Stratford/Program-Manager--Deputy_JR12789) |
 | **WSP** | Intermediate Technician, Design Support | Thunder Bay, ON, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90839) |
-| **ZoomInfo** | Integrations Support Specialist II | Vancouver, Washin... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zoominfo.com/careers?gh_jid=8622937002) |
 | **PointClickCare** | (Canada) Customer Operations Launch M... | Mississauga | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pointclickcare/d8fd6d01-d474-4afb-82dc-02fd55b4e7b3/apply) |
 | **Canadian Tire** | Sales Support Administrator, B2B, Qua... | Calgary, AB | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Calgary-AB/Inside-Sales-Representative--B2B--Quarry-Park_JR163172) |
 | **StackAdapt** | Manager, Ad Operations | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/stackadapt/jobs/4308135009) |
@@ -551,7 +548,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1371 current opportunities from 223 companies**
+**🎯 1349 current opportunities from 217 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
