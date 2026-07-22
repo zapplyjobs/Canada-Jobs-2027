@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1371-brightgreen?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1370-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1024-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-224-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-223-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -195,7 +195,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon.com.ca, ULC** | Data Scientist II, Amazon Private Brands | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10475432/data-scientist-ii-amazon-private-brands) |
 | **Scopely** | Data Analyst - Marvel Strike Force | Canada; US, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scopely/jobs/5301857008?gh_jid=5301857008) |
 | **Vertiv** | Sales Data Analytics Analyst | Mississauga, ON, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20276502) |
-| **Amazon Canada Fulfillment Services, ULC** | Data Engineer I, Amazon Business Ops ... | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10474520/data-engineer-i-amazon-business-ops-analytics) |
 | **TD Bank** | Machine Learning Engineer II | Toronto, Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-II_R_1482757) |
 | **TD Bank** | Technical Product Owner - AI & Machin... | Toronto, Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Technical-Product-Owner---AI---Machine-Learning-Solutions_R_1496435) |
 | **Stripe** | Machine Learning Engineer | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8014859) |
@@ -552,7 +551,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1371 current opportunities from 224 companies**
+**🎯 1370 current opportunities from 223 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
