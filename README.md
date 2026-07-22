@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1301-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-966-informational?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1342-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1002-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-216-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -251,9 +251,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Microsoft** | Stagiaire Technicien de Centre de Don... | Quebec City, Québ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556859421) |
 | **Tenstorrent** | Buyer, Supply Chain - Contractor | Toronto, Ontario,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5190779007) |
 | **Cummins** | Supply Chain Coordinator | Winnipeg, MB, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433712) |
+| **Sherwin-Williams** | Assistant Sales Trainee Manager | Richmond Hill, ON... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618264) |
 | **Airbnb** | Gestionnaire, Soutien Premium | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.airbnb.com/positions/7862110?gh_jid=7862110) |
 | **Hopper** | Directeur (-trice) Finance et Stratég... | Montréal - Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/hopper/b6ab9f07-0190-45fb-96d6-394714fca296/application) |
 | **D2L** | Bilingual Trainer | Kitchener, Ontari... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.d2l.com/careers/jobs/?job_id=8055892&gh_jid=8055892) |
+| **Sherwin-Williams** | Maintenance Mechanic | Grimsby, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2616212) |
 | **Tenstorrent** | Sustaining Program Manager, Supply Chain | Toronto, Ontario,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5188446007) |
 | **Geotab** | Business Affairs Manager | Oakville, Ontario... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/geotab/jobs/5293970008) |
 | **BMO** | Manager, Strategy Testing - Retail Le... | Toronto, ON, CAN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Manager--Strategy-Testing---Retail-Lending_R260021096) |
@@ -544,7 +546,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1301 current opportunities from 216 companies**
+**🎯 1342 current opportunities from 216 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
