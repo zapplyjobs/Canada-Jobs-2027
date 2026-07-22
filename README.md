@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1342-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1002-informational?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1339-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-999-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-216-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -443,7 +443,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **General Motors** | Safety Representative - Non-Manufactu... | Markham Ontario C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Safety-Representative---Non-Manufacturing_JR-202614838) |
 | **Adobe** | Technology Consultant | Ottawa | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Ottawa/Technology-Consultant_R168536-1) |
 | **Honeywell** | Building Automation Engineer | Burnaby, BC, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153438) |
-| **Nokia** | Data Science Co-op/Intern | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34327) |
 | **Pebl** | QA Engineer, API Testing | Toronto, Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/pebl/49b31b6e-169a-4ec7-8559-e8b7e8e274a6/application) |
 | **Charles River Associates** | (2027 Bachelor's/Master's graduates) ... | Toronto, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8064581) |
 | **Citi** | Applications Development Sr Programme... | Mississauga Ontar... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Applications-Development-Sr-Programmer-Analyst---Asst-Vice-President_26967543) |
@@ -486,6 +485,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lumentum** | Hermetics Systems Development Co-op S... | Ottawa | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Hermetics-Systems-Development-Co-op-Student_2026542) |
 | **Lumentum** | Hermetics Systems Development Co-op S... | Ottawa | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Hermetics-Systems-Development-Co-op-Student_2026543) |
 | **CAE** | C-SPO-100-Operational Excellence & St... | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-SPO-100-Operational-Excellence---Strategic-Projects-Intern_121975) |
+| **Block** | Applied Research Intern, Proactive In... | Toronto, Ontario ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -546,7 +546,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1342 current opportunities from 216 companies**
+**🎯 1339 current opportunities from 216 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
