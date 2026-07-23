@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1124-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-840-informational?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1126-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-841-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-191-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -220,6 +220,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Xsolla** | AI-First Engineering Intern | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply) |
 | **Citi** | Quality Engineer Modern Test Automati... | Mississauga Ontar... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Quality-Engineer-Modern-Test-Automation---AI_26977585) |
 | **Cresta** | Forward Deployed Engineering Intern (... | Toronto, Canada (... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5106468008) |
+| **WPP Media** | Gestionnaire Programmatique | Montreal, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/wppmedia/jobs/5316697008) |
 | **Lightspeed** | Gestionnaire Planification et analyse... | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/65121889-9eb8-4621-8f56-c6b0bf29843b/application) |
 | **Lightspeed** | Gestionnaire de comptes stratégiques | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/9327019e-d6c3-429a-97c8-1e42cb61b7b0/application) |
 | **Stantec** | Roads & Highways Manager, Prairies an... | Calgary, AB, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006847) |
@@ -450,13 +451,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Block** | Applied Research Intern, Proactive In... | Toronto, Ontario ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) |
 | **Cohere** | Research Internship (Fall, 2026) | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) |
 | **Amazon.com.ca, ULC - A49** | Fall 2026 Applied Science Internship ... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394248/fall-2026-applied-science-internship-canada-phd-student-science-recruiting) |
+| **WPP Media** | Programmatic Manager | Montreal, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/wppmedia/jobs/5316695008) |
+| **BeyondTrust** | Manager, Demand Engineer | Remote Canada  R... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/beyondtrust/jobs/8080433) |
 | **WPP Media** | Associate, Media Planning | Montreal, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/wppmedia/jobs/5318211008) |
 | **WPP Media** | Assistant.e, planification média | Montreal, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/wppmedia/jobs/5318213008) |
 | **Apple** | CA - Specialist: Seasonal, Part-time | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
 | **Lightspeed** | Manager FP&A | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/6765e2cc-2ebc-4ca4-bae6-649faf907dd7/application) |
 | **Lightspeed** | Manager FP&A | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/35b35308-a12c-43b1-abac-63adaf766a39/application) |
-| **WPP Media** | Associate Director, Activation | Montreal, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/wppmedia/jobs/5272640008) |
-| **Lightspeed** | Strategic Account Manager | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/010d7623-2842-4ded-8271-84ce6514b6d8/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -517,7 +518,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1124 current opportunities from 191 companies**
+**🎯 1126 current opportunities from 191 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
