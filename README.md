@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1114-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-832-informational?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1124-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-840-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-191-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -222,6 +222,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cresta** | Forward Deployed Engineering Intern (... | Toronto, Canada (... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5106468008) |
 | **Lightspeed** | Gestionnaire Planification et analyse... | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/65121889-9eb8-4621-8f56-c6b0bf29843b/application) |
 | **Lightspeed** | Gestionnaire de comptes stratégiques | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/9327019e-d6c3-429a-97c8-1e42cb61b7b0/application) |
+| **Stantec** | Roads & Highways Manager, Prairies an... | Calgary, AB, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006847) |
+| **Stantec** | Bridges & Structures Manager, Prairie... | Winnipeg, MB, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006848) |
 | **Tailscale** | Campaign Operations Coordinator | Remote (Canada) | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tailscale/jobs/4717675005) |
 | **Lightspeed** | Gestionnaire de projets marketing sén... | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/842c9b15-9d1b-4e33-98a3-6ce6d5c5629a/application) |
 | **Sherwin-Williams** | Collision Repair Painter - Technical ... | Toronto, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2617751) |
@@ -260,7 +262,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cigna** | Dental Claims Auditor - 12 Month Cont... | Mississauga, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Mississauga-ON/Dental-Claims-Auditor---12-Month-Contract---Express-Scripts-Canada_26008526-1) |
 | **Avis Budget Group** | Car Detailer - Part Time | Halifax Stanfield... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Halifax-Stanfield-International-Airport---1031-Bell-Blvd-Goffs/Car-Detailer---Part-Time_R0186627-2) |
 | **Canadian Tire** | Enterprise EDI - Analyst (Supply Chai... | Calgary, AB | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Calgary-AB/Enterprise-EDI---Analyst--Supply-Chain-Integration-_JR163100) |
-| **Stantec** | Technicienne / Technicien en maintien... | Laval, QC, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006689) |
 | **Apple** | NEWStart Annual Job Fair 2026 | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200654927/newstart-annual-job-fair-2026) |
 | **IEM** | Manufacturing Training Specialist | Surrey, British C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4313868009) |
 | **IEM** | Manufacturing Training Supervisor | Surrey, British C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4313864009) |
@@ -359,13 +360,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Google** | Student Researcher, PhD, Fall 2026 | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
 | **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
 | **Honeywell** | Project Manager- Building Automation | Sherwood Park, AB... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153902) |
+| **WSP** | Mechanical Layout Designer | Sudbury, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91080) |
+| **WSP** | Piping Engineer, Resources | Sudbury, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91082) |
 | **WSP** | Assistant chargé de projet - Sciences... | Montreal, QC, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91292) |
 | **BeyondTrust** | Software Development Engineer | Remote Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/beyondtrust/jobs/8076910) |
 | **Instacart** | Detection Engineer II | Remote (ON, AB, B... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://instacart.careers/job/?gh_jid=8080532) |
 | **OpenTable** | System Engineer I | Toronto, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/opentable/jobs/8644093002) |
 | **Stripe** | Integration Reliability Engineer, Pay... | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8054241) |
-| **WSP** | Transportation Planning Engineer | Ottawa, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91309) |
-| **WSP** | Intermediate Mine Water Environmental... | Mississauga, ON, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91360) |
 | **Stantec** | Intermediate Municipal Engineer | Dartmouth, NS, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/REQ250001HL) |
 | **Epic Games** | Engine Programmer | Vancouver,British... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://epicgames.com/careers/jobs/6120129004?gh_jid=6120129004) |
 | **StackAdapt** | Engineering Manager I, Applications | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/stackadapt/jobs/4316890009) |
@@ -449,13 +450,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Block** | Applied Research Intern, Proactive In... | Toronto, Ontario ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) |
 | **Cohere** | Research Internship (Fall, 2026) | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) |
 | **Amazon.com.ca, ULC - A49** | Fall 2026 Applied Science Internship ... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394248/fall-2026-applied-science-internship-canada-phd-student-science-recruiting) |
+| **WPP Media** | Associate, Media Planning | Montreal, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/wppmedia/jobs/5318211008) |
+| **WPP Media** | Assistant.e, planification média | Montreal, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/wppmedia/jobs/5318213008) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
+| **Lightspeed** | Manager FP&A | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/6765e2cc-2ebc-4ca4-bae6-649faf907dd7/application) |
 | **Lightspeed** | Manager FP&A | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/35b35308-a12c-43b1-abac-63adaf766a39/application) |
 | **WPP Media** | Associate Director, Activation | Montreal, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/wppmedia/jobs/5272640008) |
-| **WPP Media** | Directeur·rice associé·e, Activation | Montreal, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/wppmedia/jobs/5325727008) |
-| **WPP Media** | Associate Director, Activation | Montreal, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/wppmedia/jobs/5325725008) |
 | **Lightspeed** | Strategic Account Manager | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/010d7623-2842-4ded-8271-84ce6514b6d8/application) |
-| **StackAdapt** | Motion Designer | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/stackadapt/jobs/4328132009) |
-| **Zscaler** | Account Executive - Enterprise - West... | Update Location | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/zscaler/jobs/5193223007) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -516,7 +517,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1114 current opportunities from 191 companies**
+**🎯 1124 current opportunities from 191 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
