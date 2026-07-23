@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1358-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1012-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-215-blue?style=flat&logo=building)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1334-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-994-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-213-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -199,7 +199,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TD Bank** | Data Scientist III | Toronto, Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Scientist-III_R_1496761) |
 | **Canadian Tire** | Data Analyst – Center of Excellence &... | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Data-Analyst---Center-of-Excellence---Data-Analytics_JR163585-1) |
 | **Morningstar** | Service Delivery and IT Ops Data Analyst | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Toronto/Service-Delivery-and-IT-Ops-Data-Analyst_REQ-057673) |
-| **onsemi** | Machine Learning Engineer, Edge AI | Waterloo, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505329) |
 | **Medtronic** | Advanced Analytics Prog Mgr - 1 year ... | Brampton, Ontario... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Brampton-Ontario-Canada/Advanced-Analytics-Prog-Mgr---1-year-Contract_R70555-1) |
 | **Cohere** | Machine Learning Intern/Co-op  (Fall,... | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) |
 | **Cresta** | Machine Learning Engineering Intern | Toronto, Canada (... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/4123863008) |
@@ -374,7 +373,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Capco** | Program Manager | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8053605) |
 | **Avis Budget Group** | Superviseur des Opérations   Operatio... | 850 Jean Paul Laf... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/850-Jean-Paul-Laframboise-Dorval-QC/Superviseur-des-Oprations---Operations-Supervisor_R0189673) |
 | **CAE** | In-Service Support (ISS) Project Manager | Montreal St Laure... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/In-Service-Support--ISS--Project-Manager_122505) |
-| **Cummins** | Engine Field Service Technician (Base... | Fort McMurray, AB... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430190) |
 | **Squarepoint Capital** | Operations Intern (Fall) | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.squarepoint-capital.com/open-opportunities?id=8050436&gh_jid=8050436) |
 | **Air Liquide** | Branch Operations Manager | Montreal, QC - Bo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Montreal-QC---Boul-Ray-Lawson---Management---East-Region/Branch-Operations-Manager_R10095566) |
 | **Canadian Tire** | Assistant Manager, Operations, Great ... | Sault Ste. Marie, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Sault-Ste-Marie-ON/Assistant-Manager--Operations--Great-Northern-Rd_JR163275) |
@@ -550,7 +548,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1358 current opportunities from 215 companies**
+**🎯 1334 current opportunities from 213 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
@@ -558,6 +556,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: July 22, 2026
+**Last Updated**: July 23, 2026
 
 </div>
