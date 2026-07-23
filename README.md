@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1314-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-978-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-213-blue?style=flat&logo=building)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1329-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-988-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-212-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -165,7 +165,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **WSP** | Electrical Engineer-in-Training (EIT) | Vancouver, BC, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91305) |
 | **Stantec** | Electrical Designer/EIT | Markham, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1004203) |
 | **WSP** | Electrical and Controls Designer, Energy | Calgary, AB, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/79102) |
-| **WSP** | Electrical BIM Revit Modeler | Thornhill, ON, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89224) |
+| **WSP** | Intermediate Electrical Engineer, Res... | Sudbury, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91067) |
 | **Schweitzer Engineering Laboratories** | Power Systems Protection Engineer | Brossard | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Canada---Brossard/Power-Systems-Protection-Engineer_2026-19476-1) |
 | **Danaher** | Electrical Designer/Engineer | Concord, Ontario,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Concord-Ontario-Canada/Electrical-Designer-Engineer_R1312670) |
 | **Ciena** | Optical Components Test Engineer - Ot... | Ottawa + 3 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Components-Test-Engineer_R030610) |
@@ -366,6 +366,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AstraZeneca** | Associate Director, Business Planning... | Mississauga | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Canada---Mississauga/Associate-Director--Business-Planning---Operations---12---Month-Contract_R-256278-1) |
 | **Baker Hughes** | Operations Excellence Manager | Ab, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/CA-AB-FORT-MCMURRAY--3-360-MACKENZIE-BLVD/Operations-Excellence-Manager_R164948-1) |
 | **Curtiss-Wright** | Program Manager, Deputy | Stratford | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/Canada-Stratford/Program-Manager--Deputy_JR12789) |
+| **WSP** | Intermediate Technician, Design Support | Thunder Bay, ON, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90839) |
 | **PointClickCare** | (Canada) Customer Operations Launch M... | Mississauga | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pointclickcare/d8fd6d01-d474-4afb-82dc-02fd55b4e7b3/apply) |
 | **Canadian Tire** | Sales Support Administrator, B2B, Qua... | Calgary, AB | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Calgary-AB/Inside-Sales-Representative--B2B--Quarry-Park_JR163172) |
 | **StackAdapt** | Manager, Ad Operations | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/stackadapt/jobs/4308135009) |
@@ -548,7 +549,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1314 current opportunities from 213 companies**
+**🎯 1329 current opportunities from 212 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
