@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1039-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-770-informational?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1042-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-774-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-188-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,18 +66,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Wealthsimple** | Software Developer, AI Platform Found... | Remote (Canada) | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/wealthsimple/a04d491e-d747-4ad8-ab7f-82e9cd39089e/application) |
-| **Pinterest** | Software Engineer II, tvScientific | Toronto, ON, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.pinterestcareers.com/jobs/?gh_jid=7782535) |
 | **Google** | Hardware System Integration Developer | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98299400815551174) |
 | **Google** | Software Developer, GKE Workload Auto... | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/94484363902624454) |
 | **Google** | Software Developer, Enterprise Chat, ... | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/72627350495208134) |
+| **Wealthsimple** | Software Developer, AI Platform Found... | Remote (Canada) | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/wealthsimple/a04d491e-d747-4ad8-ab7f-82e9cd39089e/application) |
+| **Pinterest** | Software Engineer II, tvScientific | Toronto, ON, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.pinterestcareers.com/jobs/?gh_jid=7782535) |
 | **Tenstorrent** | Software Engineer, Metal Runtime (API... | Austin, Texas, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5192671007) |
 | **Cerebras Systems** | ML Software Engineer - Integration & ... | and Canada Offices | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/05fd05ea-b515-4c26-851e-b3882dfba154/application) |
 | **Squarepoint Capital** | Software Developer - Market Data Inte... | London, Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.squarepoint-capital.com/open-opportunities?id=6715949&gh_jid=6715949) |
 | **StackAdapt** | DevOps Engineer | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/stackadapt/jobs/4312807009) |
 | **1Password** | .Net Developer, SaaS Manager | Remote (United St... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/1password/fb0f0d1d-5655-4c54-b4e7-e985c475dc9e/application) |
 | **StackAdapt** | Salesforce Integration Developer | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/stackadapt/jobs/4316851009) |
-| **Wealthsimple** | Specialist, Security Risk Management | Remote (Canada) | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/wealthsimple/e67e6d64-233b-4fbf-b36a-c87bac3a67bb/application) |
 | **Capco** | DevOps / DevSecOps Engineer | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8071741) |
 | **Capco** | Developer with Prompt Engineering | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8072042) |
 | **Zscaler** | Workday Integration Developer | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/zscaler/jobs/5190070007) |
@@ -130,7 +129,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Magnet Forensics** | Software Developer Co-op (Fall 2026) | Halifax, Nova Scotia | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/magnetforensics/d393ab82-448a-4dc2-87d0-a00981a55785/apply) |
 | **Cresta** | Software Engineer Intern | Toronto Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/4123841008) |
 | **Sophos** | Anaplan Developer | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/sophos/429703d0-6e04-4469-9bae-7fefa1a89636/apply) |
-| **Microsoft** | Microsoft Cloud & AI Technical Evange... | Montreal, Québec,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556934646) |
+| **Microsoft** | Digital Solution Area Specialist - Se... | Greater Toronto, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556941295) |
 | **Amazon Web Services Canada, Inc.** | AI Sales Specialist, Cloud Sales Cent... | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479248/ai-sales-specialist-cloud-sales-center-csc) |
 | **BeyondTrust** | VP, Product Management, AI Security &... | Remote Canada  R... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/beyondtrust/jobs/8048873) |
 | **Fortinet** | Presales Security Expert-Major Accoun... | Toronto, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23551) |
@@ -190,8 +189,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Dialpad** | AI Evaluation Engineer | Kitchener, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8642915002) |
-| **Amazon Development Centre Canada ULC** | Software Development Engineer - Suppl... | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482781/software-development-engineer-supply-chain-optimization-tech-inbound-systems) |
 | **Amazon Development Centre Canada ULC** | Software Development Engineer - Suppl... | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482782/software-development-engineer-supply-chain-optimization-tech-inbound-systems) |
+| **Amazon Development Centre Canada ULC** | Software Development Engineer - Suppl... | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482781/software-development-engineer-supply-chain-optimization-tech-inbound-systems) |
 | **ShyftLabs** | AI Engineer Intern | Toronto, Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply) |
 | **PointClickCare** | Ai Solution Engineer - (Technology Su... | Mississauga | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pointclickcare/56e13d29-7f5e-4c80-b9cf-8f12a17db1a0/apply) |
 | **WSP** | Stagiaire, Génie électrique | Montreal, QC, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91301) |
@@ -258,7 +257,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cigna** | Dental Claims Auditor - 12 Month Cont... | Mississauga, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Mississauga-ON/Dental-Claims-Auditor---12-Month-Contract---Express-Scripts-Canada_26008526-1) |
 | **Avis Budget Group** | Car Detailer - Part Time | Halifax Stanfield... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Halifax-Stanfield-International-Airport---1031-Bell-Blvd-Goffs/Car-Detailer---Part-Time_R0186627-2) |
 | **Canadian Tire** | Enterprise EDI - Analyst (Supply Chai... | Calgary, AB | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Calgary-AB/Enterprise-EDI---Analyst--Supply-Chain-Integration-_JR163100) |
-| **Apple** | NEWStart Annual Job Fair 2026 | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200654927/newstart-annual-job-fair-2026) |
 | **IEM** | Manufacturing Training Specialist | Surrey, British C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4313868009) |
 | **IEM** | Manufacturing Training Supervisor | Surrey, British C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4313864009) |
 | **Canadian Tire** | Analyst AI Enablement Student (4 mont... | Calgary, AB | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Calgary-AB/Analyst-AI-Enablement-Student--4-months----Fall-2026_JR161999) |
@@ -351,15 +349,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Kabam** | UI Technical Designer (Contract) | Vancouver | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/kabam/9befe4e3-b4ac-4c22-bdef-a5cc3b75ad1c/apply) |
 | **Google** | Student Researcher, PhD, Fall 2026 | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
 | **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
+| **Kabam** | UI Technical Designer (Contract) | Vancouver | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/kabam/9befe4e3-b4ac-4c22-bdef-a5cc3b75ad1c/apply) |
 | **Veeva Systems** | QA Engineer - Ostro | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/b405acf8-fcdf-4b4d-b31b-0ccd7839c723/apply) |
 | **Amazon Development Centre Canada ULC** | Software Development Engineer, Alexa ... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483630/software-development-engineer-alexa-connections) |
 | **Amazon Advertising Canada Inc.** | Software Development Engineer - II, S... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10483646/software-development-engineer-ii-sales-technology-amazon-advertising) |
 | **WSP** | Design Manager, Food & Hospitality Fa... | Thornhill, ON, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86400) |
 | **WSP** | Project Engineer - Land Development | Sault Ste. Marie,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91431) |
-| **WSP** | Experienced Construction Engineer | Burlington, ON, C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91807) |
+| **WSP** | Experienced Project Manager | Burlington, ON, C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91805) |
+| **Stantec** | Instrumentation & Controls / Industri... | Saskatoon, SK, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006888) |
+| **Stantec** | Structural Engineer, Mining | Markham, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006911) |
 | **Wealthsimple** | Software Development Manager, Observa... | Remote (Canada) | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/wealthsimple/b0271319-e7bc-4a4e-94ea-a6cffb23d6f2/application) |
 | **Cerebras Systems** | Kernel Engineer - New Grad | and Canada Offices | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e/application) |
 | **Amazon Web Services Canada, Inc.** | Software Development Engineer, AWS Ma... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482917/software-development-engineer-aws-marketplace) |
@@ -368,12 +368,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Honeywell** | Project Manager- Building Automation | Sherwood Park, AB... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153902) |
 | **Honeywell** | Building Automation Engineer | Burnaby, BC, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154238) |
 | **Stantec** | Environmental Scientist/Technologist | Saskatoon, SK, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006746) |
-| **Stantec** | Project Designer, ICT (Information Co... | Vancouver, BC, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006860) |
 | **BeyondTrust** | Software Development Engineer | Remote Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/beyondtrust/jobs/8076910) |
 | **Instacart** | Detection Engineer II | Remote (ON, AB, B... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://instacart.careers/job/?gh_jid=8080532) |
 | **OpenTable** | System Engineer I | Toronto, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/opentable/jobs/8644093002) |
 | **Stripe** | Integration Reliability Engineer, Pay... | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8054241) |
-| **Stantec** | Intermediate Municipal Engineer | Dartmouth, NS, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/REQ250001HL) |
 | **Epic Games** | Engine Programmer | Vancouver,British... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://epicgames.com/careers/jobs/6120129004?gh_jid=6120129004) |
 | **StackAdapt** | Engineering Manager I, Applications | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/stackadapt/jobs/4316890009) |
 | **Geotab** | Graphic Designer (18 months Contract) | Oakville, Ontario... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/geotab/jobs/5345878008) |
@@ -446,11 +444,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cohere** | Research Internship (Fall, 2026) | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) |
 | **Amazon.com.ca, ULC - A49** | Fall 2026 Applied Science Internship ... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394248/fall-2026-applied-science-internship-canada-phd-student-science-recruiting) |
 | **Apple** | CA - Specialist: Seasonal, Part-time | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
+| **Microsoft** | Solution Area Specialist | Toronto, Ontario,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556942544) |
 | **Wealthsimple** | Growth Engagement Specialist (12-mont... | Toronto Headquarters | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/wealthsimple/05d8dc58-a9c6-4a2f-96e9-014253b5de69/application) |
 | **Cohere** | Data Annotation Specialist, Generalist | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/a7321948-288c-4e9f-9fbe-2f9ccda07ffa/application) |
 | **Wealthsimple** | Associate, Financial Planning and Sal... | Remote (Canada) | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/wealthsimple/2a295c1e-02ab-4f6f-b426-fc9a38f37c1d/application) |
 | **Flipp** | IT Administrator | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/flipp/jobs/8002880) |
-| **Fortinet** | Business Development Representative | Burnaby, BC, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23568) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -511,7 +509,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1039 current opportunities from 188 companies**
+**🎯 1042 current opportunities from 188 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
