@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1045-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-777-informational?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1046-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-778-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-188-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -443,11 +443,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Block** | Applied Research Intern, Proactive In... | Toronto, Ontario ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) |
 | **Cohere** | Research Internship (Fall, 2026) | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) |
 | **Amazon.com.ca, ULC - A49** | Fall 2026 Applied Science Internship ... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394248/fall-2026-applied-science-internship-canada-phd-student-science-recruiting) |
+| **Wealthsimple** | Associate, Fraud Investigations Cash ... | Remote (Canada) | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/wealthsimple/dca4799f-6104-425c-a22f-fb48887d53b9/application) |
 | **Apple** | CA - Specialist: Seasonal, Part-time | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
 | **Microsoft** | Solution Area Specialist | Toronto, Ontario,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556942544) |
 | **Wealthsimple** | Growth Engagement Specialist (12-mont... | Remote (Canada) | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/wealthsimple/05d8dc58-a9c6-4a2f-96e9-014253b5de69/application) |
 | **Cohere** | Data Annotation Specialist, Generalist | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/a7321948-288c-4e9f-9fbe-2f9ccda07ffa/application) |
-| **Wealthsimple** | Associate, Financial Planning and Sal... | Remote (Canada) | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/wealthsimple/2a295c1e-02ab-4f6f-b426-fc9a38f37c1d/application) |
 | **Flipp** | IT Administrator | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/flipp/jobs/8002880) |
 
 <p align="center">Apply for more jobs at</p>
@@ -509,7 +509,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1045 current opportunities from 188 companies**
+**🎯 1046 current opportunities from 188 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
