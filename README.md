@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1030-brightgreen?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1029-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-765-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-187-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-186-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -258,7 +258,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Apple** | NEWStart Annual Job Fair 2026 | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200654927/newstart-annual-job-fair-2026) |
 | **IEM** | Manufacturing Training Specialist | Surrey, British C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4313868009) |
 | **IEM** | Manufacturing Training Supervisor | Surrey, British C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4313864009) |
-| **Veeva Systems** | Technical Product Manager - Veeva Lab... | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/5fc64911-1f9d-4339-aabb-ddc9f5af4bcf/apply) |
 | **Canadian Tire** | Analyst AI Enablement Student (4 mont... | Calgary, AB | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Calgary-AB/Analyst-AI-Enablement-Student--4-months----Fall-2026_JR161999) |
 | **Microsoft** | Stagiaire en opérations critiques / C... | Quebec City, Québ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556866705) |
 | **SharkNinja** | Gestionnaire de la communauté Social ... | Montréal, Quebec,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4693018006) |
@@ -507,7 +506,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1030 current opportunities from 187 companies**
+**🎯 1029 current opportunities from 186 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
