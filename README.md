@@ -352,9 +352,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Epic Games** | Build Programmer | Montreal,Quebec,C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://epicgames.com/careers/jobs/6123848004?gh_jid=6123848004) |
 | **Google** | Student Researcher, PhD, Fall 2026 | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
 | **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
+| **Epic Games** | Build Programmer | Montreal,Quebec,C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://epicgames.com/careers/jobs/6123848004?gh_jid=6123848004) |
 | **BeyondTrust** | Software Development Engineer | Remote Canada  R... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/beyondtrust/jobs/7930944) |
 | **BeyondTrust** | Sr Software Development Manager | Remote Canada  R... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/beyondtrust/jobs/7851848) |
 | **Magnet Forensics** | Software Development Engineer in Test | Ottawa, Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/magnetforensics/5cbaf1c6-d385-4a28-9996-7fa5e433a0dd/apply) |
