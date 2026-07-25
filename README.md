@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1050-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-777-informational?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1051-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-778-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-187-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -352,6 +352,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Epic Games** | Build Programmer | Montreal,Quebec,C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://epicgames.com/careers/jobs/6123848004?gh_jid=6123848004) |
 | **Google** | Student Researcher, PhD, Fall 2026 | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
 | **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
 | **BeyondTrust** | Software Development Engineer | Remote Canada  R... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/beyondtrust/jobs/7930944) |
@@ -451,7 +452,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Apple** | CA - Specialist: Seasonal, Part-time | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
 | **MongoDB** | Inside Account Executive | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=8083383) |
 | **ZayZoon** | Customer Care Representative | Calgary | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/zayzoon/d41b0ddd-a2a6-47d5-90af-01528c1c73f4/application) |
-| **OpenTable** | Director, Financial Planning & Analys... | Toronto, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/opentable/jobs/8646244002) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -512,7 +512,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1050 current opportunities from 187 companies**
+**🎯 1051 current opportunities from 187 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
