@@ -67,8 +67,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Google** | Hardware System Integration Developer | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98299400815551174) |
-| **Google** | Software Developer, GKE Workload Auto... | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/94484363902624454) |
-| **Google** | Software Developer, Enterprise Chat, ... | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/72627350495208134) |
+| **Google** | Software Developer III, Full Stack, G... | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98850926155965126) |
+| **Google** | Software Developer III, Site Reliability | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/84755644501893830) |
 | **D2L** | Software Developer | Kitchener, Toront... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.d2l.com/careers/jobs/?job_id=260466&gh_jid=260466) |
 | **Stripe** | Software Engineer, Machine Learning I... | Toronto, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8084476) |
 | **Apple** | Software Engineer, Productivity Apps | Vancouver | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200674176/software-engineer-productivity-apps) |
@@ -196,8 +196,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **WSP** | Signalling Engineer, Rail & Transit | Vancouver, BC, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91827) |
 | **WSP** | Project Engineer/ Project Manager, Ra... | Thornhill, ON, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91899) |
 | **Dialpad** | AI Evaluation Engineer | Kitchener, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8642915002) |
-| **Amazon Development Centre Canada ULC** | Software Development Engineer - Suppl... | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482781/software-development-engineer-supply-chain-optimization-tech-inbound-systems) |
 | **Amazon Development Centre Canada ULC** | Software Development Engineer - Suppl... | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482782/software-development-engineer-supply-chain-optimization-tech-inbound-systems) |
+| **Amazon Development Centre Canada ULC** | Software Development Engineer - Suppl... | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482781/software-development-engineer-supply-chain-optimization-tech-inbound-systems) |
 | **ShyftLabs** | AI Engineer Intern | Toronto, Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply) |
 | **PointClickCare** | Ai Solution Engineer - (Technology Su... | Mississauga | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pointclickcare/56e13d29-7f5e-4c80-b9cf-8f12a17db1a0/apply) |
 | **Guidepoint** | AI Engineer | Toronto, Ontario,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8635707002) |
