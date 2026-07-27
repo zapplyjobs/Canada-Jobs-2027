@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1256-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-885-informational?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1258-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-886-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-204-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -69,6 +69,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Google** | Hardware System Integration Developer | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98299400815551174) |
 | **Google** | Software Developer III, Full Stack, G... | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98850926155965126) |
 | **Google** | Software Developer III, Site Reliability | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/84755644501893830) |
+| **Fortinet** | SOC DevOps Specialist | Burnaby, BC, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23661) |
 | **Nokia** | Jr. Embedded Software Developer | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37457) |
 | **D2L** | Software Developer | Kitchener, Toront... | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.d2l.com/careers/jobs/?job_id=260466&gh_jid=260466) |
 | **Stripe** | Software Engineer, Machine Learning I... | Toronto, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8084476) |
@@ -243,8 +244,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **WSP** | Process Engineer-in-Training | Calgary, AB, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91025) |
 | **WSP** | Signalling Engineer, Rail & Transit | Vancouver, BC, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91827) |
 | **Dialpad** | AI Evaluation Engineer | Kitchener, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8642915002) |
-| **Amazon Development Centre Canada ULC** | Software Development Engineer - Suppl... | Toronto, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482782/software-development-engineer-supply-chain-optimization-tech-inbound-systems) |
 | **Amazon Development Centre Canada ULC** | Software Development Engineer - Suppl... | Toronto, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482781/software-development-engineer-supply-chain-optimization-tech-inbound-systems) |
+| **Amazon Development Centre Canada ULC** | Software Development Engineer - Suppl... | Toronto, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482782/software-development-engineer-supply-chain-optimization-tech-inbound-systems) |
 | **ShyftLabs** | AI Engineer Intern | Toronto, Ontario | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply) |
 | **PointClickCare** | Ai Solution Engineer - (Technology Su... | Mississauga | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pointclickcare/56e13d29-7f5e-4c80-b9cf-8f12a17db1a0/apply) |
 | **Guidepoint** | AI Engineer | Toronto, Ontario,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8635707002) |
@@ -580,7 +581,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1256 current opportunities from 204 companies**
+**🎯 1258 current opportunities from 204 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
