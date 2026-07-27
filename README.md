@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-991-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-738-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-182-blue?style=flat&logo=building)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-986-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-733-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-181-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -499,7 +499,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 991 current opportunities from 182 companies**
+**🎯 986 current opportunities from 181 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
