@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1015-brightgreen?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1017-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-753-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-183-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-184-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -174,6 +174,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lightspeed** | Manager, Data Science & Machine Learning | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/7269857e-997f-4431-b86a-4d32325ae8d6/application) |
 | **Amazon.com.ca, ULC** | Data Scientist II, Amazon Private Brands | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10475432/data-scientist-ii-amazon-private-brands) |
 | **Scopely** | Data Analyst - Marvel Strike Force | Canada; US, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scopely/jobs/5301857008?gh_jid=5301857008) |
+| **Vertiv** | Sales Data Analytics Analyst | Mississauga, ON, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20276502) |
 | **TD Bank** | Machine Learning Engineer II | Toronto, Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-II_R_1482757) |
 | **TD Bank** | Technical Product Owner - AI & Machin... | Toronto, Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Technical-Product-Owner---AI---Machine-Learning-Solutions_R_1496435) |
 | **Cohere** | Machine Learning Intern/Co-op  (Fall,... | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) |
@@ -288,6 +289,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nasdaq** | Verafin – Office Support Coordinator | St. John's | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Office-Support-Coordinator_R0026520) |
 | **CAE** | C-MO-420 Manufacturing Operations Man... | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-MO-420-Manufacturing-Operations-Management-Intern_122406) |
 | **Honeywell** | Sr Director, ARR Transformation and C... | Calgary, AB, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153992) |
+| **Vertiv** | Manager Thermal Service Operations | Mississauga, ON, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20277575) |
 | **Alo Yoga** | Operations Associate (Part-Time) - Ri... | Ottawa, Ontario, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6122948004?gh_jid=6122948004) |
 | **Fortinet** | Network Support (New Grads 2026) | Burnaby, BC, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22160) |
 | **Oracle** | Oracle NetSuite Customer Success Asso... | TORONTO, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/319585) |
@@ -503,7 +505,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1015 current opportunities from 183 companies**
+**🎯 1017 current opportunities from 184 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
