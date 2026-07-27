@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1015-brightgreen?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1018-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-753-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-183-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-184-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -77,6 +77,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Wealthsimple** | Software Developer, AI Platform Found... | Remote (Canada) | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/wealthsimple/a04d491e-d747-4ad8-ab7f-82e9cd39089e/application) |
 | **Pinterest** | Software Engineer II, tvScientific | Toronto, ON, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.pinterestcareers.com/jobs/?gh_jid=7782535) |
 | **Tenstorrent** | Software Engineer, Metal Runtime (API... | Austin, Texas, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5192671007) |
+| **Nokia** | Embedded SW Developer - Synchronizati... | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37402) |
 | **WSP** | AI Developer (LLM & Agentic Systems) | Toronto, ON, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91916) |
 | **Cerebras Systems** | ML Software Engineer - Integration & ... | and Canada Offices | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/05fd05ea-b515-4c26-851e-b3882dfba154/application) |
 | **Squarepoint Capital** | Software Developer - Market Data Inte... | London, Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.squarepoint-capital.com/open-opportunities?id=6715949&gh_jid=6715949) |
@@ -105,6 +106,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Mastercard** | Software Engineer - II (SDET) | Vancouver, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer---II--SDET-_R-277383) |
 | **Broadcom** | Software Engineer | Ottawa March Road | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/Ottawa-March-Road/Software-Engineer_R023954) |
 | **Amazon Development Centre Canada ULC** | Software Development Engineer, AWS Cl... | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10473738/software-development-engineer-aws-cloudwatch) |
+| **Nokia** | Sr Embedded Software Engineer | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37939) |
 | **Stripe** | Full Stack Engineer, Support Experience | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8062708) |
 | **ZoomInfo** | Software Engineer III | Toronto, Ontario,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zoominfo.com/careers?gh_jid=8623280002) |
 | **MongoDB** | Software Engineer 3, Documentation Pl... | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=8054993) |
@@ -126,6 +128,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TribalScale** | Agile Software Engineer - Co-op | Toronto, Ontario,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tribalscale/jobs/4687337006) |
 | **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Applica... | Toronto, Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/rivianvw.tech/259f1a7c-3102-47a3-9919-c1174d9be89c/application) |
 | **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Vehicle... | Vancouver, Britis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/rivianvw.tech/a706bc73-8c3d-41b0-8bc5-874926a4af3e/application) |
+| **Nokia** | Embedded C/C++ SW Developer Co-op/Intern | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268) |
 | **Cohere** | Software Engineer Intern (Fall / Wint... | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application) |
 | **Magnet Forensics** | Software Developer Co-op (Fall 2026) | Waterloo / Ottawa... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/magnetforensics/b9fdce72-4c58-46bb-b7e2-b4bdc90390e5/apply) |
 | **Magnet Forensics** | Software Developer Co-op (Fall 2026) | Halifax, Nova Scotia | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/magnetforensics/d393ab82-448a-4dc2-87d0-a00981a55785/apply) |
@@ -503,7 +506,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1015 current opportunities from 183 companies**
+**🎯 1018 current opportunities from 184 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
