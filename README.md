@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1253-brightgreen?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1254-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-883-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-204-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -502,7 +502,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **StackAdapt** | Engineering Manager I, Creatives | Canada; Toronto; ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/stackadapt/jobs/4301432009) |
 | **Tailscale** | Billing Engineer | Remote (Canada) | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tailscale/jobs/4710794005) |
 | **Curtiss-Wright** | Mechanical Engineering Co-Op | Mississauga | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/Canada-Mississauga-Indal/Mechanical-Engineering-Co-Op_JR12655) |
-| **League** | Delivery Manager | Toronto | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/leagueinc/jobs/6105152004) |
 | **Asana** | Engineering Manager | Vancouver, BC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.asana.com/jobs/apply/7555402?gh_jid=7555402) |
 | **Astera Labs** | Product Applications Engineer (Switch... | Vancouver, Britis... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/asteralabs/jobs/4609456005) |
 | **Rocket Lab** | Optical Engineer II | Toronto, CAN | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7779900003) |
@@ -519,6 +518,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Okta** | Engineering Manager, Performance & Re... | Toronto, Ontario,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.okta.com/company/careers/opportunity/7991116?gh_jid=7991116) |
 | **StackAdapt** | Engineering Manager II, Data Hub | Canada; United St... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/stackadapt/jobs/4278911009) |
 | **Block** | Applied Research Intern, Proactive In... | Toronto, Ontario ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) |
+| **Databricks** | Manager, Field Engineering - Financia... | Toronto, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8557075002) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -579,7 +579,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1253 current opportunities from 204 companies**
+**🎯 1254 current opportunities from 204 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
