@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1350-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-936-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-231-blue?style=flat&logo=building)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1348-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-930-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-232-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -187,8 +187,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stantec** | Intermediate Electrical Engineer | Markham, ON, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006752) |
 | **Regal Rexnord** | Engineering Manager, Electrical | Langley, British ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Langley-British-Columbia-Canada/Electrical-Engineering-Technical-Lead_R26_01658) |
 | **Stantec** | Electrical Designer - Roadways & High... | Markham, ON, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006470) |
-| **Thales** | AJISS Program Engineer – Electrical | John Savage | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thales.wd3.myworkdayjobs.com/Careers/job/Halifax---John-Savage/AJISS-Program-Engineer---Electrical_R0331561-1) |
 | **Arlo** | Hardware Engineer Co-op | Richmond, BC, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://arlo.wd12.myworkdayjobs.com/external_careers/job/Richmond-BC-Canada/Hardware-Engineer-Co-op_JR100401) |
+| **Thales** | AJISS Program Engineer – Electrical | John Savage | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thales.wd3.myworkdayjobs.com/Careers/job/Halifax---John-Savage/AJISS-Program-Engineer---Electrical_R0331561-1) |
 | **WSP** | Electrical Engineer-in-Training (EIT) | Vancouver, BC, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91305) |
 | **Stantec** | Electrical Designer/EIT | Markham, ON, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1004203) |
 | **Tenstorrent** | Electrical Engineer, PCB Design | Belgrade, Serbia;... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5178453007) |
@@ -252,15 +252,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cerebras Systems** | AI Inference Core - Infrastructure SW... | and Canada Offices | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/70f859f8-ea99-42bb-a2ac-ac0d230a2929/application) |
 | **WSP** | Civil Engineer-in-Training, Hydropowe... | Vancouver, BC, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91893) |
 | **Teledyne** | Ingénieur procédé – Traitement de sur... | Bromont, QC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Ingnieur-procd---Traitement-de-surface-et-procds-chimiques----Process-Engineer---Wet-Chemistry-and-Surface-Treatment_REQ35741-1) |
-| **FLIR Systems** | Ingénieur procédé – Traitement de sur... | Bromont, QC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Ingnieur-procd---Traitement-de-surface-et-procds-chimiques----Process-Engineer---Wet-Chemistry-and-Surface-Treatment_REQ35741-1) |
 | **Microsoft** | Solution Engineering Manager- AI Busi... | Greater Toronto, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556942343) |
 | **WSP** | Process Engineer-in-Training | Calgary, AB, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91025) |
 | **WSP** | Signalling Engineer, Rail & Transit | Vancouver, BC, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91827) |
 | **Dialpad** | AI Evaluation Engineer | Kitchener, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8642915002) |
 | **Amazon Development Centre Canada ULC** | Software Development Engineer - Suppl... | Toronto, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482781/software-development-engineer-supply-chain-optimization-tech-inbound-systems) |
 | **Amazon Development Centre Canada ULC** | Software Development Engineer - Suppl... | Toronto, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482782/software-development-engineer-supply-chain-optimization-tech-inbound-systems) |
-| **FLIR Systems** | Stagiaire en photochimie | Bromont, QC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Stagiaire-en-photochimie_REQ35811) |
 | **Workday Inc** | Sr Software Development Engineer in T... | Canada BC Vancouv... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Sr-Software-Developer-in-Test--SDET-_JR-0104958) |
+| **Teledyne** | Stagiaire en photochimie | Bromont, QC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Stagiaire-en-photochimie_REQ35811) |
 | **CAE** | Training Solutions Specialist | Montreal St Laure... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Training-Solutions-Specialist_122601) |
 | **ShyftLabs** | AI Engineer Intern | Toronto, Ontario | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply) |
 | **PointClickCare** | Ai Solution Engineer - (Technology Su... | Mississauga | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pointclickcare/56e13d29-7f5e-4c80-b9cf-8f12a17db1a0/apply) |
@@ -284,10 +283,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Samsara** | AI Engineer | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.samsara.com/company/careers/roles/7589442?gh_jid=7589442) |
 | **Cresta** | Forward Deployed Engineering Intern (... | Toronto, Canada (... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5106468008) |
 | **Databricks** | Manager, Engineering - AI/BI | Vancouver, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8176503002) |
+| **Allstate** | Allstate Sales Agent Trainee (Cambridge) | Canadian Head | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Canadian-Head-Office/Allstate-Sales-Agent-Trainee--Cambridge-_R33189) |
+| **Allstate** | Manager Property Large Loss Field Claims | Canadian Head | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Canadian-Head-Office/Manager-Property-Large-Loss-Field-Claims_R32771) |
 | **Thales** | Corrective Maintenance Coordinator | Wilkinson | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thales.wd3.myworkdayjobs.com/Careers/job/Halifax---Wilkinson/Corrective-Maintenance-Coordinator_R0334847-1) |
 | **Avis Budget Group** | Car Detailer - Part Time | Halifax Stanfield... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Halifax-Stanfield-International-Airport---1031-Bell-Blvd-Goffs/Car-Detailer---Part-Time_R0186627-2) |
-| **Allstate** | Manager Property Large Loss Field Claims | Canadian Head | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Canadian-Head-Office/Manager-Property-Large-Loss-Field-Claims_R32771) |
-| **Allstate** | Allstate Sales Agent Trainee (Cambridge) | Canadian Head | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Canadian-Head-Office/Allstate-Sales-Agent-Trainee--Cambridge-_R33189) |
 | **UiPath** | Technical Account Manager - Retail, T... | Toronto | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/uipath/6c4499ae-91bd-45f6-8534-a748bf22ced8/application) |
 | **Sherwin-Williams** | Sales Representative, Residential Rep... | Stoney Creek, ON,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618886) |
 | **Sherwin-Williams** | Management and Sales Trainee | London, ON, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618983) |
@@ -310,6 +309,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Avis Budget Group** | Car Detailer | 801 | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/801-45-Street-West-Saskatoon-SK-S7L-5X2/Car-Detailer_R0188071) |
 | **Tailscale** | Campaign Operations Coordinator | Remote (Canada) | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tailscale/jobs/4717675005) |
 | **Lightspeed** | Gestionnaire de projets marketing sén... | Montreal | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/842c9b15-9d1b-4e33-98a3-6ce6d5c5629a/application) |
+| **Boeing** | Aircraft Avionics Technician (CH147F) | CAN Petawawa Cana... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Petawawa-Canada/Aircraft-Avionics-Technician--CH147F-_JR2026516495-1) |
+| **Boeing** | Aircraft Structure Technician (CH147F) | CAN Petawawa Cana... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Petawawa-Canada/Aircraft-Structure-Technician--CH147F-_JR2026516455-1) |
 | **Avis Budget Group** | Car Detailer - Part time | Victoria Internat... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Victoria-International-Airport/Car-Detailer---Part-time_R0189798) |
 | **AIG** | Superviseur des sinistres - Accidents... | Toronto + 1 more | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aig.wd1.myworkdayjobs.com/AIG/job/Toronto/Superviseur-bilingues-des-sinistres---Accidents-et-Sant---Bilingual-Claims-Supervisor--Accident---Health-Claims_JR2602018) |
 | **TribalScale** | AI Product Manager - Agency Exp Required | Toronto, Ontario,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tribalscale/jobs/4698838006) |
@@ -318,10 +319,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Microsoft** | Stagiaire Technicien de Centre de Don... | Quebec City, Québ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556859421) |
 | **Tenstorrent** | Buyer, Supply Chain - Contractor | Toronto, Ontario,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5190779007) |
 | **Cummins** | Supply Chain Coordinator | Winnipeg, MB, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433712) |
+| **Boeing** | Aircraft Mechanic (CH147F) | CAN Petawawa Cana... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Petawawa-Canada/Aircraft-Mechanic--CH147F-_JR2026516466-1) |
 | **Thales** | AJISS Maintenance Support Technician ... | Victoria | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thales.wd3.myworkdayjobs.com/Careers/job/Victoria---905-Ellery/AJISS-Maintenance-Support-Technician_R0334755-1) |
 | **Airbnb** | Gestionnaire, Soutien Premium | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.airbnb.com/positions/7862110?gh_jid=7862110) |
-| **Regal Rexnord** | Supply Chain Buyer II | Langley, British ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Langley-British-Columbia-Canada/Supply-Chain-Buyer-II_R26_03564) |
+| **Takeda** | Head of Medical Affairs, Oncology | Toronto, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Toronto-Canada/Head-of-Medical-Affairs--Oncology_R0184507) |
 | **Allstate** | Claims Vendor Consultant Auto Repair | Canadian Head | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Canadian-Head-Office/Claims-Vendor-Consultant-Auto_R31971-1) |
+| **Regal Rexnord** | Supply Chain Buyer II | Langley, British ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Langley-British-Columbia-Canada/Supply-Chain-Buyer-II_R26_03564) |
 | **Tenstorrent** | Sustaining Program Manager, Supply Chain | Toronto, Ontario,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5188446007) |
 | **Geotab** | Business Affairs Manager (Contract Ma... | Oakville, Ontario... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/geotab/jobs/5293970008) |
 | **Sierra** | Sales Director - Retail | Remote | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/sierra/82d714bd-4908-4648-b72e-3322ad4211b6/application) |
@@ -345,9 +348,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Flipp** | Marketing Science Analyst, Retail Med... | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/flipp/jobs/7972966) |
 | **SharkNinja** | Spécialiste, Médias sociaux payants –... | Montréal, Quebec,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4683515006) |
 | **GitLab** | AI Transformation Owner, Marketing | Remote, Canada; R... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gitlab/jobs/8548105002) |
-| **Brex** | Director of Product, Growth/AI | Vancouver, Britis... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.brex.com/careers/8433546002?gh_jid=8433546002) |
-| **Flipp** | Digital Campaign/Performance Marketin... | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/flipp/jobs/7513742) |
-| **Cresta** | AI Quality Assurance Intern | Toronto, Ontario | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5047247008) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -391,6 +391,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Asana** | Head of Talent Operations & Strategy | Vancouver, BC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.asana.com/jobs/apply/8065753?gh_jid=8065753) |
 | **Flipp** | Manager, Finance Operations, Procure-... | Canada; Germany; ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/flipp/jobs/8047154) |
 | **1Password** | Director, Customer Success (Enterprise) | Remote (United St... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/1password/7a3d6f70-c45b-4579-912a-7876b7da2eeb/application) |
+| **Caterpillar** | Sales Support Consultant | Tullamarine, Vict... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Tullamarine-Victoria/Sales-Support-Consultant_R0000381027-1) |
 | **Mastercard** | Customer Success Manager, Credit Risk | Toronto, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Customer-Success-Manager--Credit-Risk_R-282546-2) |
 | **Okta** | Customer Success Operations Manager | Toronto, Ontario,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.okta.com/company/careers/opportunity/8070157?gh_jid=8070157) |
 | **Microsoft** | Customer Success Account Management (... | Ottawa, Ontario, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556938880) |
@@ -454,7 +455,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Curtiss-Wright** | Manufacturing Process Engineer | Ottawa | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/Canada-Ottawa/Manufacturing-Process-Engineer_JR12985) |
 | **Citi** | Applications Development Sr Programme... | Mississauga Ontar... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Applications-Development-Sr-Programmer-Analyst---Assistant-Vice-President_26981002) |
 | **Citi** | Applications Development Sr Programme... | Mississauga Ontar... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Applications-Development-Sr-Programmer-Analyst---Assistant-Vice-President_26981004) |
-| **Palo Alto Networks** | Manager, Solutions Consulting | Toronto, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Toronto-Canada/Manager--Solutions-Consulting_JR-020402) |
 | **Remitly** | Engineering Manager, Home & Explore | Burnaby, British ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Burnaby-British-Columbia-Canada/Engineering-Manager--Home---Explore_R_106611) |
 | **CIBC** | Director, Business Intelligence | Toronto, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Director--Business-Intelligence_2615454-1) |
 | **Autodesk** | Software Quality Assurance Engineer | Vancouver, BC, CAN | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Vancouver-BC-CAN/Software-Quality-Assurance-Engineer_26WD100180-2) |
@@ -500,7 +500,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Instacart** | Detection Engineer II | Remote (ON, AB, B... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://instacart.careers/job/?gh_jid=8080532) |
 | **OpenTable** | System Engineer I | Toronto, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/opentable/jobs/8644093002) |
 | **Stripe** | Integration Reliability Engineer, Pay... | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8054241) |
-| **FLIR Systems** | Ingénieur/Scientifique gravure plasma | Bromont, QC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Ingnieur-Scientifique-gravure-plasma_REQ35777) |
+| **Teledyne** | Ingénieur/Scientifique gravure plasma | Bromont, QC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Ingnieur-Scientifique-gravure-plasma_REQ35777) |
 | **CAE** | Business Intelligence Analyst | Montreal St Laure... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Business-Intelligence-Analyst_122267) |
 | **Generac** | Sofware Engineer - Intern | Toronto, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Toronto-Canada/Sofware-Engineer---Intern_JR14371) |
 | **Analog Devices** | Layout Designer | Canada, Ottawa | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Layout-Designer_R264171) |
@@ -509,10 +509,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Geotab** | Graphic Designer (18 months Contract) | Oakville, Ontario... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/geotab/jobs/5345878008) |
 | **Decagon** | Customer Engineer, Agent Builder - Sp... | Toronto | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/decagon/e5881147-3d9f-43b2-89bb-2b8614360666/application) |
 | **Honeywell** | Ingénieur de service bilingue, Automa... | Quebec, QC, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/146445) |
+| **Boeing** | Technical Service Analyst | Ottawa, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Ottawa-Canada/Technical-Service-Analyst_JR2026518231-1) |
+| **Allstate** | Product Engineering (Guidewire Billin... | Canadian Head | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Canadian-Head-Office/Product-Engineering--Guidewire-BillingCenter-Configuration---Integration-_R32751) |
 | **Canadian Tire** | Technical Vendor Specialist | Oakville, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Technical-Vendor-Specialist_JR162795) |
 | **Regal Rexnord** | Head of Engineering | Langley, British ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Langley-British-Columbia-Canada/Engineering-Manager_R26_01659-2) |
 | **Affirm** | Resolutions Manager | Remote Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7780496003) |
-| **Allstate** | Product Engineering (Guidewire Billin... | Canadian Head | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Canadian-Head-Office/Product-Engineering--Guidewire-BillingCenter-Configuration---Integration-_R32751) |
 | **Ciena** | Wavelogic Software Development - New ... | Ottawa | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Software-Development---New-Grad_R031336) |
 | **Unisys** | Field Engineer Technician | Winnipeg, MB, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://unisys.wd5.myworkdayjobs.com/External/job/Winnipeg-MB-Canada/Field-Engineer-Technician_REQ573949-1) |
 | **Brex** | Systems Analyst II | Vancouver, Britis... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.brex.com/careers/8641833002?gh_jid=8641833002) |
@@ -522,11 +523,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Dialpad** | Applied Scientist | Vancouver, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8639037002) |
 | **Dialpad** | Applied Scientist | Kitchener, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8633549002) |
 | **Xsolla** | Site Reliability Engineer (Monetization) | Montreal | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/xsolla/9e094127-2bae-44bd-b144-49fb367aade5/apply) |
-| **Palo Alto Networks** | Solutions Consultant 2 | Vancouver, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Vancouver-Canada/Solutions-Consultant-2_JR-019555) |
-| **Palo Alto Networks** | Solutions Consultant 2 | Toronto, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Toronto-Canada/Solutions-Consultant-2_JR-018925-1) |
+| **Teledyne** | Design Specialist – Electronics (III) | Waterloo, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/Design-Specialist---Electronics--III-_REQ34069) |
+| **Teledyne** | Design Specialist - Software (III) | Waterloo, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/Design-Specialist---Software--III-_REQ33465) |
 | **TD Bank** | Solutions Design IT Specialist | Toronto, Ontario | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Solutions-Design-IT-Specialist_R_1499434) |
-| **FLIR Systems** | Design Specialist – Electronics (III) | Waterloo, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/Design-Specialist---Electronics--III-_REQ34069) |
-| **FLIR Systems** | Design Specialist - Software (III) | Waterloo, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/Design-Specialist---Software--III-_REQ33465) |
 | **Docker** | Director, Strategic Sales (SF Bay Area) | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/docker/f29f57fa-db23-43d3-9735-2ebafac3af06/application) |
 | **Rockwell Automation** | Co-op, Firmware Engineering | Cambridge, Ontari... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Cambridge-Ontario-Canada/Intern--Firmware-Engineering_R26-4530) |
 | **Motorola Solutions** | QA Engineer (Business Systems & Order... | Vancouver, Canada... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/QA-Engineer--Business-Systems---Order-Management---Canada-Remote-_R66816) |
@@ -547,10 +546,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Ping Identity** | Site Reliability Engineer II | Vancouver, BC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/pingidentity/jobs/8582420002) |
 | **StackAdapt** | Engineering Manager I, Creatives | Canada; Toronto; ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/stackadapt/jobs/4301432009) |
 | **Tailscale** | Billing Engineer | Remote (Canada) | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tailscale/jobs/4710794005) |
+| **Marvell** | Model Correlation & SI Intern - Ph. D... | Ottawa, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Model-Correlation---SI-Intern---Master-s-Degree_2502364) |
+| **Marvell** | Analog Engineer Intern - PhD | Vancouver, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424-1) |
+| **Marvell** | Analog Engineer Intern - PhD | Toronto, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426-1) |
 | **Lumentum** | Hermetics Systems Development Co-op S... | Ottawa | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Hermetics-Systems-Development-Co-op-Student_2026542) |
 | **Lumentum** | Hermetics Systems Development Co-op S... | Ottawa | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Hermetics-Systems-Development-Co-op-Student_2026543) |
 | **BeyondTrust** | Sr Software Development Engineer | Remote Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/beyondtrust/jobs/7996813) |
-| **Asana** | Engineering Manager | Vancouver, BC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.asana.com/jobs/apply/7555402?gh_jid=7555402) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -611,7 +612,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1350 current opportunities from 231 companies**
+**🎯 1348 current opportunities from 232 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
