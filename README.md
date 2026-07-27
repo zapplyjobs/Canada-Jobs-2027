@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1014-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-753-informational?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-991-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-736-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-184-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -117,8 +117,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TD Bank** | Software Engineer III (Front End Java... | Toronto, Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-III--Front-End-Java-React-Spring-_R_1498672) |
 | **BMO** | Software Developer – Java, AWS & PL/S... | Toronto ON CAN + ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer---Java--AWS---PL-SQL--AI-Assisted-Development-_R260018539) |
 | **Mastercard** | Software Engineer II | Vancouver, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer-II_R-278931) |
-| **CAE** | IT Security Analyst | Toronto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Toronto/IT-Security-Analyst_121203) |
-| **CAE** | CyberSecurity Specialist - Cybersecur... | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Cybersecurity-Specialist---Cybersecurity-Executive--Policy--and-Standards_122354) |
 | **Ada** | Software Engineering Intern | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/ada18/jobs/5180710007) |
 | **Ciena** | Stagiaire en développement logiciel -... | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-Canada/Stagiaire-en-dveloppement-logiciel---COOP-Software-developer_R031275) |
 | **Kabam** | Software Engineer (Gameplay) Co-op | Vancouver | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/kabam/ad42a9d4-838d-443e-be94-e18b9097851e/apply) |
@@ -174,7 +172,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lightspeed** | Manager, Data Science & Machine Learning | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/7269857e-997f-4431-b86a-4d32325ae8d6/application) |
 | **Amazon.com.ca, ULC** | Data Scientist II, Amazon Private Brands | Vancouver, BC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10475432/data-scientist-ii-amazon-private-brands) |
 | **Scopely** | Data Analyst - Marvel Strike Force | Canada; US, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scopely/jobs/5301857008?gh_jid=5301857008) |
-| **Vertiv** | Sales Data Analytics Analyst | Mississauga, ON, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20276502) |
 | **TD Bank** | Machine Learning Engineer II | Toronto, Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-II_R_1482757) |
 | **TD Bank** | Technical Product Owner - AI & Machin... | Toronto, Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Technical-Product-Owner---AI---Machine-Learning-Solutions_R_1496435) |
 | **Cohere** | Machine Learning Intern/Co-op  (Fall,... | Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) |
@@ -196,8 +193,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **WSP** | Signalling Engineer, Rail & Transit | Vancouver, BC, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91827) |
 | **WSP** | Project Engineer/ Project Manager, Ra... | Thornhill, ON, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91899) |
 | **Dialpad** | AI Evaluation Engineer | Kitchener, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8642915002) |
-| **Amazon Development Centre Canada ULC** | Software Development Engineer - Suppl... | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482782/software-development-engineer-supply-chain-optimization-tech-inbound-systems) |
 | **Amazon Development Centre Canada ULC** | Software Development Engineer - Suppl... | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482781/software-development-engineer-supply-chain-optimization-tech-inbound-systems) |
+| **Amazon Development Centre Canada ULC** | Software Development Engineer - Suppl... | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482782/software-development-engineer-supply-chain-optimization-tech-inbound-systems) |
 | **ShyftLabs** | AI Engineer Intern | Toronto, Ontario | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply) |
 | **PointClickCare** | Ai Solution Engineer - (Technology Su... | Mississauga | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/pointclickcare/56e13d29-7f5e-4c80-b9cf-8f12a17db1a0/apply) |
 | **Guidepoint** | AI Engineer | Toronto, Ontario,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8635707002) |
@@ -331,7 +328,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Mastercard** | Specialist, Solutions Operations - Ag... | Toronto, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Specialist--Solutions-Operations---Agent-Suite_R-281517) |
 | **AstraZeneca** | Associate Director, Business Planning... | Mississauga | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Canada---Mississauga/Associate-Director--Business-Planning---Operations---12---Month-Contract_R-256278-1) |
 | **Baker Hughes** | Operations Excellence Manager | Ab, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/CA-AB-FORT-MCMURRAY--3-360-MACKENZIE-BLVD/Operations-Excellence-Manager_R164948-1) |
-| **Curtiss-Wright** | Program Manager, Deputy | Stratford | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/Canada-Stratford/Program-Manager--Deputy_JR12789) |
 | **Squarepoint Capital** | Operations Intern (Fall) | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.squarepoint-capital.com/open-opportunities?id=8050436&gh_jid=8050436) |
 | **Rocket Lab** | Operations Development Intern Fall 2026 | Toronto, CAN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7762789003) |
 
@@ -425,7 +421,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TD Bank** | IT Build Analyst I | Toronto Ontario +... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/IT-Build-Analyst-I_R_1497085) |
 | **TransUnion** | Bilingual Special Handling Investigat... | Burlington, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Burlington-Canada/Bilingual-Special-Handling-Investigator---18-month-contract_19041309) |
 | **Canadian Tire** | Data Coordinator, Circular Material I... | Toronto, ON | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Data-Coordinator--Circular-Material-Innovations_JR163254) |
-| **General Motors** | EGM – Propulsion Thermal Management | Markham, Ontario,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/EGM---Propulsion-Thermal-Management_JR-202614087-1) |
 | **SS&C Technologies** | Intern - Technical | Ontario Toronto +... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Ontario-Toronto/Intern---Technical_R40419) |
 | **Ciena** | Software Development– Kubernetes Plat... | Ottawa | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Development--Kubernetes-Platform-Migration-and-Workflow-Orchestration-Intern_R031308) |
 | **Curtiss-Wright** | Mechanical Engineering Co-Op | Mississauga | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/Canada-Mississauga-Indal/Mechanical-Engineering-Co-Op_JR12655) |
@@ -445,6 +440,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ZayZoon** | Customer Care Representative | Calgary | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/zayzoon/d41b0ddd-a2a6-47d5-90af-01528c1c73f4/application) |
 | **OpenTable** | Director, Financial Planning & Analys... | Toronto, Canada | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/opentable/jobs/8646244002) |
 | **MaintainX** | Représentant(e) en développement des ... | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/maintainx/73ca8b31-3588-4233-94bc-d8838a1a4970/application) |
+| **MaintainX** | Sales Development Representative (Inb... | Montreal | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/maintainx/0728b51c-da26-441a-8d93-392c291a6452/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -505,7 +501,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1014 current opportunities from 184 companies**
+**🎯 991 current opportunities from 184 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
