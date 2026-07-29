@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1702-brightgreen?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1701-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1233-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-243-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -125,7 +125,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TD Bank** | Full Stack Data Science Engineer | Toronto Ontario +... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Full-Stack-Data-Science-Engineer_R_1499536) |
 | **Fortinet** | Embedded Software Developer | Burnaby, BC, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23594) |
 | **Thales** | Software Developer in Test | Pender St | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thales.wd3.myworkdayjobs.com/Careers/job/Vancouver---Pender-St/Software-Developer-in-Test_R0334331-1) |
-| **1Password** | Developer, Insights | Remote (United St... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/1password/d80df65c-3219-4290-b2e7-1a76c2446d65/application) |
 | **Canadian Tire** | Program Manager, Data and AI Security | Toronto ON + 2 more | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Program-Manager--Data-Application-and-AI-Security_JR154070) |
 | **Remitly** | Software Developer Engineer II, WARP | Burnaby, British ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Burnaby-British-Columbia-Canada/Software-Developer-Engineer-II--WARP_R_106484) |
 | **Cisco** | Analog/Mixed-signal Sustaining IC Des... | Kanata, Ontario, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Analog-Mixed-signal-Sustaining-IC-Design-Developer---Acacia--Hybrid-_2001523) |
@@ -166,6 +165,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cohere** | Software Engineer Intern (Fall / Wint... | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application) |
 | **Torc Robotics** | Software Engineer II, Calibration | Canada, Montreal,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8503434002) |
 | **Block** | Software Engineer, Cash App - Lending... | Vancouver, Britis... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5196175008?gh_jid=5196175008) |
+| **Take-Two Interactive** | Data Developer (Python/Spark) | Toronto, Ontario,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/taketwo/jobs/7851352) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -457,6 +457,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **IEM** | Supplier Quality Engineer | Surrey, British C... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4337881009) |
 | **Google** | Student Researcher, PhD, Fall 2026 | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
 | **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
 | **2K Games** | Engineering Manager, Engineering Serv... | Montréal, Quebec,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/2k/jobs/7814032003) |
@@ -556,7 +557,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Semtech** | Associate Analog Design Engineer | Ottawa, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/SemtechCareers/job/CAN---Ottawa-ON/Associate-Analog-Design-Engineer_REQ3486) |
 | **Semtech** | Associate Analog Design Engineer | Ottawa, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/SemtechCareers/job/CAN---Ottawa-ON/Associate-Analog-Design-Engineer_REQ3485) |
 | **Homebase** | UX Engineer (Hybrid) | Toronto | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/homebase/df64d63b-b8e2-4133-8c18-36d0eb2411c1/application) |
-| **Rockstar Games** | IT Workflow Coordinator | Oakville, Ontario... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rockstargames/jobs/7800929003) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -617,7 +617,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1702 current opportunities from 243 companies**
+**🎯 1701 current opportunities from 243 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
