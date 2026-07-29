@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1697-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1227-informational?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1696-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1226-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-242-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -195,6 +195,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Block** | Silicon Product and Test Engineer | Toronto, Ontario,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5012353008?gh_jid=5012353008) |
 | **Astera Labs** | System Validation Engineer (Various L... | Vancouver, BC, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/asteralabs/jobs/4671900005) |
 | **Block** | ASIC Validation Engineer | Toronto, Ontario,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5115892008?gh_jid=5115892008) |
+| **Veolia Environnement SA** | Electrical and Instrumentation Techni... | Burnaby, BC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000140483010) |
 | **Capco** | Consultant, Data Validation | Toronto | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8072053) |
 | **IEM** | Electrical Production Assembler | Surrey, British C... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4274855009) |
 
@@ -283,7 +284,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stripe** | Engineering Manager, AI Conversation ... | Toronto, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7943804) |
 | **Braze** | Engineering Manager, Email | Toronto | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/braze/jobs/7939042?gh_jid=7939042) |
 | **Tenstorrent** | Sr Engineer, AI Kernel | Austin, Texas, Un... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5119390007) |
-| **League** | Applied AI Scientist | Remote | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/leagueinc/jobs/5972947004) |
 | **Samsara** | AI Engineer | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.samsara.com/company/careers/roles/7589442?gh_jid=7589442) |
 | **Cresta** | Forward Deployed Engineering Intern (... | Toronto, Canada (... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5106468008) |
 | **Databricks** | Manager, Engineering - AI/BI | Vancouver, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8176503002) |
@@ -347,6 +347,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Geotab** | Business Affairs Manager (Contract Ma... | Oakville, Ontario... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/geotab/jobs/5293970008) |
 | **Red Bull** | Musketeer – Gestionnaire On Premise | Québec City, QC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000138146438) |
 | **Sierra** | Sales Director - Retail | Remote | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/sierra/82d714bd-4908-4648-b72e-3322ad4211b6/application) |
+| **Coca-Cola** | Maintenance Technician II - Fairlife ... | ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Canada---ON---Peterborough/Maintenance-Technician-II---Fairlife----4300---433A-Red-Seal-required_R-137823) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -375,7 +376,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Astreya** | Field Services Technician I | Toronto, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Toronto-Canada/Field-Services-Technician-I_R0016275) |
 | **Nike** | Supervisor, Distribution Center Opera... | Toronto, Ontario | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nike.wd1.myworkdayjobs.com/NKE/job/Toronto-Ontario/Supervisor--Distribution-Center-Operations_R-87821) |
 | **Thales** | Field Service Specialist | Pender St | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thales.wd3.myworkdayjobs.com/Careers/job/Vancouver---Pender-St/Field-Service-Specialist_R0335648-1) |
-| **Wealthsimple** | Associate, Securities Lending Operations | Remote (Canada) | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/wealthsimple/993cb579-d5bb-401f-9dbd-c0c55a3d0487/application) |
+| **Wealthsimple** | Associate, Securities Lending Operations | Toronto, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/wealthsimple/993cb579-d5bb-401f-9dbd-c0c55a3d0487/application) |
 | **Airbnb** | Supervisor, Premium Support (French/E... | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.airbnb.com/positions/8080625?gh_jid=8080625) |
 | **Airbnb** | Specialist, Premium Support (French/E... | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.airbnb.com/positions/8080766?gh_jid=8080766) |
 | **Oracle** | Oracle NetSuite Customer Success Asso... | TORONTO, ON, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/341355) |
@@ -615,7 +616,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1697 current opportunities from 242 companies**
+**🎯 1696 current opportunities from 242 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
