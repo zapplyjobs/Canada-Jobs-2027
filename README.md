@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1701-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1233-informational?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1702-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1234-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-243-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -67,8 +67,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Google** | Hardware System Integration Developer | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98299400815551174) |
-| **Google** | Software Developer, GKE Workload Auto... | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/94484363902624454) |
 | **Google** | Software Developer, Enterprise Chat, ... | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/72627350495208134) |
+| **Google** | Software Developer III, Full Stack, G... | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98850926155965126) |
 | **1Password** | Developer, Open Source | Remote (United St... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/1password/c22ea4e6-f39b-448c-a9e9-a04445ba18e6/application) |
 | **Microsoft** | Software Engineer II - Full Stack | Vancouver, Britis... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556866289) |
 | **Autodesk** | Software Engineer, Ingénieur Logiciel... | Montreal QC CAN +... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Software-Engineer--Ingnieur-Logiciel---Platform---Emerging-Technologies_26WD99401) |
@@ -260,8 +260,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **WSP** | Signalling Engineer, Rail & Transit | Vancouver, BC, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91827) |
 | **WSP** | Project Engineer/ Project Manager, Ra... | Thornhill, ON, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91899) |
 | **Dialpad** | AI Evaluation Engineer | Kitchener, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8642915002) |
-| **Amazon Development Centre Canada ULC** | Software Development Engineer - Suppl... | Toronto, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482781/software-development-engineer-supply-chain-optimization-tech-inbound-systems) |
 | **Amazon Development Centre Canada ULC** | Software Development Engineer - Suppl... | Toronto, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482782/software-development-engineer-supply-chain-optimization-tech-inbound-systems) |
+| **Amazon Development Centre Canada ULC** | Software Development Engineer - Suppl... | Toronto, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482781/software-development-engineer-supply-chain-optimization-tech-inbound-systems) |
 | **Workday Inc** | Sr Software Development Engineer in T... | Canada BC Vancouv... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Sr-Software-Developer-in-Test--SDET-_JR-0104958) |
 | **CAE** | Training Solutions Specialist | Montreal St Laure... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Training-Solutions-Specialist_122601) |
 | **Citi** | Apps Support Group Manager - Pega & AI | Mississauga Ontar... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Apps-Support-Group-Manager---Pega---AI_26978636) |
@@ -457,9 +457,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **IEM** | Supplier Quality Engineer | Surrey, British C... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4337881009) |
 | **Google** | Student Researcher, PhD, Fall 2026 | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
 | **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
+| **IEM** | Supplier Quality Engineer | Surrey, British C... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4337881009) |
 | **2K Games** | Engineering Manager, Engineering Serv... | Montréal, Quebec,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/2k/jobs/7814032003) |
 | **2K Games** | Engineering Manager, Tools & Products | Montréal, Quebec,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/2k/jobs/7814030003) |
 | **CAE** | Global Logistics Data & Digital Trans... | Montreal | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Process-Improvement-Analyst_120868) |
@@ -467,6 +467,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Thermo Fisher Scientific** | Calibration Technologist I | Ottawa, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Ottawa-Canada/Calibration-Technologist-I_R-01352917) |
 | **WSP** | Chargé (e) de projet, études d'impact | Noranda, QC, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92117) |
 | **Stantec** | Project Manager - Land Development | Waterloo, ON, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006948) |
+| **Stantec** | Bridge Engineer - Roadways & Highways | Dartmouth, NS, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006978) |
 | **TD Synnex** | LC Associate - LC Associé (CONV) | Mississauga, Onta... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mississauga-Ontario-Canada/LC-Associate---LC-Associ--CONV-_R54486) |
 | **Palo Alto Networks** | Consulting Director, DFIR, Reactive S... | Toronto, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Toronto-Canada/Consulting-Director--DFIR--Reactive-Services--Unit-42-_JR-017284) |
 | **CrowdStrike** | Sandbox Agentic Engineer (Remote, CAN) | Canada ON + 5 more | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Canada---Remote-ON/Sandbox-Agentic-Engineer--Remote--CAN-_R28164) |
@@ -487,7 +488,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **WSP** | Municipal Engineer/Technologist | Winnipeg, MB, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/85894) |
 | **WSP** | Technicien(ne) en structure du bâtiment | Chicoutimi, QC, C... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90475) |
 | **Stantec** | Structural Engineer | Fredericton, NB, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006966) |
-| **Stantec** | Roads Project Engineer | Winnipeg, MB, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006971) |
 | **Unisys** | Ingeniero de soporte en sitio dedicad... | Monterrey, NL, Me... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://unisys.wd5.myworkdayjobs.com/External/job/Monterrey-NL-Mexico/Ingeniero-de-soporte-en-sitio-dedicado---Monterrey-7-de-9_REQ574700) |
 | **Unisys** | Ingeniero de soporte en sitio dedicad... | Monterrey, NL, Me... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://unisys.wd5.myworkdayjobs.com/External/job/Monterrey-NL-Mexico/Ingeniero-de-soporte-en-sitio-dedicado---Monterrey-8-de-9_REQ574701) |
 | **Remitly** | Engineering Manager, Home & Explore | Burnaby, British ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Burnaby-British-Columbia-Canada/Engineering-Manager--Home---Explore_R_106611) |
@@ -617,7 +617,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1701 current opportunities from 243 companies**
+**🎯 1702 current opportunities from 243 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
