@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1709-brightgreen?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1707-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1241-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-244-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -259,8 +259,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **WSP** | Signalling Engineer, Rail & Transit | Vancouver, BC, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91827) |
 | **WSP** | Project Engineer/ Project Manager, Ra... | Thornhill, ON, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91899) |
 | **Dialpad** | AI Evaluation Engineer | Kitchener, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8642915002) |
-| **Amazon Development Centre Canada ULC** | Software Development Engineer - Suppl... | Toronto, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482781/software-development-engineer-supply-chain-optimization-tech-inbound-systems) |
 | **Amazon Development Centre Canada ULC** | Software Development Engineer - Suppl... | Toronto, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482782/software-development-engineer-supply-chain-optimization-tech-inbound-systems) |
+| **Amazon Development Centre Canada ULC** | Software Development Engineer - Suppl... | Toronto, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482781/software-development-engineer-supply-chain-optimization-tech-inbound-systems) |
 | **Workday Inc** | Sr Software Development Engineer in T... | Canada BC Vancouv... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Sr-Software-Developer-in-Test--SDET-_JR-0104958) |
 | **CAE** | Training Solutions Specialist | Montreal St Laure... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Training-Solutions-Specialist_122601) |
 | **Citi** | Apps Support Group Manager - Pega & AI | Mississauga Ontar... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Apps-Support-Group-Manager---Pega---AI_26978636) |
@@ -286,6 +286,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Samsara** | AI Engineer | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.samsara.com/company/careers/roles/7589442?gh_jid=7589442) |
 | **Cresta** | Forward Deployed Engineering Intern (... | Toronto, Canada (... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5106468008) |
 | **Databricks** | Manager, Engineering - AI/BI | Vancouver, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8176503002) |
+| **Veolia Environnement SA** | Gestionnaire de soumissions / Bid Man... | Montréal, QC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000140555419) |
 | **Veeva Systems** | Technical Product Manager (AI) - Veev... | Toronto | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/c0f4972b-95e3-4f90-96be-ba8e033b4c03/apply) |
 | **Microsoft** | Stagiaire Technicien de Centre de Don... | Quebec City, Québ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556859421) |
 | **AIG** | Claims Analyst II, Commercial Marine | 120 Bremner Boule... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://aig.wd1.myworkdayjobs.com/AIG/job/120-Bremner-Boulevard-Toronto-Ontario-CAN/Claims-Analyst-II--Commercial-Marine_JR2602730) |
@@ -305,7 +306,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CIBC** | Financial Services Representative - U... | Rose, QC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Sainte-Rose-QC/Financial-Services-Representative---Universal-Banker_2609249-1) |
 | **Allstate** | Manager Property Large Loss Field Claims | Canadian Head | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Canadian-Head-Office/Manager-Property-Large-Loss-Field-Claims_R32771) |
 | **Allstate** | Allstate Sales Agent Trainee (Cambridge) | Canadian Head | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Canadian-Head-Office/Allstate-Sales-Agent-Trainee--Cambridge-_R33189) |
-| **Veolia Environnement SA** | Gestionnaire de soumissions / Bid Man... | Montréal, QC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000140095199) |
 | **MaintainX** | Analyste de l’implantation - Bilingue... | Montreal | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/maintainx/d9f12cf4-6b15-4b77-8ac2-3fcaf0b9c615/application) |
 | **UiPath** | Technical Account Manager - Retail, T... | Toronto | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/uipath/6c4499ae-91bd-45f6-8534-a748bf22ced8/application) |
 | **Sherwin-Williams** | Sales Representative, Residential Rep... | Stoney Creek, ON,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618886) |
@@ -454,7 +454,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Stripe** | Forward Deployed Engineer, Profession... | United States or ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8075570) |
+| **Stripe** | Forward Deployed Engineer, Profession... | United States or ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8075577) |
 | **Tenstorrent** | VP of Information Technology | Austin, Texas, Un... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5180934007) |
 | **Google** | Student Researcher, PhD, Fall 2026 | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
 | **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
@@ -614,7 +614,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1709 current opportunities from 244 companies**
+**🎯 1707 current opportunities from 244 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
