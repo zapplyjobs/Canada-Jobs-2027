@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1690-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1222-informational?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1693-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1223-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-242-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **1Password** | Developer, Open Source | Remote (United St... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/1password/c22ea4e6-f39b-448c-a9e9-a04445ba18e6/application) |
 | **Google** | Hardware System Integration Developer | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98299400815551174) |
 | **Google** | Software Developer, GKE Workload Auto... | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/94484363902624454) |
 | **Google** | Software Developer, Enterprise Chat, ... | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/72627350495208134) |
@@ -165,7 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nokia** | Embedded C/C++ SW Developer Co-op/Intern | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268) |
 | **Cohere** | Software Engineer Intern (Fall / Wint... | Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application) |
 | **Torc Robotics** | Software Engineer II, Calibration | Canada, Montreal,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8503434002) |
-| **Block** | Software Engineer, Cash App - Lending... | Vancouver, Britis... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](http://block.xyz/careers/jobs/5196175008?gh_jid=5196175008) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -371,6 +371,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CAE** | C-MO-420 Manufacturing Operations Man... | Montreal | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-MO-420-Manufacturing-Operations-Management-Intern_122406) |
 | **Tailscale** | Customer Support Engineer | Remote (Canada) | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tailscale/jobs/4709826005) |
 | **DRW** | Application Support Specialist | Montreal | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7513647) |
+| **Tailscale** | Revenue Operations Analyst | Remote (Canada) | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tailscale/jobs/4719433005) |
 | **Astreya** | Field Services Technician I | Toronto, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Toronto-Canada/Field-Services-Technician-I_R0016275) |
 | **Nike** | Supervisor, Distribution Center Opera... | Toronto, Ontario | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nike.wd1.myworkdayjobs.com/NKE/job/Toronto-Ontario/Supervisor--Distribution-Center-Operations_R-87821) |
 | **Thales** | Field Service Specialist | Pender St | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thales.wd3.myworkdayjobs.com/Careers/job/Vancouver---Pender-St/Field-Service-Specialist_R0335648-1) |
@@ -615,7 +616,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1690 current opportunities from 242 companies**
+**🎯 1693 current opportunities from 242 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
