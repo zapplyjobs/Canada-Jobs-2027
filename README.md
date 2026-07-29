@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1690-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1222-informational?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1681-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1215-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-242-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -329,7 +329,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TribalScale** | AI Product Manager - Agency Exp Required | Toronto, Ontario,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tribalscale/jobs/4698838006) |
 | **NBCUniversal** | Manager, Human Resources   Gestionnai... | Montreal, QUEBEC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000138924779) |
 | **Stripe** | Head of Self-Serve Paid Media | San Francisco, Ne... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8068521) |
-| **Honeywell** | Technicien(ne) de service sur le terr... | Lachine, QC, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153680) |
 | **Hitachi** | Gestionnaire de la qualité des projet... | Saint Laurent Que... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Saint-Laurent-Quebec-Canada/Quality-and-Continuous-Improvement-Specialist_R0136943-1) |
 | **NBCUniversal** | Office Manager   Gestionnaire de bureau | Montreal, QUEBEC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000138727129) |
 | **Tenstorrent** | Buyer, Supply Chain - Contractor | Toronto, Ontario,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/5190779007) |
@@ -347,6 +346,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Red Bull** | Musketeer – Gestionnaire On Premise | Québec City, QC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000138146438) |
 | **Sierra** | Sales Director - Retail | Remote | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/sierra/82d714bd-4908-4648-b72e-3322ad4211b6/application) |
 | **Coca-Cola** | Maintenance Technician II - Fairlife ... | ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Canada---ON---Peterborough/Maintenance-Technician-II---Fairlife----4300---433A-Red-Seal-required_R-137823) |
+| **Pfizer** | Key Account Manager (KAM) / Gestionna... | Alberta | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Canada---Alberta---Remote/Key-Account-Manager--KAM----Gestionnaire-des-comptes-cls---Alberta_4960330) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -384,7 +384,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Homebase** | IT Support Specialist, Part-Time (Hyb... | Toronto | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/homebase/c9ec8fde-3983-4f31-911b-e287625b32d1/application) |
 | **Sherwin-Williams** | Branch Operations Manager | Toronto, ON, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2618913) |
 | **Mastercard** | Customer Success, Product Specialist | Toronto, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Customer-Success--Product-Specialist_R-286557) |
-| **Honeywell** | Sr Director, ARR Transformation and C... | Calgary, AB, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153992) |
 | **Canadian Tire** | Executive Assistant / Executive Opera... | Toronto, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Executive-Assistant---Executive-Operations-Analyst--Office-of-the-Chief-Audit-Executive_JR163481) |
 | **Vertiv** | Manager Thermal Service Operations | Mississauga, ON, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20277575) |
 | **Alo Yoga** | Operations Associate (Part-Time) - Ri... | Ottawa, Ontario, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6122948004?gh_jid=6122948004) |
@@ -508,8 +507,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Wealthsimple** | Software Development Manager, Observa... | Remote (Canada) | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/wealthsimple/b0271319-e7bc-4a4e-94ea-a6cffb23d6f2/application) |
 | **Cerebras Systems** | Kernel Engineer - New Grad | and Canada Offices | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e/application) |
 | **Amazon Web Services Canada, Inc.** | Software Development Engineer, AWS Ma... | Vancouver, BC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10482917/software-development-engineer-aws-marketplace) |
-| **Honeywell** | Project Manager- Building Automation | Sherwood Park, AB... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/153902) |
-| **Honeywell** | Building Automation Engineer | Burnaby, BC, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154238) |
 | **Ciena** | Optical Design Engineer | Ottawa | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Design-Engineer_R031356) |
 | **Instacart** | Detection Engineer II | Remote (ON, AB, B... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://instacart.careers/job/?gh_jid=8080532) |
 | **OpenTable** | System Engineer I | Toronto, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/opentable/jobs/8644093002) |
@@ -521,7 +518,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Decagon** | Customer Engineer, Agent Builder - Sp... | Toronto | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/decagon/e5881147-3d9f-43b2-89bb-2b8614360666/application) |
 | **Boeing** | Technical Service Analyst | Ottawa, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Ottawa-Canada/Technical-Service-Analyst_JR2026518231-1) |
 | **Intel** | Analog Layout Design Engineer | Virtual Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Canada/Analog-Layout-Design-Engineer_JR0285745) |
-| **Honeywell** | Ingénieur de service bilingue, Automa... | Quebec, QC, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/146445) |
 | **Unisys** | Field Engineer Technician | Winnipeg, MB, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://unisys.wd5.myworkdayjobs.com/External/job/Winnipeg-MB-Canada/Field-Engineer-Technician_REQ573949-1) |
 | **Canadian Tire** | Technical Vendor Specialist | Oakville, ON | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Technical-Vendor-Specialist_JR162795) |
 | **Hitachi** | Ingénieur manufacturier / Manufacturi... | Varennes, Quebec,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Varennes-Quebec-Canada/Ingnieur-manufacturier---Manufacturing-engineer_R0137262) |
@@ -555,6 +551,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Homebase** | UX Engineer (Hybrid) | Toronto | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/homebase/df64d63b-b8e2-4133-8c18-36d0eb2411c1/application) |
 | **Rockstar Games** | IT Workflow Coordinator | Oakville, Ontario... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rockstargames/jobs/7800929003) |
 | **Tailscale** | Customer Reliability Engineer | Remote (Canada) | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tailscale/jobs/4715148005) |
+| **Charles River Associates** | (2027 Bachelor's/Master's graduates) ... | Toronto, ON, Canada | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8064581) |
+| **SS&C Technologies** | Intern - Technical | Ontario Toronto +... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Ontario-Toronto/Intern---Technical_R40419) |
+| **GitLab** | Engineering Manager, Tenant Scale:Git | Remote, Canada; R... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gitlab/jobs/8617538002) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -615,7 +614,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1690 current opportunities from 242 companies**
+**🎯 1681 current opportunities from 242 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
