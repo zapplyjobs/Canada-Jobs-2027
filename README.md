@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1825-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1328-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-240-blue?style=flat&logo=building)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1687-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-1233-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-242-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -66,19 +66,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **TD Bank** | Software Engineer (Java) – Front Offi... | Toronto, Ontario | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Expedia Group** | Développeur(-euse) de logiciels II (c... | Quebec | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Motorola Solutions** | DevOps Engineer II | Vancouver, Canada | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | Hardware System Integration Developer | Canada | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | API and Integrations Developer, Works... | Canada | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | Web Solutions Developer III, Google C... | Canada | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Microsoft** | Software Engineer | Vancouver, Britis... | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **TD Bank** | Software Engineer (Java) – Front Offi... | Toronto, Ontario | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Hardware System Integration Developer | Canada | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | API and Integrations Developer, Works... | Canada | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Web Solutions Developer III, Google C... | Canada | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Expedia Group** | Développeur(-euse) de logiciels II (c... | Quebec | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Motorola Solutions** | DevOps Engineer II | Vancouver, Canada | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Microsoft** | Software Engineer | Vancouver, Britis... | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Geotab** | Software Developer | Oakville, Ontario... | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Allstate** | Product Engineering (Integration Java... | Canadian Head | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **DRW** | Software Developer (Research) | Montreal | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **D2L** | Software Developer | Kitchener, Toront... | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Lyft** | Software Engineer, Core Maps | Toronto, Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Morgan Stanley** | SRE Associate (Hybrid) | Montreal, Canada | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **General Motors** | 2026 Fall Co-op Digital Vehicle Exper... | Markham, Ontario,... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Expedia Group** | Développeur logiciel II (généraliste ... | Quebec | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **ABB** | Software Developer - Programmer Analyst | Dorval, Quebec, C... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -96,8 +95,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **1Password** | Developer, Open Source | Remote (United St... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Microsoft** | Software Engineer II - Full Stack | Vancouver, Britis... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Elastic** | VP, Threat Research - Security Intell... | Canada | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **TD Bank** | Software Engineer III | Toronto, Ontario | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **TD Bank** | Information Security Specialist - Tec... | Toronto, Ontario | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Allstate** | Product Engineering (Full Stack Devel... | Canadian Head | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Faire** | Product Engineer - Brand - Fullstack,... | Waterloo, ON | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Dialpad** | Software Engineer, Developer Platform | Vancouver, Canada | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -112,7 +109,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nokia** | Jr. Embedded Software Developer | Canada | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Fortinet** | Expert en sécurité (avant-vente) – Ma... | Montreal, QC, Canada | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Fortinet** | Expert en sécurité avant-vente – Part... | Montreal, QC, Canada | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **TD Synnex** | IT Business Systems Engineer – Collab... | Mississauga, Onta... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Stripe** | Software Engineer, Machine Learning I... | Toronto, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Apple** | Software Engineer, Productivity Apps | Vancouver | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Tailscale** | Software Engineer, AI Enablement | Remote (Canada) | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -120,7 +116,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sophos** | Anaplan Developer | Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Pinterest** | Software Engineer II, tvScientific | Toronto, ON, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Tenstorrent** | Software Engineer, Metal Runtime (API... | Austin, Texas, Un... | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Morgan Stanley** | Cybersecurity Platform Specialist (Ku... | Montreal, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **General Motors** | Engineering Group Manager - Software ... | Markham Ontario C... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **ResMed** | Software Engineering Manager | Halifax, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **ResMed** | Specialist, Information Security | Halifax, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -129,16 +124,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Squarepoint Capital** | Software Developer - Market Data Inte... | London, Montreal | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **PTC** | Software Developer | Montreal, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **StackAdapt** | DevOps Engineer | Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **TD Bank** | Software Engineer II (Java/Spring) | Toronto, Ontario | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Citi** | Assistant Vice President, eTrading Co... | Mississauga Ontar... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Johnson Controls** | Security Service Technician | Alberta | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **1Password** | .Net Developer, SaaS Manager | Remote (United St... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **TD Bank** | Information Security Specialist | Toronto Ontario | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Ciena** | Software Engineer and Tools Developer... | Ottawa | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Broadridge** | DevOps Engineer | Vancouver | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Citi** | Gen AI Python Developer - Assistant V... | Mississauga Ontar... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Boeing** | Greenfield Full Stack Developer | CAN Richmond Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **ServiceNow** | Dir, Sales, Cybersecurity (Canada) | Toronto, Ontario | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **StackAdapt** | Salesforce Integration Developer | Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Johnson Controls** | Controls Systems Engineer / Systems D... | Ontario | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Amazon Web Services Canada, Inc.** | AI Sales Specialist, Cloud Sales Cent... | Toronto, ON | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **SS&C Technologies** | Software Engineer P2 - PA2026Q1JB050 | Ontario, Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Capco** | DevOps / DevSecOps Engineer | Toronto | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -166,6 +161,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Faire** | Product Engineer - Retailer Experienc... | Waterloo, ON | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Tailscale** | Backend Engineer, Identity | Remote (Canada) | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Okta** | Software Engineer II, Security Engine... | Toronto, Ontario,... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Pinterest** | Software Engineer II, Android | Toronto, ON, CA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **TribalScale** | Agile Software Engineer - Co-op | Toronto, Ontario,... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Coinbase** | Software Engineer, Backend (Consumer ... | Canada | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Lyft** | Business Systems Engineer, Oracle EPM | Toronto, Canada | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Asana** | Software Engineer, Communications Int... | Vancouver, BC | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -177,8 +177,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Ciena** | Junior Pluggable Optical Modem Test E... | Ottawa | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Veolia Environnement SA** | Electrical and Instrumentation Techni... | Burnaby, BC | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Ciena** | Junior Pluggable Optical Modem Test E... | Ottawa | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Veolia Environnement SA** | Electrical and Instrumentation Techni... | Burnaby, BC | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Viavi Solutions** | R&D Test Manager (Software - Validati... | Ottawa, CAN | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Schweitzer Engineering Laboratories** | Power Systems Protection Engineer | Brossard | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Lumentum** | Reliability Test Engineer | Ottawa | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -187,11 +187,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stantec** | Electrical Engineer | Vancouver, BC, Ca... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Stantec** | Junior Electrical Technologist | St. John'S, NL, C... | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **WSP** | Intermediate Electrical Engineer | Terrace, BC, Canada | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Curtiss-Wright** | Manufacturing Test Engineer – Onsite | Ottawa | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **TD Bank** | Audit Manager II,  Financial Crimes B... | Toronto, Ontario | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **TD Bank** | Audit Manager I, Financial Crimes Iss... | Toronto, Ontario | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Regal Rexnord** | Electrical Design Engineer | Langley, British ... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Johnson Controls** | Electrical Apprentice 2nd (Weekend Ni... | Alberta | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Curtiss-Wright** | Manufacturing Test Engineer – Onsite | Ottawa | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **WSP** | Electrical Engineer - Transportation ... | Thornhill, ON, Ca... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Altera** | FPGA Development Tools Engineer | Toronto, Ontario,... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Regal Rexnord** | Engineering Manager, Electrical | Langley, British ... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -218,14 +215,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CIBC** | Manager, Media Analytics & BI Enablem... | Toronto, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CIBC** | Manager, Data Science and Analytics | Toronto, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Lightspeed** | Strategy Analyst | Toronto | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Cigna** | Machine Learning Engineer - Express S... | Mississauga, ON | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Lightspeed** | Strategy Analyst | Montreal | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Cigna** | Machine Learning Engineer - Express S... | Mississauga, ON | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **DRW** | Data Analyst - Global Markets and Equ... | Montreal | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **WPP Media** | Director, Insights & Analytics | Toronto, Canada | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **TD Bank** | Data Scientist II | Markham, Ontario | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Affirm** | Engineering Manager, Machine Learning... | Remote Canada | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **TD Bank** | Manager, Advanced Analytics | Toronto, Ontario | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **TD Bank** | Data Scientist II | Toronto, Ontario | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Gilead Sciences** | Sr Manager, Business Analytics & Mark... | Ontario | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Clarivate** | Healthcare Research & Data Analyst | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Amazon Development Centre Canada ULC** | Data Scientist, ADE Analytics | Vancouver, BC | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -252,13 +246,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CIBC** | Consultant, EAML (Policy & Regulation... | Toronto, ON | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **General Motors** | Quality Engineering - Chassis/Powertrain | Oshawa, Ontario, ... | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CIBC** | Consultant, EAML (Policy & Regulation... | Toronto, ON | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **General Motors** | Quality Engineering - Chassis/Powertrain | Oshawa, Ontario, ... | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Vanguard** | Head of Applied AI Research & Develop... | Toronto, Canada | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **JLL** | Assistant Maintenance Manager | St. Thomas, ON | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Thermo Fisher Scientific** | Document Control & Training Specialis... | Whitby, Canada | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Wealthsimple** | AML Analyst (12 month Fixed Term Cont... | Remote (Canada) | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Tailscale** | Product Manager, Tailscale-Native Apps | Remote (Canada) | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Tailscale** | Product Manager, Tailscale-Native Apps | Remote (Canada) | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CIBC** | Financial Advisor - CIRO-MFD/AMF - Sa... | Julie, QC | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Canadian Tire** | AI Automation Student (4 months) - Fa... | Calgary, AB | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **KION Group** | Resident Maintenance Technician | Montreal, QC, Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -272,20 +266,20 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sherwin-Williams** | Management and Sales Trainee | Vancouver, BC, Ca... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Lightspeed** | Account Executive Terrain | Montreal | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Parsons** | Directeur (trice) régional(e) Secteur... | QC, Montreal, R18... | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Workday Inc** | Sr Software Development Engineer in T... | Canada BC Vancouver | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **CIBC** | AI Scientist | Toronto, ON | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **TD Bank** | Branch Manager Trainee - Outremont, M... | Montréal, Québec | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Allstate** | Allstate Sales Agent Trainee | Canadian Head | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Canadian Tire** | AI Enablement Student (4 months) - Fa... | Toronto, ON | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Generac** | AI Productivity & Adoption, Co-op | Toronto, Canada | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Moderna** | Associate Director, Regulatory Affairs | Canada, Clinical ... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **TD Bank** | Branch Manager Trainee - Outremont, M... | Montréal, Québec | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Baker Hughes** | Maintenance Technician - Downhole Tools | Victoria, TX | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Baker Hughes** | Maintenance Technician - Downhole Tools | Victoria, TX | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Workday Inc** | Sr Software Development Engineer in T... | Canada BC Vancouver | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CIBC** | AI Scientist | Toronto, ON | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Allstate** | Allstate Sales Agent Trainee | Canadian Head | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Canadian Tire** | AI Enablement Student (4 months) - Fa... | Toronto, ON | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **AIG** | Claims analyst II, Accident & Health | Toronto | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Stantec** | Technicienne/ Technicien conception –... | Montreal, QC, Canada | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Veolia Environnement SA** | Gestionnaire de soumissions / Bid Man... | Montréal, QC | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Veeva Systems** | Technical Product Manager (AI) - Veev... | Toronto | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Microsoft** | Stagiaire Technicien de Centre de Don... | Quebec City, Québ... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Morgan Stanley** | AI Patterns and Controls Monitoring P... | Montreal, Canada | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **TD Bank** | Personal Banking Associate Trainee | Edmonton, Alberta | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CAE** | Air Traffic Services Instructor | Montreal | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **ABB** | Drive Repair Technician | Milton, Ontario, ... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Canadian Tire** | Manager, Enterprise Retail Capability | Toronto, ON | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -296,7 +290,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **WPP Media** | Account Manager, Paid Search & Social | Toronto, Canada | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Airbnb** | Superviseur (-e), Soutien Premium Bil... | Canada | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Airbnb** | Spécialiste au Support Premium Biling... | Canada | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **TD Bank** | Personal Banking Associate Trainee - ... | Vancouver, Britis... | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Allstate** | Manager Property Large Loss Field Claims | Canadian Head | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Allstate** | Allstate Sales Agent Trainee (Cambridge) | Canadian Head | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Amazon Development Centre Canada ULC** | Technical Program Manager, Amazon Ful... | Toronto, ON | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -307,20 +300,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cerebras Systems** | AI Inference Core - Infrastructure SW... | and Canada Offices | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **WSP** | Civil Engineer-in-Training, Hydropowe... | Vancouver, BC, Ca... | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **SS&C Technologies** | Associate Director - AML Client Onboa... | Mississauga, Canada | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Johnson & Johnson** | Gestionnaire de Comptes Clés Chirurgi... | Montréal, Quebec,... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Johnson & Johnson** | Gestionnaire de Comptes Clés Électrop... | Montréal, Quebec,... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Epic Games** | AI Programmer | Montreal,Quebec,C... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Nissan** | Retail Marketing Planner | Mississauga, Onta... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Epic Games** | AI Programmer | Montreal,Quebec,C... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Microsoft** | Solution Engineering Manager- AI Busi... | Greater Toronto, ... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Fiserv** | Territory Manager   Gestionnaire de T... | Quebec, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Johnson Controls** | Painter | Alberta | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **onsemi** | Equipment Maintenance Technician | Burlington, ON, C... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **WPP Media** | Gestionnaire, planification média | Montreal, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Lightspeed** | Gestionnaire Planification et analyse... | Montreal | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Dialpad** | AI Evaluation Engineer | Kitchener, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Stanley Black & Decker** | Spécialiste des ventes au détail indu... | Léonard, Montreal... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Citi** | Citi Commercial Bank – Commercial Ass... | Toronto Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Johnson Controls** | Project Administrator - Sustainable I... | Ontario | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Amazon Development Centre Canada ULC** | Software Development Engineer - Suppl... | Toronto, ON | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Amazon Development Centre Canada ULC** | Software Development Engineer - Suppl... | Toronto, ON | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Stantec** | Roads & Highways Manager, Prairies an... | Calgary, AB, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -328,7 +317,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lightspeed** | Gestionnaire de projets marketing sén... | Montreal | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **CAE** | Training Solutions Specialist | Montreal St Laurent | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Citi** | Apps Support Group Manager - Pega & AI | Mississauga Ontar... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Johnson Controls** | Manufacturing Trainer (Evening Shift) | Alberta | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **AIG** | Superviseur des sinistres - Accidents... | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **TribalScale** | AI Product Manager - Agency Exp Required | Toronto, Ontario,... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **ShyftLabs** | AI Engineer Intern | Toronto, Ontario | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -352,6 +340,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CAE** | C-FIN-201 Tax Intern – Tax Technology... | Montreal | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Hitachi** | Stagiaire – Chargé de projet manufact... | Varennes, Quebec,... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Mercury** | Counsel, Product & Regulatory - Payme... | San Francisco, CA... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Toast** | Field Sales Team Manager ( Retail SaaS ) | Toronto, Canada | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Toast** | Retail Sales District Manager | Toronto, Canada | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Reddit** | Manager, Large Customer Sales (Auto, ... | Toronto, Canada | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **StackAdapt** | Growth Marketing Manager, Integrated ... | Canada | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Dialpad** | AI Engineer, Agentic Voice (TTS) | Kitchener, Canada | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Dialpad** | AI Engineer, Agentic Voice (TTS) | Vancouver, Canada | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -363,18 +357,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Astreya** | Field Services Technician I | Toronto, Canada | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **CIBC** | Consultant, Application Support | Toronto, ON | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Manulife** | CyberArk Operations Analyst (Idira) | Toronto Ontario | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Caterpillar** | Sales Support Consultant | Tullamarine, Vict... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Motorola Solutions** | Sr Customer Support Manager/System Ma... | Quebec,Canada Off... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Johnson Controls** | Customer Operations Associate | Manitoba | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Johnson Controls** | Customer Operations Associate | Manitoba | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CIBC** | Consultant, Application Support | Toronto, ON | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Manulife** | CyberArk Operations Analyst (Idira) | Toronto Ontario | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Motorola Solutions** | Sr Customer Support Manager/System Ma... | Quebec,Canada Off... | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Astreya** | Field Services Technician I | Toronto, Canada | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Alo Yoga** | Operations Associate (Part-Time) - Ma... | Market Mall, Calg... | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Ripple** | Workplace Operations Specialist | Toronto, Canada | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Ripple** | Workplace Operations Specialist | Toronto, Canada | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **GitLab** | Support Engineer (AMER) | Remote, United St... | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Harvey** | Mid-Market Customer Success Manager | Toronto | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Benevity** | Infrastructure Operations Administrator | Calgary, Alberta | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Dropbox** | Program Manager, Workforce Planning | Canada: Select lo... | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Dropbox** | Program Manager, Workforce Planning | Canada: Select lo... | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Motorola Solutions** | Operations Excellence Analyst (Hybrid) | Vancouver, Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON, ... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -392,13 +385,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Brex** | Support Specialist I | Vancouver, Britis... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **FacilityOS** | Customer Success Manager | Toronto | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Astreya** | Field Services Technician I | Toronto, Canada | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **TD Bank** | Group Manager I, TDS Operations | Toronto, Ontario | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **TD Bank** | Wealth Operations Officer III (Client... | Toronto Ontario | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Caterpillar** | Pre-field Graduate – Dealer Service O... | Tullamarine, Vict... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Wealthsimple** | Associate, Securities Lending Operations | Toronto, Canada | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Airbnb** | Supervisor, Premium Support (French/E... | Canada | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Airbnb** | Specialist, Premium Support (French/E... | Canada | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **TD Bank** | Group Analyst, TDS Operations | Toronto, Ontario | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Medtronic** | Field Service Representative - 1 year... | Brampton, Ontario... | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Canadian Tire** | Coordinator, HR Operations | Toronto, ON | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Oracle** | Oracle NetSuite Customer Success Asso... | TORONTO, ON, Canada | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Alo Yoga** | Operations Associate (Part-Time) - Sq... | Mississauga, Onta... | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -409,14 +399,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Honeywell** | Sr Field Service Supervisor | Ottawa, ON, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **WSP** | Assistant Technicians, Lab and Field ... | Dartmouth, NS, Ca... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Honeywell** | Sr Director, ARR Transformation and C... | Calgary, AB, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Canadian Tire** | Assistant Manager, Operations, 9th Ave | Fernie, BC | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Nissan** | Dealer Operations Manager | Brampton, Ontario... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Canadian Tire** | Assistant Manager, Operations, 9th Ave | Fernie, BC | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **SS&C Technologies** | Associate, Operations | Halifax, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Fortinet** | Network Support (New Grads 2026) | Burnaby, BC, Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **iCapital Network** | Structured Investments Distribution, ... | Toronto, Ontario,... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Asana** | Head of Talent Operations & Strategy | Vancouver, BC | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Flipp** | Manager, Finance Operations, Procure-... | Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **1Password** | Director, Customer Success (Enterprise) | Remote (United St... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **TD Bank** | Financial Crime Risk Investigation Su... | Markham, Ontario | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Citi** | Officer Production Support Intmd Analyst | Mississauga Ontar... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Okta** | Customer Success Operations Manager | Toronto, Ontario,... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **1Password** | Manager, Quality Assurance, Customer ... | Remote (United St... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -464,32 +455,37 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Copart** | Inventory Specialist | Ottawa, ON | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Morgan Stanley** | Learning Specialist, AVP | Calgary, Canada | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Salesforce** | Account Executive - Integration, Publ... | Canada Toronto | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **CIBC** | Director, Credit Research - CIBC Glob... | Toronto, ON | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **CIBC** | Business Systems Consultant | Toronto, ON | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **CIBC** | Mobile Mortgage Advisor (Toronto West... | Toronto ON | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **TD Bank** | AVP Client and Advisor Mutual Funds | Toronto, Ontario | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Johnson & Johnson** | Contract Management Specialist, Surgi... | Markham, Ontario,... | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Viavi Solutions** | Optical Component Engineer | Ottawa, CAN | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Mastercard** | Technical Program Management II | Toronto, Canada | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **CAE** | Global Logistics Data & Digital Trans... | Montreal | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **CAE** | Communications Coordinator (Temporary) | Montreal | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Manulife** | Client Solutions CoE Manager | Toronto Ontario | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Manulife** | Manager, Retirement Contact Centre | Halifax Nova Scotia | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Manulife** | Director, CX Products & Platforms | Toronto Ontario | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **TD Synnex** | Customer Serv Rep II - Représentant(e... | Mississauga, Onta... | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ABB** | Technicien Production - Tests | Quebec, Quebec, C... | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ABB** | Proposal Specialist | Laurent, Quebec, ... | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ABB** | Application Specialist | Milton, Ontario, ... | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Stanley Black & Decker** | DEWALT Field Sales Specialist | Halifax, Nova Sco... | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Stanley Black & Decker** | Specialty Territory Manager, Concrete... | Guelph ON Canada | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Allstate** | Allstate Sales Agent | Markham East Agency | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Ciena** | WaveLogic Software - Intern | Ottawa | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Q2** | Product Owner | Remote, Canada | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **TD Bank** | AVP Client and Advisor Mutual Funds | Toronto, Ontario | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Pfizer** | Directeur·trice des Ventes - Oncologi... | Quebec | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Nissan** | Junior Legal Counsel | Mississauga, Onta... | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Johnson Controls** | Site Project Coordinator - BHP Mine | Saskatchewan | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Johnson & Johnson** | Contract Management Specialist, Surgi... | Markham, Ontario,... | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Fiserv** | Territory Manager   Laval | Quebec, Canada | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **TD Synnex** | Customer Serv Rep II - Représentant(e... | Mississauga, Onta... | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Mastercard** | Technical Program Management II | Toronto, Canada | 2m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Student Researcher, PhD, Fall 2026 | Canada | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Software Development Manager II, Site... | Canada | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Salesforce** | Account Executive - Integration, Publ... | Canada Toronto | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CIBC** | Director, Credit Research - CIBC Glob... | Toronto, ON | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CIBC** | Business Systems Consultant | Toronto, ON | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CIBC** | Mobile Mortgage Advisor (Toronto West... | Toronto ON | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Viavi Solutions** | Optical Component Engineer | Ottawa, CAN | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CAE** | Global Logistics Data & Digital Trans... | Montreal | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **CAE** | Communications Coordinator (Temporary) | Montreal | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Manulife** | Client Solutions CoE Manager | Toronto Ontario | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Manulife** | Manager, Retirement Contact Centre | Halifax Nova Scotia | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Manulife** | Director, CX Products & Platforms | Toronto Ontario | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ABB** | Technicien Production - Tests | Quebec, Quebec, C... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ABB** | Proposal Specialist | Laurent, Quebec, ... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ABB** | Application Specialist | Milton, Ontario, ... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Stanley Black & Decker** | DEWALT Field Sales Specialist | Halifax, Nova Sco... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Stanley Black & Decker** | Specialty Territory Manager, Concrete... | Guelph ON Canada | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Allstate** | Allstate Sales Agent | Markham East Agency | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Ciena** | WaveLogic Software - Intern | Ottawa | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Q2** | Product Owner | Remote, Canada | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Danaher** | Director, Sales and Service Canada | London, Ontario, ... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Fiserv** | Territory Manager   Laval | Quebec, Canada | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Gilead Sciences** | Director, Legal - Canada | Ontario | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Broadridge** | Sales Administrator (Hybrid) | Toronto ON | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Canadian Tire** | Associate Product Mgr, Content Mgmt | Toronto ON | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -505,13 +501,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **BMO** | Private Banking Associate, Private We... | Toronto, ON, CAN | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Allegion** | Chargé(e) de projets / Project Manager | Longueuil, Canada | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Allegion** | Coordonnateur(trice) des ventes et de... | Longueuil, Canada | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Pfizer** | Directeur·trice des Ventes - Oncologi... | Quebec | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | Student Researcher, PhD, Fall 2026 | Canada | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | Software Development Manager II, Site... | Canada | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Johnson Controls** | Site Project Coordinator - BHP Mine | Saskatchewan | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Nissan** | Junior Legal Counsel | Mississauga, Onta... | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Copart** | Inventory Specialist | Ottawa, ON | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **JLL** | Administrative Assistant | North York, ON | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **JLL** | Mech and Robotics Tech | Calgary, AB | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **JLL** | Consultant, Value and Risk Advisory | Vancouver, BC | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -521,27 +511,33 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Harvey** | Account Executive, Mid Market | Toronto | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Veolia Environnement SA** | Plant Operator | Toronto, ON | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Microsoft** | Site Procurement Manager | Toronto, Ontario,... | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ServiceNow** | Enterprise Account Exec. (Federal) Ar... | Ottowa , Canada | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Alo Yoga** | Sales Associate (Part-Time) - Market ... | Market Mall, Calg... | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ServiceNow** | Enterprise Account Exec. (Federal) Ar... | Ottowa , Canada | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Alo Yoga** | Sales Associate (Part-Time) - Market ... | Market Mall, Calg... | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Cohere** | Business Development Representative | Toronto | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Microsoft** | Innovative Data Platform Solution Eng... | Greater Toronto, ... | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Pinterest** | Industry Manager II, Beauty & Luxury | Toronto, ON, CA | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **IEM** | Continuous Improvement Engineer | Surrey, British C... | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Guidepoint** | Talent Acquisition Manager, Technology | Toronto, Ontario,... | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **BeyondTrust** | Software Development Engineer - macOS... | Remote Canada  R... | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **BeyondTrust** | Software Development Engineer - macOS... | Remote Canada  R... | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Toast** | Territory Account Executive- West Tor... | Toronto, Ontario,... | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Stripe** | Engineering Manager, Usage Platform | Canada | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **AbbVie** | Therapeutic Specialist, Gynecology & ... | Edmonton, AB | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **AbbVie** | Therapeutic Specialist, Gynecology & ... | Edmonton, AB | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Microsoft** | Logistics Technician | Greater Toronto, ... | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **LinkedIn** | Sales Manager, Mid-Market Growth, LMS | Toronto, ON | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **LinkedIn** | Sales Manager, Mid-Market Growth, LMS | Toronto, ON | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Veolia Environnement SA** | Product Manager AnoxKaldnes MBBR | Lund, Skåne län | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Bosch Group** | Student Smart Career 2026 - 2028 | Blaj, AB | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Cigna** | Provider Relations Representative - 1... | Mississauga ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Cigna** | Pharmacy Assistant, Rx Management - E... | Mississauga, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Lumentum** | IT Governance, Risk & Compliance (GRC... | Ottawa | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **HPE (University)** | Data Center Technical Specialist / Sp... | Levis, Quebec, Ca... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Barclays** | Investment Banking, Analyst | Calgary, 888 3rd ... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Barclays** | Investment Banking, Associate | Calgary, 888 3rd ... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Uline** | Sales Account Representative | Edmonton AB | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Uline** | Sales Manager - Edmonton | Calgary, AB | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Uline** | Warehouse Associate - Days | Edmonton AB | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Medtronic** | Executive Administrative Assistant | Brampton, Ontario... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Medtronic** | Payroll Analyst | Brampton, Ontario... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **TD Bank** | French Bilingual Customer Account Spe... | Ottawa Ontario | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Baker Hughes** | Wireline Tractor Field Specialist (Al... | Ab, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Nissan** | Regional Wholesale Parts Manager- Quebec | Kirkland, Quebec ... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **TD Synnex** | Vendor Business Manager | Mississauga Ontar... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **HPE (University)** | Data Center Technical Specialist / Sp... | Levis, Quebec, Ca... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Stanley Black & Decker** | Business Development Manager | Calgary Alberta C... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Ciena** | Night-Shift Lab Assistant Manager - O... | Ottawa | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Ciena** | Product Line Manager | Ottawa | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -552,18 +548,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Autodesk** | QA Engineer (Install Automation) | Vancouver, BC, CAN | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Baxter International** | HR Coordinator (Temp) | Mississauga, Ontario | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Allegion** | Installation Coordinator | Edmonton, Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Uline** | Sales Account Representative | Edmonton AB | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Uline** | Sales Manager - Edmonton | Calgary, AB | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Uline** | Warehouse Associate - Days | Edmonton AB | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Cigna** | Provider Relations Representative - 1... | Mississauga ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Cigna** | Pharmacy Assistant, Rx Management - E... | Mississauga, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Lumentum** | IT Governance, Risk & Compliance (GRC... | Ottawa | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Vanguard** | Head of Legal, Canada | Toronto, Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Nissan** | Regional Wholesale Parts Manager- Quebec | Kirkland, Quebec ... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **HPE** | Data Center Technical Specialist / Sp... | Levis, Quebec, Ca... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **SS&C Technologies** | Associate Manager, Fund Accounting | Toronto, Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Amazon Development Centre Canada ULC** | Software Development Engineer, Alexa ... | Toronto, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **WSP** | Coordinator, Document Controls | Montreal, QC, Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **WSP** | Intern, Mining Engineering | Montreal, QC, Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **WSP** | Director, Construction Administration | Toronto, ON, Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Stantec** | Roads Project Engineer | Winnipeg, MB, Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -624,7 +615,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1825 current opportunities from 240 companies**
+**🎯 1687 current opportunities from 242 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
