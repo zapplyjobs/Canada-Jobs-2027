@@ -66,10 +66,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Google** | Software Developer, GKE Workload Auto... | Canada | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/94484363902624454) |
-| **Google** | Software Developer, Enterprise Chat, ... | Canada | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/72627350495208134) |
-| **Google** | Software Developer, Fighting Ad Fraud | Canada | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120286571059389126) |
-| **Ciena** | Test Tools & Automation Full Stack So... | Ottawa | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Test-Tools---Automation-Full-Stack-Software-Engineer_R030305) |
+| **Google** | Software Developer, GKE Workload Auto... | Canada | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/94484363902624454) |
+| **Google** | Software Developer, Enterprise Chat, ... | Canada | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/72627350495208134) |
+| **Google** | Software Developer, Fighting Ad Fraud | Canada | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120286571059389126) |
+| **Ciena** | Test Tools & Automation Full Stack So... | Ottawa | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Test-Tools---Automation-Full-Stack-Software-Engineer_R030305) |
 | **FLIR Systems** | Full Stack Developer | Fredericton, NB | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Fredericton-NB/Full-Stack-Developer_REQ35921) |
 | **Manulife** | Back-End Software Engineer | Toronto, Ontario | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Back-End-Software-Engineer_JR26071419) |
 | **Salesforce** | Software Engineering SMTS | Toronto | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Software-Engineering-SMTS_JR353515) |
@@ -350,7 +350,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Ciena** | Coherent Plug NPI Program Manager | Ottawa | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Coherent-Plug-NPI-Program-Manager_R031210) |
+| **Ciena** | Coherent Plug NPI Program Manager | Ottawa | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Coherent-Plug-NPI-Program-Manager_R031210) |
 | **Homebase** | IT Support Specialist, Part-Time (Hyb... | Toronto | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/homebase/c9ec8fde-3983-4f31-911b-e287625b32d1) |
 | **ABB** | Technical Support Specialist MV Drives | Saint Laurent Quebec C... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Saint-Laurent-Quebec-Canada/Product-Specialist---MV-Drives_JR00017934) |
 | **Canadian Tire** | Assistant Manger, Operations, Martind... | Ancaster, ON | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Ancaster-ON/Assistant-Manger--Operations--Martindale-Cres_JR164599) |
@@ -427,19 +427,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Google** | Student Researcher, PhD, Fall 2026 | Canada | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
-| **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
-| **Google** | Business Analyst II, Creator Partners... | Canada | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/133555513353740998) |
-| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
-| **Ciena** | Global Commodity Manager - Semiconductor | Canada | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-Canada/Global-Commodity-Manager---Semiconductor_R030711) |
-| **Ciena** | Product Line Manager – Intelligent IP... | Ottawa | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Product-Line-Manager---Network-Management-Applications_R030700) |
+| **Google** | Student Researcher, PhD, Fall 2026 | Canada | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
+| **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
+| **Google** | Business Analyst II, Creator Partners... | Canada | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/133555513353740998) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
+| **Ciena** | Global Commodity Manager - Semiconductor | Canada | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-Canada/Global-Commodity-Manager---Semiconductor_R030711) |
+| **Ciena** | Product Line Manager – Intelligent IP... | Ottawa | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Product-Line-Manager---Network-Management-Applications_R030700) |
 | **ElevenLabs** | Sales Development - Canada | Canada | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/elevenlabs/09c29417-956b-4849-8108-7cc0a2970517) |
 | **Beacon Software** | Paralegal, Legal Integration | Toronto, Ontario | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/beaconsoftware/0c3ca202-5ef3-41a4-aa53-d95fc7f07575) |
 | **AbbVie** | Urology, Therapeutic Specialist - Ont... | Oakville, ON | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014506081) |
 | **AbbVie** | Urology, Therapeutic Specialist - Ont... | Mississauga, ON | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014506116) |
 | **WSP** | Directeur(trice) adjoint(e) - infrast... | Amos, QC, Canada | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91909) |
 | **WSP** | Directeur(trice) adjoint(e) - infrast... | Amos, QC, Canada | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91910) |
-| **Veolia Environnement SA** | Ingénieur Électrique, Instrumentation... | Montréal, QC | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000142225619) |
+| **Veolia Environnement SA** | Ingénieur Électrique, Instrumentation... | Montréal, QC | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000142225619) |
 | **Affirm** | Licensing Manager | Remote Canada | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7808200003) |
 | **Kabam** | Producer 2 | Vancouver | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/kabam/8f80b56d-9443-4d87-9a32-bd473c1e6dfe) |
 | **Hitachi** | Site Deployment Specialist | Burnaby, British Colum... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Burnaby-British-Columbia-Canada/Site-Deployment-Specialist_R0139602) |
@@ -510,7 +510,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Loopio** | Account Executive, SMB | Toronto, ON Hub | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/loopio/003c835a-10f8-4116-90ad-11c7003958d5) |
 | **Lightspeed** | Spécialiste en adoption de produits | Montreal | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/95f4e2cc-cd4f-4b48-8c4e-5b4cca313a64) |
 | **Lightspeed** | Product Adoption Specialist (French r... | Montreal | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/35dff5ba-de42-4ac4-8305-7930a7c974e1) |
-| **Zip** | Commercial Account Executive | Toronto | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/zip/c467fa3d-4116-4770-9d56-87209e573c36) |
+| **Zip** | Commercial Account Executive | Toronto | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/zip/c467fa3d-4116-4770-9d56-87209e573c36) |
 | **EliseAI** | Product Solutions Analyst   Housing | Toronto | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eliseai/51270e3c-3b0d-40b0-8f81-b49aeec2b757) |
 | **Zip** | Enterprise Account Executive | Toronto | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/zip/0091e928-8e45-4e41-8bde-73ca3dcf3790) |
 | **HPE** | Presales Consulting Manager - HPE Net... | Calgary Alberta Canada | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Calgary-Alberta-Canada/Presales-Consulting-Manager---HPE-Network_1210440) |
