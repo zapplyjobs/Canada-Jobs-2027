@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1262-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-859-informational?style=flat&logo=briefcase)
+![Canada Jobs](https://img.shields.io/badge/Canada_Jobs-1259-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-857-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-221-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/Canada-Jobs-2027?style=flat&logo=calendar)
 
@@ -66,12 +66,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Google** | Software Developer, GKE Workload Auto... | Canada | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/94484363902624454) |
-| **Google** | Software Developer, Enterprise Chat, ... | Canada | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/72627350495208134) |
-| **Google** | Software Developer, Fighting Ad Fraud | Canada | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120286571059389126) |
+| **Google** | Software Developer, GKE Workload Auto... | Canada | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/94484363902624454) |
+| **Google** | Software Developer, Enterprise Chat, ... | Canada | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/72627350495208134) |
+| **Google** | Software Developer, Fighting Ad Fraud | Canada | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120286571059389126) |
 | **Microsoft** | Solution Engineering Sales Manager - ... | Toronto, Ontario, Canada | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556957382) |
 | **Abnormal Security** | Software Engineer II, Model Platform | Canada | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://abnormal.ai/careers/jobs/7836516003?gh_jid=7836516003) |
 | **Lyft** | Software Engineer, Async Platform | Toronto, Canada | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8691539002?gh_jid=8691539002) |
+| **Autodesk** | Stagiaire en Développement Cloud, Int... | Montreal, QC, CAN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2) |
+| **Autodesk** | Stagiaire en Développement Cloud, Int... | Montreal, QC, CAN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400) |
 | **Salesforce** | Software Engineering SMTS | Toronto | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Software-Engineering-SMTS_JR353515) |
 | **Teledyne** | Full Stack Developer | Fredericton, NB | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Fredericton-NB/Full-Stack-Developer_REQ35921) |
 | **Manulife** | Back-End Software Engineer | Toronto, Ontario | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Back-End-Software-Engineer_JR26071419) |
@@ -79,8 +81,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Ciena** | ON DevOps Intern- Fall 2026 | Ottawa | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ON-DevOps-Intern--Fall-2026_R031495) |
 | **Ciena** | Software Developer Intern - Fall 2026 | Ottawa | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492) |
 | **FLIR Systems** | Full Stack Developer | Fredericton, NB | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Fredericton-NB/Full-Stack-Developer_REQ35921) |
-| **Autodesk** | Stagiaire en Développement Cloud, Int... | Montreal, QC, CAN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2) |
-| **Autodesk** | Stagiaire en Développement Cloud, Int... | Montreal, QC, CAN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400) |
 | **Lyft** | Software Engineer, Routing | Toronto, Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8688776002?gh_jid=8688776002) |
 | **Coinbase** | Software Engineer, CDP - Stablecoin | Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.coinbase.com/careers/positions/8092485?gh_jid=8092485) |
 | **Microsoft** | Software Engineer - Gears of War - Th... | Vancouver, British Col... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556956276) |
@@ -99,10 +99,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **WSP** | Business Information Security Officer... | Montreal, QC, Canada | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92136) |
 | **Stantec** | Intelligent Transportation Systems En... | Markham, ON, Canada | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006986) |
 | **Sony Interactive Entertainment** | Software Engineer II / Software Devel... | Canada, Waterloo, ON | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6134526004) |
+| **Autodesk** | Software Developer - APS Data Models ... | Montreal QC CAN | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Software-Developer---APS-Data-Models---Canada---Hybrid_26WD100315-1) |
 | **Arlo** | Firmware Developer Co-op | Richmond, BC, Canada | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://arlo.wd12.myworkdayjobs.com/external_careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100404) |
 | **TD Bank** | Java Developer, TD Securities | Toronto, Ontario | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Senior-IT-Developer--TD-Securities_R_1492196) |
 | **BlackBerry** | QNX Systems Software Developer II | Ottawa, Ontario | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://bb.wd3.myworkdayjobs.com/BlackBerry/job/Ottawa-Ontario/QNX-Systems-Software-Developer-II_20260265-1) |
-| **Autodesk** | Software Developer - APS Data Models ... | Montreal QC CAN | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Software-Developer---APS-Data-Models---Canada---Hybrid_26WD100315-1) |
 | **Okta** | Software Engineer II, Developer Tooli... | Toronto, Ontario, Canada | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.okta.com/company/careers/opportunity/8103088?gh_jid=8103088) |
 | **GitLab** | Intermediate Backend Engineer, Platfo... | Remote, Canada | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gitlab/jobs/8644569002) |
 | **Amazon Development Centre Canada ULC** | Security Engineer, AI Security | Vancouver, BC | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10490193/security-engineer-ai-security) |
@@ -110,20 +110,20 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Expedia Group** | Développeur(-euse) de logiciels II (c... | Quebec | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://expedia.wd108.myworkdayjobs.com/private/job/Canada---Quebec---Montreal/Dveloppeur--euse--de-logiciels-II--contenu----Software-Developer-II--Content-_R-106559) |
 | **TD Bank** | Software Engineer (Java) – Front Offi... | Toronto, Ontario | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer--Java----Front-Office-Pricing---Risk_R_1503138) |
 | **DRW** | Software Developer (Research) | Montreal | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/8095001) |
+| **Allstate** | Product Engineering (Integration Java... | Canadian Head | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Canadian-Head-Office-It/Product-Engineering--Integration-Java-Developer-_R32811) |
 | **Citi** | Kafka DevOps Engineer | Mississauga Ontario Ca... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Applications-Development-Sr-Programmer-Analyst---C12---MISSISSAUGA_25924011) |
 | **Parsons** | Intelligent Transportation Systems En... | ON, Markham, R179535, CA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/CA---ON-Markham/Intelligent-Transportation-Systems-Engineer_R179535-1) |
-| **Allstate** | Product Engineering (Integration Java... | Canadian Head | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Canadian-Head-Office-It/Product-Engineering--Integration-Java-Developer-_R32811) |
 | **D2L** | Software Developer | Kitchener, Toronto, Wi... | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://www.d2l.com/careers/jobs/?job_id=260466&gh_jid=260466) |
 | **Lyft** | Software Engineer, Core Maps | Toronto, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8656826002?gh_jid=8656826002) |
 | **Tailscale** | Software Engineer, Networking (Edge) | Remote (Canada) | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tailscale/jobs/4715447005) |
 | **Veeva Systems** | Technical Product Manager (AI) - Veev... | Toronto | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/9323dc71-74a8-4ae3-8d30-d2fb3271b106) |
 | **1Password** | Developer, Open Source | Remote (United States ... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/1password/c22ea4e6-f39b-448c-a9e9-a04445ba18e6) |
-| **Morgan Stanley** | SRE Associate (Hybrid) | Montreal, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/SRE-Associate--Hybrid-_PT-JR040929) |
-| **TD Bank** | Software Engineer II (Salesforce CRM ... | Toronto, Ontario | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II_R_1475436) |
-| **ABB** | Software Developer - Programmer Analyst | Dorval, Quebec, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Dorval-Quebec-Canada/Software-Developer---Programmer-Analyst_JR00042808) |
 | **Cadence (University)** | Software Engineer (Circuit Analysis, ... | BURNABY 01 | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/BURNABY-01/Software-Engineer--Circuit-Analysis--EDA-frameworks--AI-agents-_R53165) |
 | **Cadence (University)** | Distributed Systems Engineer | BURNABY 01 | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/BURNABY-01/Distributed-Systems-Engineer_R53233) |
 | **Cadence (University)** | Distributed Systems Engineer | BURNABY 01 | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/BURNABY-01/Distributed-Systems-Engineer_R53232-2) |
+| **Morgan Stanley** | SRE Associate (Hybrid) | Montreal, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/SRE-Associate--Hybrid-_PT-JR040929) |
+| **TD Bank** | Software Engineer II (Salesforce CRM ... | Toronto, Ontario | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II_R_1475436) |
+| **ABB** | Software Developer - Programmer Analyst | Dorval, Quebec, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Dorval-Quebec-Canada/Software-Developer---Programmer-Analyst_JR00042808) |
 | **Faire** | Product Engineer - Brand - Fullstack,... | Waterloo, ON | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8654106002?gh_jid=8654106002) |
 | **Dialpad** | Software Engineer, Developer Platform | Vancouver, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/dialpad/jobs/8636218002) |
 | **Microsoft** | Software Engineer II | Vancouver, British Col... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556943321) |
@@ -228,8 +228,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TD Bank** | Actuarial Analyst III | Toronto Ontario | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Actuarial-Analyst-III_R_1494804-1) |
 | **Lightspeed** | Strategy Analyst | Montreal | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/ea1aeb50-079a-492e-90da-f79afc93f564) |
 | **DRW** | Data Analyst - Global Markets and Equ... | Montreal | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/8094311) |
-| **TD Bank** | Data Scientist II | Markham, Ontario | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Markham-Ontario/Business-Insights-Analyst-II_R_1492155) |
 | **Autodesk** | Machine Learning Engineer 3D Geometry... | Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---Ontario---Toronto---University-Ave/Machine-Learning-Engineer-3D-Geometry--Multi-Modal_26WD97765-1) |
+| **TD Bank** | Data Scientist II | Markham, Ontario | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Markham-Ontario/Business-Insights-Analyst-II_R_1492155) |
 | **Scopely** | Data Analyst - Marvel Strike Force | Canada, CA | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scopely/jobs/5301857008?gh_jid=5301857008) |
 | **Stripe** | Machine Learning Engineer | Toronto | 4w | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8014859) |
 | **OpenTable** | Manager, Product Analytics | Toronto, Canada | 4w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/opentable/jobs/8628101002) |
@@ -254,6 +254,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **Red Bull** | Sales Trainee | Ottawa, ON | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000142211758) |
+| **Allstate** | Allstate Sales Agent Trainee | Canadian Head | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Canadian-Head-Office/Allstate-Sales-Agent-Trainee_R33801) |
 | **Workday Inc** | Product Manager - Activation & Deploy... | Canada BC Vancouver | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Product-Manager---Sr-Product-Manager---Evisort-AI_JR-0103398) |
 | **Palo Alto Networks** | Domain Consultant - IAM/IGA Solutions | Ottawa Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Ottawa-Canada/Domain-Consultant---IAM-IGA-Solutions_JR-020557) |
 | **Carrier Global** | Gestionnaire de comptes - Automatisat... | LOC13127 3493 Rue Ashb... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC13127-3493-Rue-Ashby-Saint-Laurent-QC-H4R-2K3-Canada/Gestionnaire-de-comptes---Automatisation-du-btiment_30214312-1) |
@@ -263,7 +264,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **JLL** | Maintenance Manager | Delta, BC | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Delta-BC/Maintenance-Manager_REQ522925) |
 | **JLL** | Assistant Maintenance Manager | Delta, BC | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Delta-BC/Assistant-Maintenance-Manager_REQ525103) |
 | **Avis Budget Group** | Car Detailer - Part Time | Halifax Stanfield Inte... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Halifax-Stanfield-International-Airport---1031-Bell-Blvd-Goffs/Car-Detailer---Part-Time_R0188765) |
-| **Allstate** | Allstate Sales Agent Trainee | Canadian Head | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Canadian-Head-Office/Allstate-Sales-Agent-Trainee_R33801) |
 | **Amazon Development Centre Canada ULC** | Software Dev Engineer, Sales AI | Toronto, ON | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10496109/software-dev-engineer-sales-ai) |
 | **Amazon Development Centre Canada ULC** | Software Dev Engineer, Sales AI | Toronto, ON | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10496110/software-dev-engineer-sales-ai) |
 | **Stantec** | Stagiaire - surveillance et conceptio... | Laval, QC, Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007114) |
@@ -273,7 +273,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Caterpillar** | Technical Service Trainer | Tullamarine, Victoria | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Tullamarine-Victoria/Technical-Service-Trainer_R0000384688) |
 | **General Motors** | WSIB Claims Specialist | Oshawa, Ontario, Canada | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Oshawa-Ontario-Canada/WSIB-Claims-Specialist_JR-202616540-1) |
 | **Avis Budget Group** | Car Detailer - Full Time | 1350 King Edward St, W... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/1350-King-Edward-St-Winnipeg-MB-R3H-0R5/Car-Detailer---Full-Time_R0180506) |
-| **AstraZeneca** | Manager, Facilities Maintenance | Hamilton | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Canada--Hamilton--Longwood-Road-South/Manager--Facilities-Maintenance_R-257731) |
 | **Sherwin-Williams** | Maintenance Mechanic | Grimsby, ON, Canada | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2616212) |
 | **MaintainX** | Analyste de l’implantation - Bilingue... | Montreal | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/maintainx/a7362a18-f54b-4750-b914-8334d1e47d8f) |
 | **Semtech** | Product Manager- AirLink 5G Routers | Richmond, BC | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/SemtechCareers/job/CAN---Richmond-BC/Product-Manager--AirLink-5G-Routers_REQ3526) |
@@ -284,7 +283,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stantec** | Civil Engineer in Training | Vancouver, BC, Canada | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007086) |
 | **Sherwin-Williams** | Collision Repair Painter - Technical ... | Toronto, ON, Canada | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2617751) |
 | **Lightspeed** | Gestionnaire de comptes stratégique- ... | Montreal | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/lightspeedhq/2d1941a4-4aaf-420d-9015-f23bf6f4562f) |
-| **Medtronic** | Regulatory Affairs Specialist (1 year... | Brampton, Ontario, Canada | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Brampton-Ontario-Canada/Regulatory-Affairs-Specialist--1-year-contract-_R73616-1) |
 | **WSP** | Geotechnical Engineer-in-Training | Vancouver, BC, Canada | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91700) |
 | **WSP** | Civil Engineer-in-Training | Kamloops, BC, Canada | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92166) |
 | **Stantec** | Bridge Engineer in Training | Winnipeg, MB, Canada | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006983) |
@@ -301,11 +299,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Veolia Environnement SA** | Gestionnaire de soumissions / Bid Man... | Montréal, QC | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000140555419) |
 | **Veeva Systems** | Technical Product Manager (AI) - Veev... | Toronto | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/c0f4972b-95e3-4f90-96be-ba8e033b4c03) |
 | **Microsoft** | Stagiaire Technicien de Centre de Don... | Quebec City, Québec, C... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556859421) |
+| **Allstate** | Allstate Sales Agent Trainee | Canadian Head | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Canadian-Head-Office/Allstate-Sales-Agent-Trainee_R33307) |
 | **Baker Hughes** | Maintenance Technician - Downhole Tools | Victoria, TX | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-VICTORIA-4206-NORTH-MAIN-STREET/Maintenance-Technician---Downhole-Tools_R165229) |
 | **Baker Hughes** | Maintenance Technician - Downhole Tools | Victoria, TX | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-VICTORIA-4206-NORTH-MAIN-STREET/Maintenance-Technician---Downhole-Tools_R165228) |
 | **TD Bank** | Personal Banker Trainee - Mandarin or... | Vancouver, British Col... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Vancouver-British-Columbia/Personal-Banker-Trainee---Mandarin-or-Cantonese-Language-Skills-an-Asset_R_1494970) |
 | **AIG** | Claims analyst II, Accident & Health | Toronto | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://aig.wd1.myworkdayjobs.com/AIG/job/Toronto/Claims-analyst-II--Accident---Health_JR2602729) |
-| **Allstate** | Allstate Sales Agent Trainee | Canadian Head | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Canadian-Head-Office/Allstate-Sales-Agent-Trainee_R33307) |
 | **WPP Media** | Manager, Paid Social | Toronto, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/wppmedia/jobs/5318076008) |
 | **WPP Media** | Account Manager, Paid Search & Social | Toronto, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/wppmedia/jobs/5263017008) |
 | **Airbnb** | Superviseur (-e), Soutien Premium Bil... | Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.airbnb.com/positions/8080626?gh_jid=8080626) |
@@ -398,6 +396,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TD Bank** | Wealth Operations Officer III (Client... | Toronto Ontario | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Wealth-Operations-Officer-III--Client-Cash-Management---Banking--Wire-and-Foreign-Exchange-_R_1499858) |
 | **Oracle** | Oracle NetSuite Customer Success Asso... | TORONTO, ON, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/341355) |
 | **Alo Yoga** | Operations Associate (Part-Time) - Sq... | Mississauga, Ontario, ... | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6128368004?gh_jid=6128368004) |
+| **Medtronic** | Field Service Representative - 1 year... | Brampton, Ontario, Canada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Brampton-Ontario-Canada/Field-Service-Representative---1-year-Contract_R70104-1) |
 | **Alo Yoga** | Operations Associate (Part-Time) - Ri... | Ottawa, Ontario, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6122948004?gh_jid=6122948004) |
 | **iCapital Network** | Structured Investments Distribution, ... | Toronto, Ontario, Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8635291002) |
 | **Flipp** | Manager, Finance Operations, Procure-... | Canada | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/flipp/jobs/8047154) |
@@ -426,18 +425,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Google** | Student Researcher, PhD, Fall 2026 | Canada | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
-| **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
-| **Google** | Business Analyst II, Creator Partners... | Canada | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/133555513353740998) |
-| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
+| **Google** | Student Researcher, PhD, Fall 2026 | Canada | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
+| **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
+| **Google** | Business Analyst II, Creator Partners... | Canada | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/133555513353740998) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
 | **Beacon Software** | Paralegal, Legal Integration | Toronto, Ontario | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/beaconsoftware/0c3ca202-5ef3-41a4-aa53-d95fc7f07575) |
 | **AbbVie** | Urology, Therapeutic Specialist - Ont... | Oakville, ON | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014506081) |
 | **AbbVie** | Urology, Therapeutic Specialist - Ont... | Mississauga, ON | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014506116) |
-| **WSP** | Directeur(trice) adjoint(e) - infrast... | Amos, QC, Canada | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91909) |
-| **WSP** | Directeur(trice) adjoint(e) - infrast... | Amos, QC, Canada | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91910) |
+| **WSP** | Directeur(trice) adjoint(e) - infrast... | Amos, QC, Canada | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91909) |
+| **WSP** | Directeur(trice) adjoint(e) - infrast... | Amos, QC, Canada | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91910) |
 | **Veolia Environnement SA** | Ingénieur Électrique, Instrumentation... | Montréal, QC | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000142225619) |
 | **Affirm** | Licensing Manager | Remote Canada | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7808200003) |
-| **Kabam** | Producer 2 | Vancouver | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/kabam/8f80b56d-9443-4d87-9a32-bd473c1e6dfe) |
+| **Kabam** | Producer 2 | Vancouver | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/kabam/8f80b56d-9443-4d87-9a32-bd473c1e6dfe) |
 | **Lyft** | Financial Analyst | Toronto, Canada | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8688637002?gh_jid=8688637002) |
 | **Cohere** | Tax Counsel/Manager, Tax Planning | Toronto | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/427c8cbe-6823-4a0c-a59a-7a583be08fab) |
 | **Microsoft** | Commercial Executive | Toronto, Ontario, Canada | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556957136) |
@@ -450,6 +449,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ClickHouse** | Commercial Account Executive - Canada | Canada | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/clickhouse/jobs/6135668004) |
 | **Clipboard Health** | Onboarding Expert | Remote (Canada, UK, EU) | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/clipboard/f6081a39-cbcd-4040-8be6-e8d5979f22e6) |
 | **Tailscale** | Customer Account Executive | Hybrid (Toronto, Ontario) | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tailscale/jobs/4722219005) |
+| **Autodesk** | AEC Data Strategist | Toronto ON CAN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/AEC-Data-Strategist_26WD100341) |
+| **Allstate** | Business Insights Analyst | Canadian Head | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Canadian-Head-Office/Business-Insights-Analyst_R31495) |
+| **Allstate** | Analyst - Operational Reporting Enabl... | Canadian Head | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Canadian-Head-Office/Analyst---Operational-Reporting-Enablement_R33744) |
+| **Allegion** | Chargé(e) de projets / Project Manager | Longueuil, Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://allegion.wd5.myworkdayjobs.com/careers/job/Longueuil-Canada/Charg-e--de-projets---Project-Manager_JR36978) |
+| **Allegion** | Coordonnateur(trice) des ventes et de... | Longueuil, Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://allegion.wd5.myworkdayjobs.com/careers/job/Longueuil-Canada/Coordonnateur-trice--des-ventes-et-de-projets-bilingue---Bilingual-Sales-and-Project-Coordinator_JR35997) |
 | **Baker Hughes** | Field Operator V - WLE | Victoria, AU | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/AU-Victoria-Sale-314-Raglan-Street/Field-Operator-V---WLE_R167796) |
 | **Capital One** | Talent Acquisition Assistant (12-mont... | Toronto, ON | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Talent-Acquisition-Assistant--12-month-contract-_R248259) |
 | **Workday Inc** | Software Development Engineer (Agent ... | Canada BC Vancouver | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Software-Development-Engineer--Agent-Factory-_JR-0108831) |
@@ -482,14 +486,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ABB** | IS Application Specialist | Jean | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Saint-Jean-sur-Richelieu-Quebec-Canada/IS-Application-Specialist_JR00037775) |
 | **ABB** | Excitation Service Sales Specialist | Laurent, Quebec, Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Saint-Laurent-Quebec-Canada/Excitation-Service-Sales-Engineer_JR00038362) |
 | **ABB** | R&D Project Manager | Quebec, Quebec, Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Quebec-Quebec-Canada/R-D-Project-Manager_JR00026581) |
-| **Autodesk** | AEC Data Strategist | Toronto ON CAN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/AEC-Data-Strategist_26WD100341) |
 | **CAE** | Full-Time Instructor Pilot (Global/Ch... | Montreal | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Full-Time-Instructor-Pilot--Global-Challenger-_122524-1) |
 | **Avis Budget Group** | Rental Sales Agent - Part Time | Halifax Stanfield Inte... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Halifax-Stanfield-International-Airport---1031-Bell-Blvd-Goffs/Rental-Sales-Agent---Part-Time_R0188976) |
-| **AstraZeneca** | Study Supply Manager | Hamilton | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Canada--Hamilton--Longwood-Road-South/Study-Supply-Manager_R-257566-1) |
-| **Allstate** | Business Insights Analyst | Canadian Head | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Canadian-Head-Office/Business-Insights-Analyst_R31495) |
-| **Allstate** | Analyst - Operational Reporting Enabl... | Canadian Head | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Canadian-Head-Office/Analyst---Operational-Reporting-Enablement_R33744) |
-| **Allegion** | Chargé(e) de projets / Project Manager | Longueuil, Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://allegion.wd5.myworkdayjobs.com/careers/job/Longueuil-Canada/Charg-e--de-projets---Project-Manager_JR36978) |
-| **Allegion** | Coordonnateur(trice) des ventes et de... | Longueuil, Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://allegion.wd5.myworkdayjobs.com/careers/job/Longueuil-Canada/Coordonnateur-trice--des-ventes-et-de-projets-bilingue---Bilingual-Sales-and-Project-Coordinator_JR35997) |
 | **Amazon Development Centre Canada ULC** | Software Development Engineer, Effici... | Vancouver, BC | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10496212/software-development-engineer-efficiency-performance-alloy) |
 | **Amazon Development Centre Canada ULC** | Software Development Engineer, S3 Ind... | Vancouver, BC | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10496234/software-development-engineer-s3-index-control-plane) |
 | **Amazon Development Centre Canada ULC** | Software Dev Engineer II, Elastic Kub... | Vancouver, BC | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10496267/software-dev-engineer-ii-elastic-kubernetes-service-eks) |
@@ -526,6 +524,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Fiserv** | French Bilingual Collector Customer S... | Skymark, Canada | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://fiserv.wd5.myworkdayjobs.com/ext/job/Mississauga---Skymark-Canada/Sr--French-Accounts-Receivables-Collection-Representative_R-10396757-1) |
 | **Air Liquide** | Customer Experience Representative | Burlington, ON - N Ser... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Burlington-ON---N-Service-Rd---Retail-shop/Customer-Experience-Representative--Contract-_R10096364-1) |
 | **Air Liquide** | Pick-up & Delivery Driver/Inside Sale... | Timmins, ON - Riversid... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Timmins-ON---Riverside-Dr/Pick-up---Delivery-Driver-Inside-Sales-Representative_R10096697) |
+| **Teledyne** | Production Assembler | Laval, QB | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Laval-QB/Production-Assembler_REQ33143) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -586,7 +585,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1262 current opportunities from 221 companies**
+**🎯 1259 current opportunities from 221 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
