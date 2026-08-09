@@ -66,9 +66,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Google** | Software Developer, GKE Workload Auto... | Canada | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/94484363902624454) |
-| **Google** | Software Developer, Enterprise Chat, ... | Canada | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/72627350495208134) |
-| **Google** | Software Developer, Fighting Ad Fraud | Canada | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120286571059389126) |
+| **Google** | Software Developer, GKE Workload Auto... | Canada | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/94484363902624454) |
+| **Google** | Software Developer, Enterprise Chat, ... | Canada | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/72627350495208134) |
+| **Google** | Software Developer, Fighting Ad Fraud | Canada | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120286571059389126) |
 | **Ciena** | Test Tools & Automation Full Stack So... | Ottawa | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Test-Tools---Automation-Full-Stack-Software-Engineer_R030305) |
 | **FLIR Systems** | Full Stack Developer | Fredericton, NB | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Fredericton-NB/Full-Stack-Developer_REQ35921) |
 | **Autodesk** | Stagiaire en Développement Cloud, Int... | Montreal, QC, CAN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2) |
@@ -434,12 +434,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **BMO** | Critical Facilities Operator | Toronto, ON, CAN | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Critical-Facilities-Operator_R260012012) |
-| **Moderna** | Specialist, Quality Assurance | Canada, Drug Manufactu... | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Laval---Canada/Specialist--Quality-Assurance_R19580) |
-| **Google** | Student Researcher, PhD, Fall 2026 | Canada | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
-| **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
-| **Google** | Business Analyst II, Creator Partners... | Canada | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/133555513353740998) |
-| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
+| **BMO** | Critical Facilities Operator | Toronto, ON, CAN | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Critical-Facilities-Operator_R260012012) |
+| **Moderna** | Specialist, Quality Assurance | Canada, Drug Manufactu... | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Laval---Canada/Specialist--Quality-Assurance_R19580) |
+| **Google** | Student Researcher, PhD, Fall 2026 | Canada | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
+| **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
+| **Google** | Business Analyst II, Creator Partners... | Canada | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/133555513353740998) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
 | **Axon** | Marketing & Events Specialist, Canada | Canada | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7837024003) |
 | **ElevenLabs** | Sales Development - Canada | Canada | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/elevenlabs/09c29417-956b-4849-8108-7cc0a2970517) |
 | **Ciena** | Global Commodity Manager - Semiconductor | Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-Canada/Global-Commodity-Manager---Semiconductor_R030711) |
