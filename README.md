@@ -436,15 +436,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CIBC** | Financial Services Representative II | Owen Sound, ON | 3m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Owen-Sound-ON/Financial-Services-Representative-II_2614213) |
-| **CIBC** | Client Service Representative | Owen Sound, ON | 3m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Owen-Sound-ON/Client-Service-Representative_2616578) |
-| **CIBC** | Client Service Representative [Hourly] | Georgetown, ON | 3m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Georgetown-ON/Client-Service-Representative--Hourly-_2616568) |
-| **Google** | Student Researcher, PhD, Fall 2026 | Canada | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
+| **CIBC** | Financial Services Representative II | Owen Sound, ON | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Owen-Sound-ON/Financial-Services-Representative-II_2614213) |
+| **CIBC** | Client Service Representative | Owen Sound, ON | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Owen-Sound-ON/Client-Service-Representative_2616578) |
+| **CIBC** | Client Service Representative [Hourly] | Georgetown, ON | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Georgetown-ON/Client-Service-Representative--Hourly-_2616568) |
 | **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
+| **Google** | Student Researcher, PhD, Fall 2026 | Canada | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
 | **Google** | Business Analyst II, Creator Partners... | Canada | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/133555513353740998) |
 | **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
-| **Moderna** | Specialist, Quality Assurance | Canada, Drug Manufactu... | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Laval---Canada/Specialist--Quality-Assurance_R19580) |
-| **BMO** | Critical Facilities Operator | Toronto, ON, CAN | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Critical-Facilities-Operator_R260012012) |
+| **Moderna** | Specialist, Quality Assurance | Canada, Drug Manufactu... | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Laval---Canada/Specialist--Quality-Assurance_R19580) |
+| **BMO** | Critical Facilities Operator | Toronto, ON, CAN | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Critical-Facilities-Operator_R260012012) |
 | **Axon** | Marketing & Events Specialist, Canada | Canada | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7837024003) |
 | **Ciena** | Global Commodity Manager - Semiconductor | Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-Canada/Global-Commodity-Manager---Semiconductor_R030711) |
 | **Ciena** | Product Line Manager – Intelligent IP... | Ottawa | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Product-Line-Manager---Network-Management-Applications_R030700) |
