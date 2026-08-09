@@ -163,7 +163,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Pinterest** | Software Engineer II, Web | Toronto, ON, CA | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://www.pinterestcareers.com/jobs/?gh_jid=8024883) |
 | **Planet** | Software Engineer - Platform, Mission... | Canada, Remote | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/planetlabs/jobs/8022265) |
 | **Okta** | Software Engineer II, Security Engine... | Toronto, Ontario, Canada | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://www.okta.com/company/careers/opportunity/8003538?gh_jid=8003538) |
-| **Stripe** | Software Engineer, New Grad, Develope... | Toronto | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7991718) |
+| **Stripe** | Software Engineer, New Grad, Develope... | Toronto | 2mo | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7991718) |
 | **Pinterest** | Software Engineer II, Android | Toronto, ON, CA | 2mo | [<img src="images/apply.png" width="80" alt="Apply">](https://www.pinterestcareers.com/jobs/?gh_jid=7987854) |
 | **TribalScale** | Agile Software Engineer - Co-op | Toronto, Ontario, Canada | 2mo | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tribalscale/jobs/4687337006) |
 
@@ -448,10 +448,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CIBC** | Financial Service Representative II | Cornwall, ON | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Cornwall-ON/Financial-Service-Representative-II_2615568) |
-| **CIBC** | Financial Services Representative II | Owen Sound, ON | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Owen-Sound-ON/Financial-Services-Representative-II_2614213) |
-| **CIBC** | Client Service Representative | Owen Sound, ON | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Owen-Sound-ON/Client-Service-Representative_2616578) |
-| **Moderna** | Specialist, Quality Assurance | Canada, Drug Manufactu... | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Laval---Canada/Specialist--Quality-Assurance_R19580) |
+| **CIBC** | Financial Service Representative II | Cornwall, ON | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Cornwall-ON/Financial-Service-Representative-II_2615568) |
+| **CIBC** | Financial Services Representative II | Owen Sound, ON | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Owen-Sound-ON/Financial-Services-Representative-II_2614213) |
+| **CIBC** | Client Service Representative | Owen Sound, ON | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Owen-Sound-ON/Client-Service-Representative_2616578) |
+| **Moderna** | Specialist, Quality Assurance | Canada, Drug Manufactu... | 46m | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Laval---Canada/Specialist--Quality-Assurance_R19580) |
 | **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
 | **Google** | Student Researcher, PhD, Fall 2026 | Canada | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
 | **Google** | Business Analyst II, Creator Partners... | Canada | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/133555513353740998) |
