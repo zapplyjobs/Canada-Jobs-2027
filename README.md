@@ -66,9 +66,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Google** | Software Developer, Fighting Ad Fraud | Canada | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120286571059389126) |
-| **Google** | Software Developer, iOS, Glasses Syst... | Canada | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/102417720401633990) |
-| **Google** | Software Developer III, Full Stack, G... | Canada | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98850926155965126) |
+| **Google** | Software Developer, Fighting Ad Fraud | Canada | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/120286571059389126) |
+| **Google** | Software Developer, iOS, Glasses Syst... | Canada | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/102417720401633990) |
+| **Google** | Software Developer III, Full Stack, G... | Canada | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98850926155965126) |
 | **Ciena** | Test Tools & Automation Full Stack So... | Ottawa | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Test-Tools---Automation-Full-Stack-Software-Engineer_R030305) |
 | **Manulife** | Back-End Software Engineer | Toronto, Ontario | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Back-End-Software-Engineer_JR26071419) |
 | **Salesforce** | Software Engineering SMTS | Toronto | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Software-Engineering-SMTS_JR353515) |
@@ -220,7 +220,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stripe** | Data Scientist, Fraud | Toronto | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8113100) |
 | **Stripe** | Data Scientist, Link | Toronto | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8112966) |
 | **Affirm** | Machine Learning Engineer II (Underwr... | Remote Canada | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7822389003) |
-| **Lyft** | Machine Learning Engineer, Safety and... | Toronto, Canada | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8684440002?gh_jid=8684440002) |
+| **Lyft** | Machine Learning Engineer, Safety and... | Toronto, Canada | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8684440002?gh_jid=8684440002) |
 | **Allstate** | Manager, Analytics and Data Enablement | Canadian Head | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Canadian-Head-Office/Manager--Analytics-and-Data-Enablement_R32474) |
 | **Lyft** | Data Scientist, Decisions - Payments | Toronto, Canada | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8678823002?gh_jid=8678823002) |
 | **Tailscale** | Analytics Engineer, Data | Remote (Canada) | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/tailscale/jobs/4721252005) |
@@ -352,7 +352,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Disney** | Product Manager, Conversational Support | Remote Worker Location... | 3m | [<img src="images/apply.png" width="80" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Remote-Worker-Location-BC-Canada/Product-Manager--Conversational-Support_10154299) |
+| **Disney** | Product Manager, Conversational Support | Remote Worker Location... | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Remote-Worker-Location-BC-Canada/Product-Manager--Conversational-Support_10154299) |
 | **GE Vernova** | Technical Support Engineer - OT Commu... | Markham | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Markham/Technical-Support-Engineer---Communication-protocols---Ethernet-Networks_R5045114-3) |
 | **Ciena** | Coherent Plug NPI Program Manager | Ottawa | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Coherent-Plug-NPI-Program-Manager_R031210) |
 | **Canadian Tire** | Assistant Manger, Operations, Martind... | Ancaster, ON | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Ancaster-ON/Assistant-Manger--Operations--Martindale-Cres_JR164599) |
@@ -432,18 +432,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **PricewaterhouseCoopers** | January 2028 - Assurance CPA - Full T... | Montreal | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Montreal/January-2028---Assurance-CPA---Full-Time---Montreal_748578WD) |
-| **PricewaterhouseCoopers** | May 2027 - Assurance CPA - Summer Int... | Montreal | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Montreal/May-2027---Assurance-CPA---Summer-Intern----Montreal_748583WD-1) |
-| **PricewaterhouseCoopers** | September 2027 - Assurance CPA - Co-o... | Montreal | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Montreal/September-2027---Assurance-CPA---Co-op---8-Months---Montreal_748598WD) |
-| **CIBC** | Financial Service Representative II | Cornwall, ON | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Cornwall-ON/Financial-Service-Representative-II_2615568) |
-| **CIBC** | Financial Services Representative II | Owen Sound, ON | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Owen-Sound-ON/Financial-Services-Representative-II_2614213) |
-| **CIBC** | Client Service Representative | Owen Sound, ON | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Owen-Sound-ON/Client-Service-Representative_2616578) |
-| **BMO** | Critical Facilities Operator | Toronto, ON, CAN | 2m | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Critical-Facilities-Operator_R260012012) |
-| **Moderna** | Specialist, Quality Assurance | Canada, Drug Manufactu... | 3m | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Laval---Canada/Specialist--Quality-Assurance_R19580) |
-| **Google** | Student Researcher, PhD, Fall 2026 | Canada | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
-| **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
-| **Google** | Business Analyst II, Creator Partners... | Canada | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/133555513353740998) |
-| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
+| **PricewaterhouseCoopers** | January 2028 - Assurance CPA - Full T... | Montreal | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Montreal/January-2028---Assurance-CPA---Full-Time---Montreal_748578WD) |
+| **PricewaterhouseCoopers** | May 2027 - Assurance CPA - Summer Int... | Montreal | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Montreal/May-2027---Assurance-CPA---Summer-Intern----Montreal_748583WD-1) |
+| **PricewaterhouseCoopers** | September 2027 - Assurance CPA - Co-o... | Montreal | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Montreal/September-2027---Assurance-CPA---Co-op---8-Months---Montreal_748598WD) |
+| **CIBC** | Financial Service Representative II | Cornwall, ON | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Cornwall-ON/Financial-Service-Representative-II_2615568) |
+| **CIBC** | Financial Services Representative II | Owen Sound, ON | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Owen-Sound-ON/Financial-Services-Representative-II_2614213) |
+| **CIBC** | Client Service Representative | Owen Sound, ON | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Owen-Sound-ON/Client-Service-Representative_2616578) |
+| **BMO** | Critical Facilities Operator | Toronto, ON, CAN | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Critical-Facilities-Operator_R260012012) |
+| **Moderna** | Specialist, Quality Assurance | Canada, Drug Manufactu... | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Laval---Canada/Specialist--Quality-Assurance_R19580) |
+| **Google** | Student Researcher, PhD, Fall 2026 | Canada | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
+| **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
+| **Google** | Business Analyst II, Creator Partners... | Canada | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/133555513353740998) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
 | **GE Vernova** | Technical Applications Engineering - ... | Markham | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Markham/Protection-Applications-Engineering-Lead-Expert_R5042409-2) |
 | **Ciena** | Global Commodity Manager - Semiconductor | Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-Canada/Global-Commodity-Manager---Semiconductor_R030711) |
 | **Ciena** | Product Line Manager – Intelligent IP... | Ottawa | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Product-Line-Manager---Network-Management-Applications_R030700) |
