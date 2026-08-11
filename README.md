@@ -66,12 +66,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Google** | Hardware System Integration Developer | Canada | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98299400815551174) |
-| **Google** | Top Customer Solutions Developer, Hig... | Canada | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128853811044197062) |
-| **Google** | API and Integrations Developer, Works... | Canada | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/82018960060359366) |
-| **Autodesk** | Intern Software Developer, Stagiaire ... | Montreal, QC, CAN | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) |
+| **Google** | Hardware System Integration Developer | Canada | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98299400815551174) |
+| **Google** | Top Customer Solutions Developer, Hig... | Canada | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128853811044197062) |
+| **Google** | API and Integrations Developer, Works... | Canada | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/82018960060359366) |
+| **Autodesk** | Intern Software Developer, Stagiaire ... | Montreal, QC, CAN | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) |
 | **Lyft** | Software Engineer, MapXP | Toronto, Canada | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8695848002?gh_jid=8695848002) |
-| **ElevenLabs** | Forward Deployed Engineer - Software ... | Canada | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/elevenlabs/a4ccd185-8576-4f69-aa8d-454f323cc024) |
+| **ElevenLabs** | Forward Deployed Engineer - Software ... | Canada | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/elevenlabs/a4ccd185-8576-4f69-aa8d-454f323cc024) |
 | **Capco** | Portfolio Custom App Full Stack Devel... | Toronto | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8106065) |
 | **S&P Global** | DevOps Engineer | Toronto CAN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Toronto-CAN/DevOps-Engineer_324637-2) |
 | **Morgan Stanley** | Java Developer – FX eTrading Services... | Montreal, Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/Java-Developer---FX-eTrading-Services--Hybrid-_PT-JR041708) |
@@ -177,7 +177,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **WSP** | Intermediate Electrical Engineer | Edmonton, AB, Canada | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92738) |
+| **WSP** | Intermediate Electrical Engineer | Edmonton, AB, Canada | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92738) |
 | **Curtiss-Wright** | Electrical Manufacturing Engineer | Stratford | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/Canada-Stratford/Electrical-Manufacturing-Engineer_JR12917) |
 | **Stantec** | Building Electrical Engineer | Montreal, QC, Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007077) |
 | **ABB** | Electrical Engineer | Laurent, Quebec, Canada | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Saint-Laurent-Quebec-Canada/Project-Lead-Electrical-Engineer_JR00020524) |
@@ -213,7 +213,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **AstraZeneca** | Data Scientist, Advanced Analytics & ... | Mississauga | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Canada---Mississauga/Data-Scientist--Advanced-Analytics---Commercial-Effectiveness_R-254867-2) |
+| **AstraZeneca** | Data Scientist, Advanced Analytics & ... | Mississauga | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Canada---Mississauga/Data-Scientist--Advanced-Analytics---Commercial-Effectiveness_R-254867-2) |
 | **Autodesk** | Machine Learning Engineer 3D Geometry... | Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---Ontario---Toronto---University-Ave/Machine-Learning-Engineer-3D-Geometry--Multi-Modal_26WD97765-1) |
 | **FacilityOS** | Data Analyst, Revenue Operations | Toronto | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/facilityos/a25309ab-4c42-46c4-9171-8319ccddccb1) |
 | **Epic Games** | Machine Learning Intern | Montreal,Quebec,Canada | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |
@@ -263,18 +263,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Veolia Environnement SA** | Maintenance Manager | Burnaby, BC | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000130551139) |
-| **Veolia Environnement SA** | Industrial Maintenance Millwright | Burnaby, BC | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000130549489) |
-| **Red Bull** | Sales Trainee | Scarborough, ON | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/743999910309925) |
-| **Red Bull** | Red Bull Student Marketeer - Universi... | Hyacinthe, QC | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000104455717) |
-| **Red Bull** | Red Bull Student Marketeer - Universi... | Hyacinthe, QC | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000104456665) |
-| **NBCUniversal** | Coordinator, Human Resources   Coordo... | Montreal, QUEBEC | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000130043869) |
-| **NBCUniversal** | Manager, Human Resources   Gestionnai... | Montreal, QUEBEC | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000138924779) |
-| **NBCUniversal** | Office Manager   Gestionnaire de bureau | Montreal, QUEBEC | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000138727129) |
-| **Eurofins** | Maintenance Technician - Eurofins CDM... | Mississauga, ON | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127405549) |
-| **Bosch Group** | Junior Supply Chain Officer (Apprenti... | Breda, NB | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000119074820) |
-| **Bosch Group** | Junior Supply Chain Officer (Apprenti... | Breda, NB | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000129702224) |
-| **Bosch Group** | Supply Chain Intern | Welland, ON | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000132425057) |
+| **Veolia Environnement SA** | Maintenance Manager | Burnaby, BC | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000130551139) |
+| **Veolia Environnement SA** | Industrial Maintenance Millwright | Burnaby, BC | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000130549489) |
+| **Red Bull** | Sales Trainee | Scarborough, ON | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/743999910309925) |
+| **Red Bull** | Red Bull Student Marketeer - Universi... | Hyacinthe, QC | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000104455717) |
+| **Red Bull** | Red Bull Student Marketeer - Universi... | Hyacinthe, QC | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000104456665) |
+| **NBCUniversal** | Coordinator, Human Resources   Coordo... | Montreal, QUEBEC | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000130043869) |
+| **NBCUniversal** | Manager, Human Resources   Gestionnai... | Montreal, QUEBEC | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000138924779) |
+| **NBCUniversal** | Office Manager   Gestionnaire de bureau | Montreal, QUEBEC | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000138727129) |
+| **Eurofins** | Maintenance Technician - Eurofins CDM... | Mississauga, ON | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127405549) |
+| **Bosch Group** | Junior Supply Chain Officer (Apprenti... | Breda, NB | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000119074820) |
+| **Bosch Group** | Junior Supply Chain Officer (Apprenti... | Breda, NB | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000129702224) |
+| **Bosch Group** | Supply Chain Intern | Welland, ON | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000132425057) |
 | **Parsons** | Systems Project Manager – Rail & Tran... | BC, Burnaby, R184404, CA | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/CA---BC-Burnaby/Systems-Project-Manager---Rail---Transit-Solutions_R184404) |
 | **Motorola Solutions** | Junior Paid Media Specialist | Quebec,Canada Offsite,... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/QuebecCanada-Offsite/Junior-Paid-Media-Specialist_R66803) |
 | **Fiserv** | Production Fulfillment Associate | Export, Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://fiserv.wd5.myworkdayjobs.com/ext/job/Mississauga---Export-Canada/Production-Associate_R-10398474) |
@@ -360,9 +360,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Thermo Fisher Scientific** | Field Service Engineer III Chromatogr... | Alberta Canada | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Alberta-Canada/Field-Service-Engineer-III-Chromatography-Mass-Spectrometry--Western-Canada--REMOTE-_R-01360942) |
-| **Veolia Environnement SA** | Field Service Representative Dispatch... | Oakville, ON | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000126751839) |
-| **Bosch Group** | Student - eBike Technician support on... | Lund, Skåne län | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000103880185) |
+| **Thermo Fisher Scientific** | Field Service Engineer III Chromatogr... | Alberta Canada | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Alberta-Canada/Field-Service-Engineer-III-Chromatography-Mass-Spectrometry--Western-Canada--REMOTE-_R-01360942) |
+| **Veolia Environnement SA** | Field Service Representative Dispatch... | Oakville, ON | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000126751839) |
+| **Bosch Group** | Student - eBike Technician support on... | Lund, Skåne län | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000103880185) |
 | **Samsara** | Manager I, Customer Success Manager | Canada | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://www.samsara.com/company/careers/roles/8068523?gh_jid=8068523) |
 | **Affirm** | Operations Enablement Manager | Remote Canada | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7814652003) |
 | **Manulife** | Sales Operations Administrator | Toronto, Ontario | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Sales-Operations-Administrator_JR26071205-1) |
@@ -392,7 +392,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Danaher** | Field Service Technician II - Toronto | Toronto, Ontario, Canada | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Toronto-Ontario-Canada/Field-Service-Technician-II---Toronto_R1315998) |
 | **Guidepoint** | Technical Operations Engineer | Toronto, Ontario, Canada | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8649567002) |
 | **Cummins** | Engine Field Service Technician (Tumb... | Hinton, AB, Canada | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434478) |
-| **IDEXX** | Field Support Representative Diagnost... | Toronto ON | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Toronto-ON/Field-Support-Representative-Diagnostics-Toronto-North_J-054309) |
+| **IDEXX** | Field Support Representative Diagnost... | Toronto ON | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Toronto-ON/Field-Support-Representative-Diagnostics-Toronto-North_J-054309) |
 | **TD Bank** | IT Operations Analyst II | Toronto, Ontario | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/IT-Operations-Analyst-II_R_1502077) |
 | **TD Bank** | IT Operations Analyst II | Toronto, Ontario | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/IT-Operations-Analyst-II_R_1502821) |
 | **Manulife** | Bilingual Mortgage Creditor Sales Sup... | Montreal Quebec | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Montreal-Quebec/Bilingual-Mortgage-Creditor-Sales-Support_JR26061152-1) |
@@ -452,69 +452,69 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Manulife** | Manager, Governance | Toronto, Ontario | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Manager--Governance_JR26071990) |
-| **Manulife** | Compliance Consultant | Toronto Ontario | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Compliance-Consultant_JR26071463-1) |
-| **BMO** | Mortgage Specialist | Ottawa, ON, CAN | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Ottawa-ON-CAN/Mortgage-Specialist_R260018079) |
-| **BMO** | Financial Planner | Lethbridge, AB, CAN | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Lethbridge-AB-CAN/Financial-Planner_R260011703) |
-| **BMO** | Personal Banking Associate | Bridgewater, NS, CAN | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Bridgewater-NS-CAN/Personal-Banking-Associate_R260023503) |
-| **Teledyne** | Ingénieur/Scientifique Couches minces | Bromont, QC | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Ingnieur-Scientifique-Couches-minces_REQ34883-1) |
-| **Western Digital** | Student Assistant (m/f/d) in the area... | Eindhoven, NB | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000133334899) |
-| **Western Digital** | Student Assistant (m/f/d) in the area... | Eindhoven, NB | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000133334799) |
-| **Thermo Fisher Scientific** | Sourcing Specialist | Burlington, Canada | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Burlington-Canada/Sourcing-Specialist_R-01350930) |
-| **Veolia Environnement SA** | Water Treatment/Wastewater Equipment ... | Pickering, ON | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112796747) |
-| **Veolia Environnement SA** | Opérateur | Chambly, QC | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000108862485) |
-| **Stanley Black & Decker** | Représentant marketing événementiel /... | Montreal, Quebec, Canada | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Montreal-Quebec-Canada/Event-Marketing-Representative_REQ-1000051130) |
-| **Veolia Environnement SA** | Account Manager (CSM)- Darwin | Darwin City, NT | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000117783087) |
-| **Mastercard** | Analyst, Sales | Toronto, Canada | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Analyst--Sales_R-287743) |
-| **Smiths Group** | Quality Control Technician | Kirkland, QC | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000133611971) |
-| **Smiths Group** | Quality Engineering | Kirkland, QC | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000134867000) |
-| **Smiths Group** | Engineering Process Technician | Kirkland, QC | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000134684019) |
-| **Solidigm** | SoC Development Engineer | Vancouver, BC | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/solidigm/744000124968998) |
-| **Red Bull** | Red Bull Student Marketeer - Universi... | Montreal, QC | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000053324058) |
-| **Red Bull** | Red Bull Student Marketeer - Universi... | Montreal, QC | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000104457615) |
-| **Red Bull** | Red Bull Student Marketeer - HEC Mont... | Montréal, QUEBEC | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000104457168) |
-| **Palo Alto Networks** | Transformation Success Engineer | Montreal, Canada | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Montreal-Canada/Transformation-Success-Engineer_JR-019950-1) |
-| **NBCUniversal** | Reinforcement Learning Engineer - Ing... | Montréal, QC | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000136060874) |
-| **NBCUniversal** | Associate Producer- Content   Produce... | Montréal, QC | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000135585769) |
-| **Intuitive** | Clinical Sales Representative | Winnipeg, MB | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000128771110) |
-| **Eurofins** | Asbest Inspecteurs | 's-Hertogenbosch, NB | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000027676335) |
-| **Eurofins** | Asbest Inspecteurs | Breda, NB | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000027676145) |
-| **Eurofins** | Asbest Inspecteurs | Tilburg, NB | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000027675895) |
-| **Carrier Global** | Driver and Warehouse/Logistics Assistant | LOC13126: Unit #334 | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC13126-Unit-334---17-Fawcett-Road-Coquitlam-BC-V3K-6V2-Canada/Driver-and-Warehouse-Logistics-Assistant_30207496) |
-| **Caterpillar** | Technology Utilisation Representative | Tullamarine Victoria | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Tullamarine-Victoria/Technology-Utilisation-Representative_R0000376440) |
-| **Curtiss-Wright** | Material Handler (7:00 am to 3:30 pm) | Ottawa | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/Canada-Ottawa/Material-Handler--7-00-am-to-3-30-pm-_JR12979) |
-| **EVERSANA** | Manager, HEOR | Toronto, ON | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000132278449) |
-| **EVERSANA** | Manager, Market Access & Pricing | Burlington, ON | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000121167578) |
-| **Bosch Group** | Master Thesis - In-ear health monitor... | Lund, Skåne län | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000092233204) |
-| **Bosch Group** | Factory Automation Engineering Intern | Burlington, ON | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000126541495) |
-| **Bosch Group** | Customer Experience Intern | Welland, ON | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000134282410) |
-| **AbbVie** | Superviseur, Comptes clients | Montreal, QC | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014107006) |
-| **EliseAI** | Associate Solutions Engineer   Housing | Toronto | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eliseai/e6235b10-4518-4e20-a5b2-8cc1213a74b5) |
-| **Google** | Student Researcher, PhD, Fall 2026 | Canada | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
-| **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
-| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
-| **CIBC** | Administrative Assistant | Winnipeg, MB | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Winnipeg-MB/Administrative-Assistant_2616701-1) |
-| **CIBC** | Compliance Officer, Electronic Commun... | Toronto, ON | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Compliance-Officer--Electronic-Communications-Surveillance--Commercial-Banking---Wealth-Management-Compliance_2616280) |
-| **CIBC** | Financial Services Representative | Georgetown, ON | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Georgetown-ON/Financial-Services-Representative_2614960) |
-| **Johnson Controls** | Frigoriste (un) | Montréal-Québec-Canada | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Montral-Qubec-Canada/Frigoriste--un-_WD30276551) |
-| **Okta** | Field Marketing Specialist, Key & Str... | Toronto, Ontario, Canada | 39m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.okta.com/company/careers/opportunity/8106844?gh_jid=8106844) |
+| **Manulife** | Manager, Governance | Toronto, Ontario | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Manager--Governance_JR26071990) |
+| **Manulife** | Compliance Consultant | Toronto Ontario | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Compliance-Consultant_JR26071463-1) |
+| **BMO** | Mortgage Specialist | Ottawa, ON, CAN | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Ottawa-ON-CAN/Mortgage-Specialist_R260018079) |
+| **BMO** | Financial Planner | Lethbridge, AB, CAN | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Lethbridge-AB-CAN/Financial-Planner_R260011703) |
+| **BMO** | Personal Banking Associate | Bridgewater, NS, CAN | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Bridgewater-NS-CAN/Personal-Banking-Associate_R260023503) |
+| **Teledyne** | Ingénieur/Scientifique Couches minces | Bromont, QC | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Ingnieur-Scientifique-Couches-minces_REQ34883-1) |
+| **Western Digital** | Student Assistant (m/f/d) in the area... | Eindhoven, NB | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000133334899) |
+| **Western Digital** | Student Assistant (m/f/d) in the area... | Eindhoven, NB | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000133334799) |
+| **Thermo Fisher Scientific** | Sourcing Specialist | Burlington, Canada | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Burlington-Canada/Sourcing-Specialist_R-01350930) |
+| **Veolia Environnement SA** | Water Treatment/Wastewater Equipment ... | Pickering, ON | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112796747) |
+| **Veolia Environnement SA** | Opérateur | Chambly, QC | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000108862485) |
+| **Stanley Black & Decker** | Représentant marketing événementiel /... | Montreal, Quebec, Canada | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Montreal-Quebec-Canada/Event-Marketing-Representative_REQ-1000051130) |
+| **Veolia Environnement SA** | Account Manager (CSM)- Darwin | Darwin City, NT | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000117783087) |
+| **Mastercard** | Analyst, Sales | Toronto, Canada | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Analyst--Sales_R-287743) |
+| **Smiths Group** | Quality Control Technician | Kirkland, QC | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000133611971) |
+| **Smiths Group** | Quality Engineering | Kirkland, QC | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000134867000) |
+| **Smiths Group** | Engineering Process Technician | Kirkland, QC | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000134684019) |
+| **Solidigm** | SoC Development Engineer | Vancouver, BC | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/solidigm/744000124968998) |
+| **Red Bull** | Red Bull Student Marketeer - Universi... | Montreal, QC | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000053324058) |
+| **Red Bull** | Red Bull Student Marketeer - Universi... | Montreal, QC | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000104457615) |
+| **Red Bull** | Red Bull Student Marketeer - HEC Mont... | Montréal, QUEBEC | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000104457168) |
+| **Palo Alto Networks** | Transformation Success Engineer | Montreal, Canada | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Montreal-Canada/Transformation-Success-Engineer_JR-019950-1) |
+| **NBCUniversal** | Reinforcement Learning Engineer - Ing... | Montréal, QC | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000136060874) |
+| **NBCUniversal** | Associate Producer- Content   Produce... | Montréal, QC | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000135585769) |
+| **Intuitive** | Clinical Sales Representative | Winnipeg, MB | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000128771110) |
+| **Eurofins** | Asbest Inspecteurs | 's-Hertogenbosch, NB | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000027676335) |
+| **Eurofins** | Asbest Inspecteurs | Breda, NB | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000027676145) |
+| **Eurofins** | Asbest Inspecteurs | Tilburg, NB | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000027675895) |
+| **Carrier Global** | Driver and Warehouse/Logistics Assistant | LOC13126: Unit #334 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC13126-Unit-334---17-Fawcett-Road-Coquitlam-BC-V3K-6V2-Canada/Driver-and-Warehouse-Logistics-Assistant_30207496) |
+| **Caterpillar** | Technology Utilisation Representative | Tullamarine Victoria | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Tullamarine-Victoria/Technology-Utilisation-Representative_R0000376440) |
+| **Curtiss-Wright** | Material Handler (7:00 am to 3:30 pm) | Ottawa | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/Canada-Ottawa/Material-Handler--7-00-am-to-3-30-pm-_JR12979) |
+| **EVERSANA** | Manager, HEOR | Toronto, ON | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000132278449) |
+| **EVERSANA** | Manager, Market Access & Pricing | Burlington, ON | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000121167578) |
+| **Bosch Group** | Master Thesis - In-ear health monitor... | Lund, Skåne län | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000092233204) |
+| **Bosch Group** | Factory Automation Engineering Intern | Burlington, ON | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000126541495) |
+| **Bosch Group** | Customer Experience Intern | Welland, ON | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000134282410) |
+| **AbbVie** | Superviseur, Comptes clients | Montreal, QC | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014107006) |
+| **EliseAI** | Associate Solutions Engineer   Housing | Toronto | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/eliseai/e6235b10-4518-4e20-a5b2-8cc1213a74b5) |
+| **Google** | Student Researcher, PhD, Fall 2026 | Canada | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
+| **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
+| **CIBC** | Administrative Assistant | Winnipeg, MB | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Winnipeg-MB/Administrative-Assistant_2616701-1) |
+| **CIBC** | Compliance Officer, Electronic Commun... | Toronto, ON | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Compliance-Officer--Electronic-Communications-Surveillance--Commercial-Banking---Wealth-Management-Compliance_2616280) |
+| **CIBC** | Financial Services Representative | Georgetown, ON | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Georgetown-ON/Financial-Services-Representative_2614960) |
+| **Johnson Controls** | Frigoriste (un) | Montréal-Québec-Canada | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Montral-Qubec-Canada/Frigoriste--un-_WD30276551) |
+| **Okta** | Field Marketing Specialist, Key & Str... | Toronto, Ontario, Canada | 46m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.okta.com/company/careers/opportunity/8106844?gh_jid=8106844) |
 | **FLIR Systems** | Ingénieur/Scientifique Couches minces | Bromont, QC | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Ingnieur-Scientifique-Couches-minces_REQ34883-1) |
 | **Collibra** | Global Practioner | Remote, Canada | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=8121033) |
-| **GitLab** | Recruiter, Sales (Contract) | Remote, Canada | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gitlab/jobs/8662116002) |
+| **GitLab** | Recruiter, Sales (Contract) | Remote, Canada | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gitlab/jobs/8662116002) |
 | **Harvey** | Product Designer, Design Systems | Toronto | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/harvey/7af73358-0a99-4d3a-8fde-b0f735045613) |
-| **Amazon Development Centre Canada ULC** | Software Development Engineer 2, Amaz... | Toronto, ON | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10498176/software-development-engineer-2-amazon-kids-amazon-kids) |
-| **onsemi** | Assembly Test Operator-Fixed Term | Burlington, ON, Canada | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506287) |
-| **Sherwin-Williams** | Store Associate | Abbotsford, BC, Canada | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620347) |
-| **Abnormal Security** | Sales Development Representative - Ca... | Canada | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://abnormal.ai/careers/jobs/7849854003?gh_jid=7849854003) |
+| **Amazon Development Centre Canada ULC** | Software Development Engineer 2, Amaz... | Toronto, ON | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10498176/software-development-engineer-2-amazon-kids-amazon-kids) |
+| **onsemi** | Assembly Test Operator-Fixed Term | Burlington, ON, Canada | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506287) |
+| **Sherwin-Williams** | Store Associate | Abbotsford, BC, Canada | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620347) |
+| **Abnormal Security** | Sales Development Representative - Ca... | Canada | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://abnormal.ai/careers/jobs/7849854003?gh_jid=7849854003) |
 | **AbbVie** | FP&A Manager, Facial, Allergan Aesthe... | Markham, ON | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014526746) |
-| **WPP Media** | Associate, Direct Activation | Toronto, Canada | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/wppmedia/jobs/5316420008) |
+| **WPP Media** | Associate, Direct Activation | Toronto, Canada | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/wppmedia/jobs/5316420008) |
 | **Microsoft** | Solution Area Specialist | Toronto, Ontario, Canada | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556942544) |
 | **Ramp** | Business Development Representative  ... | Toronto, ON | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/ramp/cce684de-191d-4a8a-bc42-7ded3ccd47af) |
 | **Alo Yoga** | Sales Associate (Part-Time) - Rideau ... | Ottawa, Ontario, Canada | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6140183004?gh_jid=6140183004) |
 | **Geotab** | Graphic Designer | Oakville, Ontario - Ca... | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/geotab/jobs/5363137008) |
 | **SharkNinja** | Digital/Sharks - Digital Marketing As... | Mississauga, Ontario, ... | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703705006) |
-| **Benevity** | Manager, Data Governance | Toronto, Ontario | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/benevity/28d2d071-31d1-480f-b2c6-19d7fd7e10a3) |
-| **Benevity** | Manager, Data Governance | Calgary, Alberta | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/benevity/40956183-bef6-4579-b5a3-d0dfa65583d9) |
+| **Benevity** | Manager, Data Governance | Toronto, Ontario | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/benevity/28d2d071-31d1-480f-b2c6-19d7fd7e10a3) |
+| **Benevity** | Manager, Data Governance | Calgary, Alberta | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/benevity/40956183-bef6-4579-b5a3-d0dfa65583d9) |
 | **Microsoft** | Construction Project Coordinator | Greater Toronto, Ontar... | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556957412) |
 | **Beacon Software** | Technical Project Manager, Integrations | Toronto, Ontario | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/beaconsoftware/81011b99-50f0-4099-87bf-e94b225cb58f) |
 | **Microsoft** | Business Administrator | Vancouver, British Col... | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556957464) |
