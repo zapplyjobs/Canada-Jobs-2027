@@ -66,13 +66,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Autodesk** | Intern Software Developer, Stagiaire ... | Montreal, QC, CAN | 4m | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) |
-| **Google** | Hardware System Integration Developer | Canada | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98299400815551174) |
-| **Google** | Top Customer Solutions Developer, Hig... | Canada | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128853811044197062) |
-| **Google** | API and Integrations Developer, Works... | Canada | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/82018960060359366) |
+| **Autodesk** | Intern Software Developer, Stagiaire ... | Montreal, QC, CAN | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) |
+| **Google** | Hardware System Integration Developer | Canada | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98299400815551174) |
+| **Google** | Top Customer Solutions Developer, Hig... | Canada | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128853811044197062) |
+| **Google** | API and Integrations Developer, Works... | Canada | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/82018960060359366) |
 | **Lyft** | Software Engineer, MapXP | Toronto, Canada | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8695848002?gh_jid=8695848002) |
 | **ElevenLabs** | Forward Deployed Engineer - Software ... | Canada | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/elevenlabs/a4ccd185-8576-4f69-aa8d-454f323cc024) |
-| **Capco** | Portfolio Custom App Full Stack Devel... | Toronto | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8106065) |
+| **Capco** | Portfolio Custom App Full Stack Devel... | Toronto | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/8106065) |
 | **TD Bank** | Software Engineer II | Toronto, Ontario | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II_R_1503197) |
 | **TD Bank** | Software Engineer II | Toronto Ontario | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-II_R_1503782) |
 | **TD Bank** | Software Engineer I | Toronto, Ontario | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1501372) |
@@ -255,7 +255,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **TD Bank** | TD Insurance, SIU Auto Claims Investi... | Markham Ontario | 4m | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Markham-Ontario/TD-Insurance--SIU-Auto-Claims-Investigator_R_1502261) |
+| **TD Bank** | TD Insurance, SIU Auto Claims Investi... | Markham Ontario | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Markham-Ontario/TD-Insurance--SIU-Auto-Claims-Investigator_R_1502261) |
 | **TD Bank** | Quality Engineer I (Core-Java & Mainf... | Toronto, Ontario | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Quality-Engineer-I--Core-Java---Mainframe-_R_1497021) |
 | **TD Bank** | TD Insurance- Commercial Property Cla... | Montréal, Québec | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/TD-Insurance--Commercial-Property-Claims-Advisor_R_1495124-1) |
 | **Nike** | Retail Associate, PT - Nike Marche Ce... | Montreal, Quebec | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://nike.wd1.myworkdayjobs.com/NKE/job/Montreal-Quebec/Retail-Associate--PT---Nike-Marche-Central_R-89769) |
@@ -346,7 +346,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **TD Bank** | Onsite AV Support - IT Build Analyst II | Toronto, Ontario | 4m | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Onsite-AV-Support---IT-Build-Analyst-II_R_1502820) |
+| **TD Bank** | Onsite AV Support - IT Build Analyst II | Toronto, Ontario | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Onsite-AV-Support---IT-Build-Analyst-II_R_1502820) |
 | **Samsara** | Manager I, Customer Success Manager | Canada | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://www.samsara.com/company/careers/roles/8068523?gh_jid=8068523) |
 | **Affirm** | Operations Enablement Manager | Remote Canada | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7814652003) |
 | **TD Bank** | Financial Crime Risk Investigation Su... | Ottawa, Ontario | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Ottawa-Ontario/Financial-Crime-Risk-Investigation-Support-Officer-II--5283-_R_1504457) |
@@ -429,25 +429,25 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **TD Bank** | PIA Client Service Associate | Montréal, Québec | 4m | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/PIA-Client-Service-Associate_R_1504497) |
-| **TD Bank** | Estate Planning Advisor (Insurance) | Montréal, Québec | 4m | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Estate-Planning-Advisor--Insurance-_R_1502742) |
-| **TD Bank** | Customer Experience Associate | Mississauga, Ontario | 4m | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mississauga-Ontario/Customer-Experience-Associate_R_1503064-1) |
-| **BMO** | Credit Analyst | Hyacinthe, QC, CAN, ST | 4m | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/St-Hyacinthe-QC-CAN/Credit-Analyst_R260018741) |
-| **Teledyne** | Ingénieur/Scientifique Couches minces | Bromont, QC | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Ingnieur-Scientifique-Couches-minces_REQ34883-1) |
-| **FLIR Systems** | Ingénieur/Scientifique Couches minces | Bromont, QC | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Ingnieur-Scientifique-Couches-minces_REQ34883-1) |
-| **Johnson Controls** | Frigoriste (un) | Montréal-Québec-Canada | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Montral-Qubec-Canada/Frigoriste--un-_WD30276551) |
-| **Carrier Global** | Driver and Warehouse/Logistics Assistant | LOC13126: Unit #334 | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC13126-Unit-334---17-Fawcett-Road-Coquitlam-BC-V3K-6V2-Canada/Driver-and-Warehouse-Logistics-Assistant_30207496) |
-| **Red Bull** | Key Account Manager, West | Vancouver, BC | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000142876407) |
-| **Google** | Student Researcher, PhD, Fall 2026 | Canada | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
-| **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
-| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
-| **Manulife** | Compliance Consultant | Toronto Ontario | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Compliance-Consultant_JR26071463-1) |
-| **CIBC** | Client Service Representative [Hourly] | Richmond Hill, ON | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Richmond-Hill-ON/Client-Service-Representative--Hourly-_2616056) |
-| **CIBC** | Financial Service Associate (Hourly) | Mississauga, ON | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Mississauga-ON/Financial-Service-Associate--Hourly-_2613607) |
-| **CIBC** | Administrative Assistant | Mississauga, ON | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Mississauga-ON/Administrative-Assistant_2615815) |
-| **Curtiss-Wright** | Material Handler (7:00 am to 3:30 pm) | Ottawa | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/Canada-Ottawa/Material-Handler--7-00-am-to-3-30-pm-_JR12979) |
-| **Caterpillar** | Technology Utilisation Representative | Tullamarine Victoria | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Tullamarine-Victoria/Technology-Utilisation-Representative_R0000376440) |
-| **Collibra** | Global Practioner | Remote, Canada | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=8121033) |
+| **TD Bank** | PIA Client Service Associate | Montréal, Québec | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/PIA-Client-Service-Associate_R_1504497) |
+| **TD Bank** | Estate Planning Advisor (Insurance) | Montréal, Québec | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Estate-Planning-Advisor--Insurance-_R_1502742) |
+| **TD Bank** | Customer Experience Associate | Mississauga, Ontario | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mississauga-Ontario/Customer-Experience-Associate_R_1503064-1) |
+| **BMO** | Credit Analyst | Hyacinthe, QC, CAN, ST | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/St-Hyacinthe-QC-CAN/Credit-Analyst_R260018741) |
+| **Teledyne** | Ingénieur/Scientifique Couches minces | Bromont, QC | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Ingnieur-Scientifique-Couches-minces_REQ34883-1) |
+| **FLIR Systems** | Ingénieur/Scientifique Couches minces | Bromont, QC | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Ingnieur-Scientifique-Couches-minces_REQ34883-1) |
+| **Johnson Controls** | Frigoriste (un) | Montréal-Québec-Canada | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Montral-Qubec-Canada/Frigoriste--un-_WD30276551) |
+| **Carrier Global** | Driver and Warehouse/Logistics Assistant | LOC13126: Unit #334 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC13126-Unit-334---17-Fawcett-Road-Coquitlam-BC-V3K-6V2-Canada/Driver-and-Warehouse-Logistics-Assistant_30207496) |
+| **Red Bull** | Key Account Manager, West | Vancouver, BC | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000142876407) |
+| **Google** | Student Researcher, PhD, Fall 2026 | Canada | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
+| **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
+| **Manulife** | Compliance Consultant | Toronto Ontario | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Compliance-Consultant_JR26071463-1) |
+| **CIBC** | Client Service Representative [Hourly] | Richmond Hill, ON | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Richmond-Hill-ON/Client-Service-Representative--Hourly-_2616056) |
+| **CIBC** | Financial Service Associate (Hourly) | Mississauga, ON | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Mississauga-ON/Financial-Service-Associate--Hourly-_2613607) |
+| **CIBC** | Administrative Assistant | Mississauga, ON | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://cibc.wd3.myworkdayjobs.com/search/job/Mississauga-ON/Administrative-Assistant_2615815) |
+| **Curtiss-Wright** | Material Handler (7:00 am to 3:30 pm) | Ottawa | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/Canada-Ottawa/Material-Handler--7-00-am-to-3-30-pm-_JR12979) |
+| **Caterpillar** | Technology Utilisation Representative | Tullamarine Victoria | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Tullamarine-Victoria/Technology-Utilisation-Representative_R0000376440) |
+| **Collibra** | Global Practioner | Remote, Canada | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=8121033) |
 | **GitLab** | Recruiter, Sales (Contract) | Remote, Canada | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gitlab/jobs/8662116002) |
 | **Harvey** | Product Designer, Design Systems | Toronto | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/harvey/7af73358-0a99-4d3a-8fde-b0f735045613) |
 | **Amazon Development Centre Canada ULC** | Software Development Engineer 2, Amaz... | Toronto, ON | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10498176/software-development-engineer-2-amazon-kids-amazon-kids) |
@@ -465,7 +465,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Microsoft** | Construction Project Coordinator | Greater Toronto, Ontar... | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556957412) |
 | **Beacon Software** | Technical Project Manager, Integrations | Toronto, Ontario | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/beaconsoftware/81011b99-50f0-4099-87bf-e94b225cb58f) |
 | **Microsoft** | Business Administrator | Vancouver, British Col... | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556957464) |
-| **FacilityOS** | Sales Manager | Toronto | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/facilityos/6c2a4d65-2aaa-48c7-88f2-d7826fb769cf) |
+| **FacilityOS** | Sales Manager | Toronto | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/facilityos/6c2a4d65-2aaa-48c7-88f2-d7826fb769cf) |
 | **WPP Media** | Spécialiste en Programmatique | Montreal, Canada | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/wppmedia/jobs/5367107008) |
 | **Philips** | Integration Consultant, Diagnostic Ca... | Canada Home Based | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Canada---Home-Based/Integration-Consultant--Diagnostic-Cardiology-Solutions--Remote-Based---Canada-_587817) |
 | **Disney** | Coordinator, International Content | Toronto, ON, Canada | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Toronto-ON-Canada/Coordinator--International-Content_10157472-1) |
