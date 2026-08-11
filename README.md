@@ -66,9 +66,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Google** | Hardware System Integration Developer | Canada | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98299400815551174) |
-| **Google** | Top Customer Solutions Developer, Hig... | Canada | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128853811044197062) |
-| **Google** | API and Integrations Developer, Works... | Canada | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/82018960060359366) |
+| **Google** | Hardware System Integration Developer | Canada | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/98299400815551174) |
+| **Google** | Top Customer Solutions Developer, Hig... | Canada | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128853811044197062) |
+| **Google** | API and Integrations Developer, Works... | Canada | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/82018960060359366) |
 | **Motorola Solutions** | Systems Engineer - Toronto, Ontario, ... | Toronto, Canada (ONT40... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Toronto-Canada-ONT40/Systems-Engineer---Toronto--Ontario--Canada_R66098) |
 | **Motorola Solutions** | Systems Engineer - Ontario OR Quebec,... | Ontario,Canada Offsite... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/OntarioCanada-Offsite/Systems-Engineer---Ontario-OR-Quebec--Canada_R66772) |
 | **Cadence** | Software Engineer (Circuit Analysis, ... | BURNABY 01 | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BURNABY-01/Software-Engineer--Circuit-Analysis--EDA-frameworks--AI-agents-_R53165-1) |
@@ -445,9 +445,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Google** | Student Researcher, PhD, Fall 2026 | Canada | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
-| **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
-| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
+| **Google** | Student Researcher, PhD, Fall 2026 | Canada | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) |
+| **Google** | Student Researcher, BS/MS, Fall 2026 | Canada | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/114438004/ca-specialist-seasonal-part-time) |
 | **TD Synnex** | Discovery Representative   Représenta... | Mississauga, Ontario, ... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mississauga-Ontario-Canada/Discovery-Representative---Reprsentant-e--du-programme-Dcouverte_R54257) |
 | **TD Synnex** | LC Associate - LC Associé (CONV) | Mississauga, Ontario, ... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mississauga-Ontario-Canada/LC-Associate---LC-Associ--CONV-_R54931) |
 | **TD Synnex** | LC Associate - LC Associé (CONV) | Mississauga, Ontario, ... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mississauga-Ontario-Canada/LC-Associate---LC-Associ--CONV-_R54928) |
@@ -516,7 +516,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Beacon Software** | Technical Project Manager, Integrations | Toronto, Ontario | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/beaconsoftware/81011b99-50f0-4099-87bf-e94b225cb58f) |
 | **Microsoft** | Business Administrator | Vancouver, British Col... | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556957464) |
 | **FacilityOS** | Sales Manager | Toronto | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/facilityos/6c2a4d65-2aaa-48c7-88f2-d7826fb769cf) |
-| **WPP Media** | Spécialiste en Programmatique | Montreal, Canada | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/wppmedia/jobs/5367107008) |
+| **WPP Media** | Spécialiste en Programmatique | Montreal, Canada | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/wppmedia/jobs/5367107008) |
 | **OpenTable** | Manager, Consolidation & Reporting (H... | Toronto, Canada | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/opentable/jobs/8692832002) |
 | **HubSpot** | Business Development Representative (... | Ontario, Canada | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://www.hubspot.com/careers/jobs/8119126?gh_jid=8119126) |
 | **Bosch Group** | Student Worker Part Time | Lund, Skåne län | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000142574429) |
