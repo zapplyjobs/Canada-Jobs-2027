@@ -279,9 +279,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **TJX** | Retail Store Associate Full Time Winners - Portland Street | Dartmouth | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-tjx-REQ159368?s=gh-canada-jobs-2027) |
-| **TJX** | Retail Store Associate Part Time Winners | New Westminster | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-tjx-REQ159613?s=gh-canada-jobs-2027) |
-| **TJX** | Retail Store Assocaite Seasonal  HomeSense - Westgate | Grande Prairie | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-tjx-REQ149343?s=gh-canada-jobs-2027) |
+| **TJX** | Retail Store Associate Full Time Winners - Portland Street | Dartmouth | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-tjx-REQ159368?s=gh-canada-jobs-2027) |
+| **TJX** | Retail Store Associate Part Time Winners | New Westminster | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-tjx-REQ159613?s=gh-canada-jobs-2027) |
+| **TJX** | Retail Store Assocaite Seasonal  HomeSense - Westgate | Grande Prairie | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-tjx-REQ149343?s=gh-canada-jobs-2027) |
 | **Autodesk** | Product Management Intern, Stagiaire Gestion de Produit | Montreal, QC | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-autodesk-ext-26WD101135?s=gh-canada-jobs-2027) |
 | **TD Bank** | Personal Banking Associate Trainee - Inviting Applicants who identify as First Nation (Status... | Tsuut'ina | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1512169?s=gh-canada-jobs-2027) |
 | **TD Bank** | Personal Banking Associate Trainee | Stouffville | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1511776?s=gh-canada-jobs-2027) |
@@ -492,12 +492,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
-| **Johnson Controls** | Mécanicien de Machines fixes (un) | Montréal-Québec-Canada | 59m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30279823?s=gh-canada-jobs-2027) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
+| **Johnson Controls** | Mécanicien de Machines fixes (un) | Montréal-Québec-Canada | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30279823?s=gh-canada-jobs-2027) |
 | **Google** | Ads Threat Intelligence | Canada | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-72472206075929286?s=gh-canada-jobs-2027) |
-| **JPMorgan Chase** | 2027 Commercial & Specialized Industries Program - Full-time Analyst (Toronto, ON) | Toronto, ON | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210790790?s=gh-canada-jobs-2027) |
-| **TJX** | Coordonnateur de magasin Carrefour Frontenac | Thetford Mines | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-tjx-REQ145984?s=gh-canada-jobs-2027) |
-| **TJX** | Associé / Associée de magasin Temps partiel Winners/Homesense - Place Longueuil | Longueuil | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-tjx-REQ135904?s=gh-canada-jobs-2027) |
+| **JPMorgan Chase** | 2027 Commercial & Specialized Industries Program - Full-time Analyst (Toronto, ON) | Toronto, ON | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210790790?s=gh-canada-jobs-2027) |
+| **TJX** | Coordonnateur de magasin Carrefour Frontenac | Thetford Mines | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-tjx-REQ145984?s=gh-canada-jobs-2027) |
+| **TJX** | Associé / Associée de magasin Temps partiel Winners/Homesense - Place Longueuil | Longueuil | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-tjx-REQ135904?s=gh-canada-jobs-2027) |
 | **HPE (University)** | Enterprise Account Manager | Ottawa | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1215352?s=gh-canada-jobs-2027) |
 | **HPE** | Enterprise Account Manager | Ottawa | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1215352?s=gh-canada-jobs-2027) |
 | **JLL** | Mech and Robotics Tech | Hamilton, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ531224?s=gh-canada-jobs-2027) |
