@@ -484,8 +484,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **State Street** | Financial Reporting, Officer | Toronto | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-792481?s=gh-canada-jobs-2027) |
-| **JLL** | Mech and Robotics Tech | Edmonton, AB | 44m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ539539?s=gh-canada-jobs-2027) |
+| **State Street** | Financial Reporting, Officer | Toronto | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-792481?s=gh-canada-jobs-2027) |
+| **JLL** | Mech and Robotics Tech | Edmonton, AB | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ539539?s=gh-canada-jobs-2027) |
 | **BMO** | Critical Facilities Operator | Toronto, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260012012?s=gh-canada-jobs-2027) |
 | **Manulife** | Winter Co-op 2027 - Business Technology | Toronto | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26081665?s=gh-canada-jobs-2027) |
 | **UPS** | Early Morning Sorter - Preload (Victoria) | VICTORIA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26015465?s=gh-canada-jobs-2027) |
