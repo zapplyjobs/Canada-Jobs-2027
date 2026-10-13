@@ -65,11 +65,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Snowflake** | AI Software Engineer | Ontario-Toronto, CA | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-snowflake-628f36e0-8554-4d5f-8d5e-a017a761ca54?s=gh-canada-jobs-2027) |
-| **General Motors** | DevOps Software Quality Automation Tools Engineer | Markham | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202619143?s=gh-canada-jobs-2027) |
-| **Aptiv** | Cloud Engineering Intern | CAN Kanata (2), ON | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704383?s=gh-canada-jobs-2027) |
-| **Aptiv** | Cloud Engineer Intern | CAN Kanata (2), ON | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704380?s=gh-canada-jobs-2027) |
-| **Aptiv** | Cloud Engineer Intern | CAN Kanata (2), ON | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704376?s=gh-canada-jobs-2027) |
+| **Snowflake** | AI Software Engineer | Ontario-Toronto, CA | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-snowflake-628f36e0-8554-4d5f-8d5e-a017a761ca54?s=gh-canada-jobs-2027) |
+| **General Motors** | DevOps Software Quality Automation Tools Engineer | Markham | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202619143?s=gh-canada-jobs-2027) |
+| **Aptiv** | Cloud Engineering Intern | CAN Kanata (2), ON | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704383?s=gh-canada-jobs-2027) |
+| **Aptiv** | Cloud Engineer Intern | CAN Kanata (2), ON | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704380?s=gh-canada-jobs-2027) |
+| **Aptiv** | Cloud Engineer Intern | CAN Kanata (2), ON | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704376?s=gh-canada-jobs-2027) |
 | **Cisco** | Software Developer, Hybrid, Ottawa, Canada | Ottawa | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025208?s=gh-canada-jobs-2027) |
 | **Google** | Software Developer III, Google Cloud Platforms, EasySaaS Deployments | Canada | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-87227757347381958?s=gh-canada-jobs-2027) |
 | **Google** | Partner Developer, YouTube | Canada | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-104465900647654086?s=gh-canada-jobs-2027) |
@@ -289,8 +289,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Hitachi** | Ingénieur en Systèmes d’Énergie / Power System Engineer - Main Circuit Design | Saint-Laurent | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0142197?s=gh-canada-jobs-2027) |
-| **NVIDIA** | PhD Research Intern, Quantum and AI for Chemistry - 2027 | Canada | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2024997?s=gh-canada-jobs-2027) |
+| **Hitachi** | Ingénieur en Systèmes d’Énergie / Power System Engineer - Main Circuit Design | Saint-Laurent | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0142197?s=gh-canada-jobs-2027) |
+| **NVIDIA** | PhD Research Intern, Quantum and AI for Chemistry - 2027 | Canada | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2024997?s=gh-canada-jobs-2027) |
 | **TD Bank** | Personal Banking Associate Trainee | Calgary | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1515851?s=gh-canada-jobs-2027) |
 | **TD Bank** | Personal Banking Associate Trainee | Calgary | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1515852?s=gh-canada-jobs-2027) |
 | **Starbucks** | barista - Store# 55422, 5771 MAIN STREET | 5771 Main Street | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/starbucks-260083944?s=gh-canada-jobs-2027) |
@@ -400,7 +400,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Salesforce** | Customer Success Manager | Canada - Toronto | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR363362?s=gh-canada-jobs-2027) |
+| **Salesforce** | Customer Success Manager | Canada - Toronto | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR363362?s=gh-canada-jobs-2027) |
 | **1Password** | Finance Intern - Finance Operations - Winter 2027 | Remote | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-1password-25a06bd3-2367-4cfc-8624-4c6d7c938459?s=gh-canada-jobs-2027) |
 | **Thermo Fisher Scientific** | Scientist I – Analytical Operations | Mississauga | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01370082?s=gh-canada-jobs-2027) |
 | **Disney** | Product Manager, Conversational Support | BC | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10154299?s=gh-canada-jobs-2027) |
@@ -483,15 +483,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
-| **State Street** | Alternative Ops Transfer Agency, Associate 2 | Toronto | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-795903?s=gh-canada-jobs-2027) |
-| **Allstate** | Corporate Strategy Manager | Canadian Head | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allstate-allstate-careers-R34599?s=gh-canada-jobs-2027) |
-| **Allstate** | Life Specialist - Consultant II | Canadian Head | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35247?s=gh-canada-jobs-2027) |
-| **Copart** | Inventory Specialist/Receiver | Toronto, ON | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-copart-copart-JR112081?s=gh-canada-jobs-2027) |
-| **Aptiv** | HVP/Cert Engineering Intern | CAN Kanata (2), ON | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704377?s=gh-canada-jobs-2027) |
-| **Aptiv** | HVP/Cert  Engineering Intern | CAN Kanata (2), ON | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704372?s=gh-canada-jobs-2027) |
-| **Aptiv** | HVP/Cert   Engineering Intern | CAN Kanata (2), ON | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704374?s=gh-canada-jobs-2027) |
-| **Palo Alto Networks** | Transformation Success Engineer | Montreal | 56m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-paloaltonetworks-panwexternalcareers-JR-019950?s=gh-canada-jobs-2027) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
+| **State Street** | Alternative Ops Transfer Agency, Associate 2 | Toronto | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-795903?s=gh-canada-jobs-2027) |
+| **Allstate** | Corporate Strategy Manager | Canadian Head | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allstate-allstate-careers-R34599?s=gh-canada-jobs-2027) |
+| **Allstate** | Life Specialist - Consultant II | Canadian Head | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35247?s=gh-canada-jobs-2027) |
+| **Copart** | Inventory Specialist/Receiver | Toronto, ON | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-copart-copart-JR112081?s=gh-canada-jobs-2027) |
+| **Aptiv** | HVP/Cert Engineering Intern | CAN Kanata (2), ON | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704377?s=gh-canada-jobs-2027) |
+| **Aptiv** | HVP/Cert  Engineering Intern | CAN Kanata (2), ON | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704372?s=gh-canada-jobs-2027) |
+| **Aptiv** | HVP/Cert   Engineering Intern | CAN Kanata (2), ON | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704374?s=gh-canada-jobs-2027) |
+| **Palo Alto Networks** | Transformation Success Engineer | Montreal | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-paloaltonetworks-panwexternalcareers-JR-019950?s=gh-canada-jobs-2027) |
 | **JLL** | Mech and Robotics Tech | Cambridge, ON | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ541639?s=gh-canada-jobs-2027) |
 | **Trimble** | Production Technician | Canada - Richmond Hill | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-trimble-trimblecareers-R57235?s=gh-canada-jobs-2027) |
 | **Capco** | Business Analyst | Canada - Toronto | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-capco-8275106?s=gh-canada-jobs-2027) |
