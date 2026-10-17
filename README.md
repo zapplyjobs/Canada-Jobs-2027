@@ -500,15 +500,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 10m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
 | **Sanofi** | Event Deviation Change Management Expert | Toronto | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-46029550976?s=gh-canada-jobs-2027) |
 | **Abbott** | Remote Care Technician – Cardiac Rhythm Management - Mississauga | Mississauga, ON | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31165229?s=gh-canada-jobs-2027) |
 | **Abbott** | Diabetes Sales Specialist - Kitchener/Waterloo - Abbott Diabetes Care | ON | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31165222?s=gh-canada-jobs-2027) |
 | **TD Bank** | Montreal East- In Person Recruitment Event (October 19, 2026) | Saint-Léonard | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1512782?s=gh-canada-jobs-2027) |
-| **Waymo** | Legal Counsel - Canada | Toronto, ON | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8157449?s=gh-canada-jobs-2027) |
-| **UPS** | Preloader | DELTA | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26015026?s=gh-canada-jobs-2027) |
-| **UPS** | preload | KANATA | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26033737?s=gh-canada-jobs-2027) |
-| **UPS** | Warehouse Associate/SorterPM | CONCORD | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26035724?s=gh-canada-jobs-2027) |
+| **Waymo** | Legal Counsel - Canada | Toronto, ON | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8157449?s=gh-canada-jobs-2027) |
+| **UPS** | Preloader | DELTA | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26015026?s=gh-canada-jobs-2027) |
+| **UPS** | preload | KANATA | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26033737?s=gh-canada-jobs-2027) |
+| **UPS** | Warehouse Associate/SorterPM | CONCORD | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26035724?s=gh-canada-jobs-2027) |
 | **Samsara** | People Partner | Canada | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-samsara-8288505?s=gh-canada-jobs-2027) |
 | **2K Games** | Technical Test Analyst II / I | Vancouver, BC | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-2k-7979995003?s=gh-canada-jobs-2027) |
 | **Lightspeed** | Team Lead, Hospitality Sales | Montreal | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-lightspeedhq-cbf2f85d-75d6-48c0-8729-a2a71148a4b0?s=gh-canada-jobs-2027) |
@@ -517,7 +517,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TD Bank** | French Bilingual Contact Center Rep II, Everyday Banking - French | 7250 Mile End | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1511255?s=gh-canada-jobs-2027) |
 | **RTX** | Financial Analyst | On, CA | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01883191?s=gh-canada-jobs-2027) |
 | **Starbucks** | assistant store manager, Truro, NS | Truro +1 more | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/starbucks-260075915?s=gh-canada-jobs-2027) |
-| **RTX** | Ingénieur(e) en conception de logiciels de systèmes de commande / Control Systems Software... | Qc, CA | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874399?s=gh-canada-jobs-2027) |
+| **RTX** | Ingénieur(e) en conception de logiciels de systèmes de commande / Control Systems Software... | Qc, CA | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874399?s=gh-canada-jobs-2027) |
 | **Eurofins** | Business/Sales Analyst - Eurofins Cosmetics & Personal Care, Inc. | Toronto, ON | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000156065338?s=gh-canada-jobs-2027) |
 | **AbbVie** | Chef, Exécution de projets stratégiques, Gastroentérologie | Montreal, QC | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016188946?s=gh-canada-jobs-2027) |
 | **AbbVie** | Manager, Strategic Project Execution, Gastroenterology | Montreal, QC | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016188916?s=gh-canada-jobs-2027) |
