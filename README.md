@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **S&P Global** | IT Service Operations, API and Cloud Warehouse Integrations | Calgary | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332076?s=gh-canada-jobs-2027) |
+| **S&P Global** | IT Service Operations, API and Cloud Warehouse Integrations | Calgary | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332076?s=gh-canada-jobs-2027) |
 | **Google** | Software Engineer III, Infrastructure, Core | Canada | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-124156981375050438?s=gh-canada-jobs-2027) |
 | **Braze** | Software Engineer II, User Targeting | Toronto | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-braze-8262966?s=gh-canada-jobs-2027) |
 | **D2L** | Software Developer - Winter 2027 Co-op - Custom Development Services | Kitchener, ON | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-d2l-8289767?s=gh-canada-jobs-2027) |
@@ -239,7 +239,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **BMO** | Manager Stress Testing Analytics | Toronto, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260025536?s=gh-canada-jobs-2027) |
 | **Tower Research Capital** | Machine Learning Intern | Montreal | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-towerresearchcapital-7077280?s=gh-canada-jobs-2027) |
 | **TD Bank** | Applied Machine Learning Scientist II (ATH# 5481) | Toronto | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1513839?s=gh-canada-jobs-2027) |
-| **Asana** | Data Scientist | Vancouver, BC | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-asana-8275149?s=gh-canada-jobs-2027) |
+| **Asana** | Data Scientist | Vancouver, BC | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-asana-8275149?s=gh-canada-jobs-2027) |
 | **TD Bank** | TD Asset Management Portfolio Analytics Data Analyst Intern/Co-Op (Winter 2027) | Toronto | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1506711?s=gh-canada-jobs-2027) |
 | **Boeing** | Analytics Business Operations Intern (Commercial Services) | CAN Richmond Canada +1 more | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026526157?s=gh-canada-jobs-2027) |
 | **Boeing** | Analytics Business Operations Intern (Government Services) | CAN Richmond Canada +1 more | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026526163?s=gh-canada-jobs-2027) |
@@ -500,7 +500,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
 | **Johnson Controls** | HVAC Dispatch & Resource Coordinator | Dartmouth-Nova Scotia-Canada | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30282765?s=gh-canada-jobs-2027) |
 | **Sanofi** | Event Deviation Change Management Expert | Toronto | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-46029550976?s=gh-canada-jobs-2027) |
 | **JLL** | Préposé(e), Service à la clientèle / Guest Service Representative | Montreal, QC | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ531699?s=gh-canada-jobs-2027) |
@@ -514,7 +514,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **UPS** | preload | KANATA | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26033737?s=gh-canada-jobs-2027) |
 | **UPS** | Warehouse Associate/SorterPM | CONCORD | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26035724?s=gh-canada-jobs-2027) |
 | **Samsara** | People Partner | Canada | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-samsara-8288505?s=gh-canada-jobs-2027) |
-| **2K Games** | Technical Test Analyst II / I | Vancouver, BC | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-2k-7979995003?s=gh-canada-jobs-2027) |
+| **2K Games** | Technical Test Analyst II / I | Vancouver, BC | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-2k-7979995003?s=gh-canada-jobs-2027) |
 | **Lightspeed** | Team Lead, Hospitality Sales | Montreal | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-lightspeedhq-cbf2f85d-75d6-48c0-8729-a2a71148a4b0?s=gh-canada-jobs-2027) |
 | **Lightspeed** | Team Lead, Hospitality Sales | Montreal | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-lightspeedhq-4aa73334-3397-42c0-a37f-a20444523d13?s=gh-canada-jobs-2027) |
 | **RTX** | Stage - Hiver 2027 - Étudiant en génie des matériaux (8 Mois) / Internship - Winter 2027 -... | Qc, CA | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01868778?s=gh-canada-jobs-2027) |
@@ -527,7 +527,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AbbVie** | Manager, Strategic Project Execution, Gastroenterology | Montreal, QC | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016188916?s=gh-canada-jobs-2027) |
 | **Scale AI** | Safety Research Scholar - Human Frontier Labs | United States +2 more | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-scaleai-4744402005?s=gh-canada-jobs-2027) |
 | **Geotab** | Business Development Associate - Public Sector | Canada | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-geotab-5436530008?s=gh-canada-jobs-2027) |
-| **Starbucks** | assistant store manager - Laval, Qc | Laval +3 more | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/starbucks-260060407?s=gh-canada-jobs-2027) |
+| **Starbucks** | assistant store manager - Laval, Qc | Laval +3 more | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/starbucks-260060407?s=gh-canada-jobs-2027) |
 | **D2L** | Solutions Engineer | Canada | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-d2l-8289215?s=gh-canada-jobs-2027) |
 | **Microsoft** | Producer -  Gears of War - The Coalition (12-Month Fixed-Term Contract) | Vancouver, BC | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200061831?s=gh-canada-jobs-2027) |
 | **Lucid Motors** | Spécialiste des ventes (Sales Specialist) | Montreal, QC | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5267199007?s=gh-canada-jobs-2027) |
