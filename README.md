@@ -72,7 +72,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Braze** | Software Engineer II, User Targeting | Toronto | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-braze-8262966?s=gh-canada-jobs-2027) |
 | **D2L** | Software Developer - Winter 2027 Co-op - Custom Development Services | Kitchener, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-d2l-8289767?s=gh-canada-jobs-2027) |
 | **Citi** | eTrading Java Developer, Front Office Trading | Mississauga Ontario Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-citi-2-26959732?s=gh-canada-jobs-2027) |
-| **Lyft** | Software Engineer, GovTech | Toronto | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8894909002?s=gh-canada-jobs-2027) |
+| **Lyft** | Software Engineer, GovTech | Toronto | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8894909002?s=gh-canada-jobs-2027) |
 | **Citi** | AVP,  Software Engineer (Hybrid) | Mississauga Ontario Canada | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-citi-2-26994897?s=gh-canada-jobs-2027) |
 | **Allstate** | Digital Product Manager (Security Platforms) | Canadian Head | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allstate-allstate-careers-R36078?s=gh-canada-jobs-2027) |
 | **Cisco** | Software Developer (hybrid) | Vancouver | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024453?s=gh-canada-jobs-2027) |
@@ -248,7 +248,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CIBC** | Consultant, Risk Analytics | Toronto, ON | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cibc-search-2620767?s=gh-canada-jobs-2027) |
 | **CIBC** | Consultant, Compliance Reporting & Analytics | Toronto, ON | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cibc-search-2620772?s=gh-canada-jobs-2027) |
 | **Capital One** | Intern, Data Scientist - Winter 2027 | Toronto, ON | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R999619?s=gh-canada-jobs-2027) |
-| **Capital One** | Intern, Data Scientist - Summer 2027 | Toronto, ON | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1002165?s=gh-canada-jobs-2027) |
+| **Capital One** | Intern, Data Scientist - Summer 2027 | Toronto, ON | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1002165?s=gh-canada-jobs-2027) |
 | **Nissan** | Sales & Marketing, Data Scientist | Mississauga | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00212855?s=gh-canada-jobs-2027) |
 | **Morgan Stanley** | Data Scientist (NLP Specialist) – Legal and Compliance (Hybrid) | Montreal | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ms-external-PT-JR042092?s=gh-canada-jobs-2027) |
 | **Morgan Stanley** | Procurement & Supplier Analytics Associate (Hybrid) | Montreal | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ms-external-PT-JR042869?s=gh-canada-jobs-2027) |
@@ -499,7 +499,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 9m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
 | **JLL** | Mech and Robotics Tech | Delta, BC | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ542930?s=gh-canada-jobs-2027) |
 | **TD Bank** | Product Owner I | Toronto | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1515581?s=gh-canada-jobs-2027) |
 | **UPS** | Warehouse Associate/SorterPM | CONCORD | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26036646?s=gh-canada-jobs-2027) |
