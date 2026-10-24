@@ -527,8 +527,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
-| **Johnson & Johnson** | Medical Writer III, Oncology | Toronto | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-105619?s=gh-canada-jobs-2027) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
+| **Johnson & Johnson** | Medical Writer III, Oncology | Toronto | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-105619?s=gh-canada-jobs-2027) |
 | **RTX** | Internship Spring 2027 - Mechanical Engineering Technology, CNC, or Precision Machining Student | Ns, CA | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01883260?s=gh-canada-jobs-2027) |
 | **RTX** | Internship Spring 2027 - Mechanical Engineering Technology, CNC, or Precision Machining Student | Ns, CA | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01883216?s=gh-canada-jobs-2027) |
 | **RTX** | Adjoint(e) executif(ve) / Executive assistant | Qc, CA | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01881646?s=gh-canada-jobs-2027) |
