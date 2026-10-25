@@ -101,7 +101,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Honeywell** | Account Manager, Project Sales (BMS, Fire, Security) | Markham, ON | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-honeywell-160527?s=gh-canada-jobs-2027) |
 | **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Vehicle Controls (Summer 2027) | Vancouver, BC | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-rivianvw.tech-a4e49f0a-7e3c-40b1-95a1-28fd907526d0?s=gh-canada-jobs-2027) |
 | **Rivian and Volkswagen Group Technologies** | Software Engineering Intern - Embedded Platforms (Summer 2027) | Vancouver, BC | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-rivianvw.tech-c6ae5fc4-ac16-450c-ac07-3efd6f0411a1?s=gh-canada-jobs-2027) |
-| **Microsoft** | Software Engineer II | Vancouver, BC | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200062597?s=gh-canada-jobs-2027) |
+| **Microsoft** | Software Engineer II | Vancouver, BC | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200062597?s=gh-canada-jobs-2027) |
 | **Microsoft** | Software Engineer II | Vancouver, BC | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200062599?s=gh-canada-jobs-2027) |
 | **Aptiv** | Cloud Software Engineer Intern | CAN Kanata (2), ON | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aptiv-aptiv-careers-J000704375?s=gh-canada-jobs-2027) |
 | **1Password** | .NET Developer, SaaS Manager | Remote | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-1password-005d4b48-d31e-449f-90b7-83313f98a907?s=gh-canada-jobs-2027) |
@@ -322,7 +322,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **WSP** | Drainage Engineer / EIT / Designer | Calgary, AB | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-wsp-89494?s=gh-canada-jobs-2027) |
 | **Stantec** | Geotechnical Engineer-in-Training | Winnipeg, MB | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1008414?s=gh-canada-jobs-2027) |
 | **Honeywell** | Stagiaire en Opérations des ventes, Technologies de l’automatisation du bâtiment | Lachine, QC | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-honeywell-159332?s=gh-canada-jobs-2027) |
-| **Hims & Hers** | Pharmacy Fulfillment Associate | North York, ON | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-hims-and-hers-7aa3c87e-e248-47ca-9fc4-1fdb212f97e4?s=gh-canada-jobs-2027) |
+| **Hims & Hers** | Pharmacy Fulfillment Associate | North York, ON | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-hims-and-hers-7aa3c87e-e248-47ca-9fc4-1fdb212f97e4?s=gh-canada-jobs-2027) |
 | **Biogen** | Medical Affairs, Intern | Toronto | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-biibhr-external-REQ24403?s=gh-canada-jobs-2027) |
 | **Boeing** | Aircraft Avionics Technician (CH147F) | CAN Petawawa Canada +6 more | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026516495?s=gh-canada-jobs-2027) |
 | **Allstate** | Allstate Sales Agent Trainee | Canadian Head | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allstate-allstate-careers-R36025?s=gh-canada-jobs-2027) |
@@ -485,7 +485,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 10m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
 | **Cardinal Health** | Warehouse Associate | Canada-Vaughan-Applewood | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20189537?s=gh-canada-jobs-2027) |
 | **Cardinal Health** | Warehouse Associate | Canada-Vaughan-Applewood | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20189535?s=gh-canada-jobs-2027) |
 | **Cardinal Health** | Student Warehouse Associate | Canada-Vaughan-Applewood | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20189320?s=gh-canada-jobs-2027) |
