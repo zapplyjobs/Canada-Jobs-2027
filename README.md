@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Motorola Solutions** | Jr. Software Engineer - Java, Angular, JavaScript | Gatineau | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69279?s=gh-canada-jobs-2027) |
-| **Motorola Solutions** | Junior Software Engineer, Emergency Call Handling | Gatineau | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R67731?s=gh-canada-jobs-2027) |
-| **Motorola Solutions** | Software Developer II | Vancouver | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R67806?s=gh-canada-jobs-2027) |
+| **Motorola Solutions** | Jr. Software Engineer - Java, Angular, JavaScript | Gatineau | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69279?s=gh-canada-jobs-2027) |
+| **Motorola Solutions** | Junior Software Engineer, Emergency Call Handling | Gatineau | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R67731?s=gh-canada-jobs-2027) |
+| **Motorola Solutions** | Software Developer II | Vancouver | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R67806?s=gh-canada-jobs-2027) |
 | **TD Bank** | Software Engineer II (Salesforce Loyalty Management Developer) | Toronto | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1509038?s=gh-canada-jobs-2027) |
 | **Microsoft** | Software Engineer II | Vancouver, BC | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200062671?s=gh-canada-jobs-2027) |
 | **Altera** | Software Engineer - Intern | Toronto | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03382?s=gh-canada-jobs-2027) |
@@ -500,8 +500,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Baxter International** | Compounding Assistant | Brunswick | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-212349?s=gh-canada-jobs-2027) |
-| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
+| **Baxter International** | Compounding Assistant | Brunswick | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-212349?s=gh-canada-jobs-2027) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
 | **Rockwell Automation** | Co-op, Manufacturing Engineering | Cambridge | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rockwellautomation-external-rockwell-aut-R26-6978?s=gh-canada-jobs-2027) |
 | **Cardinal Health** | Coordonnateur/trice des transports | Canada-Dorval | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20189280?s=gh-canada-jobs-2027) |
 | **Salesforce** | SMB Account Executive – Data Foundation (MuleSoft + Informatica) AE or Informatica Specialist AE... | Canada - Toronto | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR347844?s=gh-canada-jobs-2027) |
@@ -535,7 +535,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Apple** | CNIB -Toronto (Oct. 29th) | Canada | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200654927?s=gh-canada-jobs-2027) |
 | **Sherwin-Williams** | Spécialiste du service à la clientèle multi emplacement | Vaudreuil-Dorion, QC | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-sherwin-williams-2627579?s=gh-canada-jobs-2027) |
 | **Apple** | Apple Ads Platform Specialist | Toronto | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200689516?s=gh-canada-jobs-2027) |
-| **Brex** | Commercial Account Executive | Vancouver, BC | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-brex-8918263002?s=gh-canada-jobs-2027) |
+| **Brex** | Commercial Account Executive | Vancouver, BC | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-brex-8918263002?s=gh-canada-jobs-2027) |
 | **ABB** | Financial Analyst - Marketing & Sales | Saint-Jean-sur-Richelieu | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00048019?s=gh-canada-jobs-2027) |
 | **Lightspeed** | Outbound Account Executive (Hospitality) | Toronto | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-lightspeedhq-1d70612c-d60a-4c1d-a819-dcfd313e5cd3?s=gh-canada-jobs-2027) |
 | **Lightspeed** | Chargé(e) de comptes à l'externe (Restauration) | Montreal | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-lightspeedhq-0ff1121e-1338-4157-96f6-6d9849bcb7e4?s=gh-canada-jobs-2027) |
@@ -543,7 +543,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Block** | Territory Account Executive, Halifax | Halifax, NS | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-block-5463933008?s=gh-canada-jobs-2027) |
 | **StackAdapt** | Talent Acquisition Partner | Canada | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stackadapt-4467663009?s=gh-canada-jobs-2027) |
 | **Sysco** | Sales Consultant | Guest Worldwide - Canada | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R273251?s=gh-canada-jobs-2027) |
-| **AbbVie** | Conseiller juridique (contrat de 12 mois) | Montreal, QC | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016410426?s=gh-canada-jobs-2027) |
+| **AbbVie** | Conseiller juridique (contrat de 12 mois) | Montreal, QC | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016410426?s=gh-canada-jobs-2027) |
 | **Geotab** | Business Development Associate | Burnaby +1 more | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-geotab-5436626008?s=gh-canada-jobs-2027) |
 | **Microsoft** | Data Center Technician | Toronto, ON | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200063086?s=gh-canada-jobs-2027) |
 | **D2L** | Solutions Consultant | Canada | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-d2l-8324770?s=gh-canada-jobs-2027) |
