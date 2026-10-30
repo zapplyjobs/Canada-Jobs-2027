@@ -177,7 +177,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Hitachi** | Ingénieur(e) en conception électrique / Electrical Design Engineer | Varennes | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0138054?s=gh-canada-jobs-2027) |
-| **Ecolab** | Electrical Assembler | Calgary | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ecolab-R00309092?s=gh-canada-jobs-2027) |
+| **Ecolab** | Electrical Assembler | Calgary | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ecolab-R00309092?s=gh-canada-jobs-2027) |
 | **Sopra Steria** | Hardware Engineer – Aerospace | Montréal, QC | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000158600759?s=gh-canada-jobs-2027) |
 | **TD Bank** | Data Scientist I (Quants) – Insurance Model Validation | Toronto | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1515326?s=gh-canada-jobs-2027) |
 | **TD Bank** | Data Scientist I (Quants) – Insurance Model Validation | Toronto | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1515324?s=gh-canada-jobs-2027) |
@@ -524,11 +524,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **MaintainX** | Représentant(e) en développement des ventes (Prospection entrantes) | Montreal | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-maintainx-73ca8b31-3588-4233-94bc-d8838a1a4970?s=gh-canada-jobs-2027) |
 | **MaintainX** | Sales Development Representative (Inbound) | Montreal | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-maintainx-0728b51c-da26-441a-8d93-392c291a6452?s=gh-canada-jobs-2027) |
 | **MaintainX** | Business Development Representative (Outbound) | Montreal | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-maintainx-608cd352-c6d5-4870-a2af-2554fc817d76?s=gh-canada-jobs-2027) |
-| **WSP** | Ingénieur(e), Modélisation passagers | Montréal, QC | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-wsp-97545?s=gh-canada-jobs-2027) |
-| **WSP** | Early Talent Specialist | Montreal, QC | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-wsp-98440?s=gh-canada-jobs-2027) |
-| **Kent Building Supplies** | Class 1 Night Linehaul Truck Driver - $1,500 Sign-On Bonus | Bathurst, NB | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kent-building-supplies-11790?s=gh-canada-jobs-2027) |
-| **UPS** | Full Time Driver - Edmonton South | EDMONTON | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26007328?s=gh-canada-jobs-2027) |
-| **UPS** | Package Handler - Evening | DRUMMONDVILLE | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26028941?s=gh-canada-jobs-2027) |
+| **WSP** | Ingénieur(e), Modélisation passagers | Montréal, QC | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-wsp-97545?s=gh-canada-jobs-2027) |
+| **WSP** | Early Talent Specialist | Montreal, QC | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-wsp-98440?s=gh-canada-jobs-2027) |
+| **Kent Building Supplies** | Class 1 Night Linehaul Truck Driver - $1,500 Sign-On Bonus | Bathurst, NB | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kent-building-supplies-11790?s=gh-canada-jobs-2027) |
+| **UPS** | Full Time Driver - Edmonton South | EDMONTON | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26007328?s=gh-canada-jobs-2027) |
+| **UPS** | Package Handler - Evening | DRUMMONDVILLE | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26028941?s=gh-canada-jobs-2027) |
 | **JLL** | Property Administrator | Toronto, ON | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ545190?s=gh-canada-jobs-2027) |
 | **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
 | **Sierra** | Enterprise Sales Engineer - Majors, Healthcare | Toronto | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-sierra-74451d23-45f5-4fa5-ae7c-121df8efb6b8?s=gh-canada-jobs-2027) |
