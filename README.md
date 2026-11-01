@@ -103,7 +103,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stantec** | Intermediate Power Systems Engineer | Fredericton, NB | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1008555?s=gh-canada-jobs-2027) |
 | **Carfax** | Manager - Software Engineering | London | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/jobvite-carfax-om72AfwP?s=gh-canada-jobs-2027) |
 | **Fortinet** | Presales Security Expert Public Sector | Montreal, QC | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-fortinet-24837?s=gh-canada-jobs-2027) |
-| **StackAdapt** | DevOps Engineer (Services Team) | Canada | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stackadapt-4470989009?s=gh-canada-jobs-2027) |
+| **StackAdapt** | DevOps Engineer (Services Team) | Canada | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stackadapt-4470989009?s=gh-canada-jobs-2027) |
 | **Citi** | Java Developer - Assistant Vice President | Mississauga Ontario Canada | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-citi-2-261002208?s=gh-canada-jobs-2027) |
 | **Zebra** | Computer Vision Software Developer, Professional II- Développeur ou Développeuse de Logiciels en... | Montreal | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103160?s=gh-canada-jobs-2027) |
 | **BMO** | Software Developer - (Automations/ AI /Dev Ops) | Mississauga, ON | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260022970?s=gh-canada-jobs-2027) |
@@ -461,7 +461,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vertiv** | Field Service IV North America and EMEA Only | Calgary, AB | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-vertiv-20282510?s=gh-canada-jobs-2027) |
 | **NTT Data** | Service Desk Analyst - Clinical Applications Support - Remote | Halifax, NS | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ntt-data-392125?s=gh-canada-jobs-2027) |
 | **Smiths Group** | Technician IV Field Service/Support | Mississauga, ON | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SmithsGroup2-744000157903759?s=gh-canada-jobs-2027) |
-| **Braze** | Customer Success Platform Administrator | Toronto | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-braze-8324964?s=gh-canada-jobs-2027) |
+| **Braze** | Customer Success Platform Administrator | Toronto | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-braze-8324964?s=gh-canada-jobs-2027) |
 | **Cohere** | Revenue Operations Intern (Winter, 2027) | Toronto +1 more | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-cohere-f3290fb2-66f1-44c7-9824-3f416f44af5a?s=gh-canada-jobs-2027) |
 | **ABB** | Warehouse support specialist | Bromont | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00048179?s=gh-canada-jobs-2027) |
 | **Johnson Controls** | Associate IT Operations Engineer | Nisku-Alberta-Canada | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30283006?s=gh-canada-jobs-2027) |
@@ -527,11 +527,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **BMO** | DDI Network Engineer | Toronto, ON | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260026568?s=gh-canada-jobs-2027) |
-| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 47m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
-| **UPS** | Automotive Mechanic | LACHINE | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26039855?s=gh-canada-jobs-2027) |
-| **UPS** | Alliston Driver Helper | BARRIE | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26038728?s=gh-canada-jobs-2027) |
-| **UPS** | Seasonal Driver Helper- Tillsonburg and Norwich | BRANTFORD | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26039981?s=gh-canada-jobs-2027) |
+| **BMO** | DDI Network Engineer | Toronto, ON | 31m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260026568?s=gh-canada-jobs-2027) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 55m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
+| **UPS** | Automotive Mechanic | LACHINE | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26039855?s=gh-canada-jobs-2027) |
+| **UPS** | Alliston Driver Helper | BARRIE | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26038728?s=gh-canada-jobs-2027) |
+| **UPS** | Seasonal Driver Helper- Tillsonburg and Norwich | BRANTFORD | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26039981?s=gh-canada-jobs-2027) |
 | **Intel** | Compiler Engineer | Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0286164?s=gh-canada-jobs-2027) |
 | **Johnson Controls** | Mécanicien de Machines fixes de Classe 4B | Quebec-Quebec-Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30283827?s=gh-canada-jobs-2027) |
 | **ABB** | Order Management and Quotation Specialist | Saint-Laurent | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00049465?s=gh-canada-jobs-2027) |
