@@ -521,8 +521,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Salesforce** | Solution Architect | British Columbia | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR367753?s=gh-canada-jobs-2027) |
-| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 55m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
+| **Salesforce** | Solution Architect | British Columbia | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR367753?s=gh-canada-jobs-2027) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
 | **ABB** | Opérateur de Machine / Machine Operator | Pointe-Claire | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00053082?s=gh-canada-jobs-2027) |
 | **Stanley Black & Decker** | Field Marketing Coordinator Intern - St. Catherines | St Catharines | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000053006?s=gh-canada-jobs-2027) |
 | **Stanley Black & Decker** | Field Marketing Coordinator Intern - Windsor | Windsor | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000053001?s=gh-canada-jobs-2027) |
@@ -546,12 +546,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Instacart** | Measurement Science Manager | AB | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-instacart-8368861?s=gh-canada-jobs-2027) |
 | **AbbVie** | Territory Manager, Facial Aesthetics -  Montreal West and Gatineau (12 month contract) | Pointe-Claire, QC | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016743926?s=gh-canada-jobs-2027) |
 | **Microsoft** | Solution Engineer Manager | Toronto, ON | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200065574?s=gh-canada-jobs-2027) |
-| **Charles River Associates** | (2027 Graduates) Senior Associate - Management Advisory (Energy Practice) - Canada | Toronto, ON | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-charlesriverassociates-8366964?s=gh-canada-jobs-2027) |
+| **Charles River Associates** | (2027 Graduates) Senior Associate - Management Advisory (Energy Practice) - Canada | Toronto, ON | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-charlesriverassociates-8366964?s=gh-canada-jobs-2027) |
 | **2K Games** | Game Designer (Live Content) | Lunenburg, NS +1 more | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-2k-8046870003?s=gh-canada-jobs-2027) |
 | **Scopely** | Product Manager | Canada, CA | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-scopely-5477112008?s=gh-canada-jobs-2027) |
 | **TribalScale** | iOS Engineer - Full Time | Toronto, ON | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-tribalscale-4728342006?s=gh-canada-jobs-2027) |
 | **TribalScale** | iOS Engineer - Contract | Toronto, ON | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-tribalscale-4728341006?s=gh-canada-jobs-2027) |
-| **GitLab** | Business Development Representative - West | United States +1 more | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-gitlab-8932248002?s=gh-canada-jobs-2027) |
+| **GitLab** | Business Development Representative - West | United States +1 more | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-gitlab-8932248002?s=gh-canada-jobs-2027) |
 | **GitLab** | Business Development Representative, Financial Services | United States +1 more | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-gitlab-8932246002?s=gh-canada-jobs-2027) |
 | **Veolia Environnement SA** | Administrative Assistant (6:30am-3pm) | Edmonton, AB | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000160667184?s=gh-canada-jobs-2027) |
 | **Wealthsimple** | Mortgage Broker (Independent Contractor) | Remote | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-wealthsimple-0e6d37e8-f942-44bc-b968-34c5f983411f?s=gh-canada-jobs-2027) |
