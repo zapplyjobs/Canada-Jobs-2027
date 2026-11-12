@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **BlackBerry** | QNX DevOps Developer | Ottawa | 55m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bb-blackberry-20260332?s=gh-canada-jobs-2027) |
+| **BlackBerry** | QNX DevOps Developer | Ottawa | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bb-blackberry-20260332?s=gh-canada-jobs-2027) |
 | **General Motors** | Software Developer- Simulation Tooling | Markham | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202620338?s=gh-canada-jobs-2027) |
 | **PointClickCare** | Software Engineer | Mississauga | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-pointclickcare-4df74b15-3479-4a75-a4c4-5640ccde7346?s=gh-canada-jobs-2027) |
 | **Zip** | Software Engineer, Backend (All Levels) | Toronto | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-zip-4f2ba8b4-144e-43c8-a83d-72ea40f70123?s=gh-canada-jobs-2027) |
@@ -298,10 +298,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **SS&C Technologies** | AML Associate Manager | Mississauga | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ssctech-ssctechnologies-R46492?s=gh-canada-jobs-2027) |
-| **Thermo Fisher Scientific** | Compliance Specialist II - Regulatory Affairs | Ottawa | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01374899?s=gh-canada-jobs-2027) |
-| **Allstate** | Allstate Sales Agent Trainee | Canadian Head | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allstate-allstate-careers-R36921?s=gh-canada-jobs-2027) |
-| **Allstate** | Allstate Sales Agent Trainee | Canadian Head | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allstate-allstate-careers-R36518?s=gh-canada-jobs-2027) |
+| **SS&C Technologies** | AML Associate Manager | Mississauga | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ssctech-ssctechnologies-R46492?s=gh-canada-jobs-2027) |
+| **Thermo Fisher Scientific** | Compliance Specialist II - Regulatory Affairs | Ottawa | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01374899?s=gh-canada-jobs-2027) |
+| **Allstate** | Allstate Sales Agent Trainee | Canadian Head | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allstate-allstate-careers-R36921?s=gh-canada-jobs-2027) |
+| **Allstate** | Allstate Sales Agent Trainee | Canadian Head | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allstate-allstate-careers-R36518?s=gh-canada-jobs-2027) |
 | **General Motors** | Controls Engineer - Multiple Openings (Body, Paint, GA etc.)-11 | Oshawa | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202623974?s=gh-canada-jobs-2027) |
 | **Baxter International** | Maintenance Electrician - Continental Night shift (18:30-6:30) | Alliston | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-204740?s=gh-canada-jobs-2027) |
 | **Lyft** | Gestionnaire en ingénierie, Qualité et expérience développeur - LUS | Montreal | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8917801002?s=gh-canada-jobs-2027) |
@@ -520,19 +520,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Manulife** | Bilingual Inforce Policy Specialist | Montreal | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26091724?s=gh-canada-jobs-2027) |
-| **Manulife** | Default Management Supervisor | Waterloo Ontario +3 more | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26090286?s=gh-canada-jobs-2027) |
-| **CIBC** | Associate Financial Advisor | Timmins, ON | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cibc-search-2620548?s=gh-canada-jobs-2027) |
-| **CIBC** | Analyst, Client Experience | Toronto, ON | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cibc-search-2623229?s=gh-canada-jobs-2027) |
-| **CIBC** | Business Assistant, Client Experience | Toronto, ON | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cibc-search-2623228?s=gh-canada-jobs-2027) |
-| **Carrier Global** | PX360 Business Process Solution Architect | LOC13090: Offsite Remote... | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30221018?s=gh-canada-jobs-2027) |
-| **Stryker** | Associate Sales Representative - Extremities - Ottawa (12 Month Contract) | Ottawa | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R577751?s=gh-canada-jobs-2027) |
-| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 27m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
-| **Air Liquide** | Zone Project Engineer | Hamilton, ON | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10104771?s=gh-canada-jobs-2027) |
-| **Pfizer** | Chef – Perspectives stratégiques intégrées / Manager, Integrated Insights & Strategy | Kirkland, QC | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4967852?s=gh-canada-jobs-2027) |
-| **Thermo Fisher Scientific** | Logistic Specialist I | Milton | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01374265?s=gh-canada-jobs-2027) |
-| **Johnson Controls** | Plumber Apprentice 3rd - 4th (Rotating Day Shift) | Nisku-Alberta-Canada | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30283159?s=gh-canada-jobs-2027) |
-| **Menasha Corporation** | Production Control Clerk | Brampton | 55m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-menasha-menashacorp-R16771?s=gh-canada-jobs-2027) |
+| **Manulife** | Bilingual Inforce Policy Specialist | Montreal | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26091724?s=gh-canada-jobs-2027) |
+| **Manulife** | Default Management Supervisor | Waterloo Ontario +3 more | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26090286?s=gh-canada-jobs-2027) |
+| **CIBC** | Associate Financial Advisor | Timmins, ON | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cibc-search-2620548?s=gh-canada-jobs-2027) |
+| **CIBC** | Analyst, Client Experience | Toronto, ON | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cibc-search-2623229?s=gh-canada-jobs-2027) |
+| **CIBC** | Business Assistant, Client Experience | Toronto, ON | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cibc-search-2623228?s=gh-canada-jobs-2027) |
+| **Carrier Global** | PX360 Business Process Solution Architect | LOC13090: Offsite Remote... | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30221018?s=gh-canada-jobs-2027) |
+| **Stryker** | Associate Sales Representative - Extremities - Ottawa (12 Month Contract) | Ottawa | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R577751?s=gh-canada-jobs-2027) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
+| **Air Liquide** | Zone Project Engineer | Hamilton, ON | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10104771?s=gh-canada-jobs-2027) |
+| **Pfizer** | Chef – Perspectives stratégiques intégrées / Manager, Integrated Insights & Strategy | Kirkland, QC | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4967852?s=gh-canada-jobs-2027) |
+| **Thermo Fisher Scientific** | Logistic Specialist I | Milton | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01374265?s=gh-canada-jobs-2027) |
+| **Johnson Controls** | Plumber Apprentice 3rd - 4th (Rotating Day Shift) | Nisku-Alberta-Canada | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30283159?s=gh-canada-jobs-2027) |
+| **Menasha Corporation** | Production Control Clerk | Brampton | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-menasha-menashacorp-R16771?s=gh-canada-jobs-2027) |
 | **General Motors** | HIL Simulation Integration Engineer | Markham Ontario Canada +1 more | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202623877?s=gh-canada-jobs-2027) |
 | **State Street** | Investor Services - Client Services, Senior Associate | Toronto | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-801038?s=gh-canada-jobs-2027) |
 | **Cigna** | Registered Pharmacy Technician - Express Scripts Canada | Mississauga, ON | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26013891?s=gh-canada-jobs-2027) |
@@ -552,10 +552,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stripe** | Risk Partnerships Manager, Networks and Acquiring | United States +4 more | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stripe-8326098?s=gh-canada-jobs-2027) |
 | **AbbVie** | Chef, Établissement stratégique des prix | Montreal, QC | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016806376?s=gh-canada-jobs-2027) |
 | **AbbVie** | Strategic Pricing Manager | Montreal, QC | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016806186?s=gh-canada-jobs-2027) |
-| **Abbott** | Diabetes Sales Specialist - Diabetes Care Division (Manitoba) | MB | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31167343?s=gh-canada-jobs-2027) |
+| **Abbott** | Diabetes Sales Specialist - Diabetes Care Division (Manitoba) | MB | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31167343?s=gh-canada-jobs-2027) |
 | **CVS Health** | Pharmacy Intern | Little Canada, MN | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0995717?s=gh-canada-jobs-2027) |
 | **Blue J** | Sales Development Manager | Toronto | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/gem-blue-j-am9icG9zdDrIGi2hZh5MMrvOoz-pnC2Y?s=gh-canada-jobs-2027) |
-| **Toast** | Flex Territory Account Executive- Canada West Coast | Vancouver, BC | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-toast-8281153?s=gh-canada-jobs-2027) |
+| **Toast** | Flex Territory Account Executive- Canada West Coast | Vancouver, BC | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-toast-8281153?s=gh-canada-jobs-2027) |
 | **PointClickCare** | Scaled Customer Engagement Manager (9-month contract) | Remote | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-pointclickcare-6982f604-e37b-4455-a843-6c60d1d2078f?s=gh-canada-jobs-2027) |
 | **Flipp** | Client Experience & Enablement Specialist | Canada | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-flipp-8279336?s=gh-canada-jobs-2027) |
 | **Eaton** | Intern, Material Planner (12-month) - Milton, ON | Milton | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-eaton-687239373384?s=gh-canada-jobs-2027) |
