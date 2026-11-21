@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Microsoft** | Ingénieur(e) électrique de centres de données /Data Center Electrical Engineer | Quebec City, QC | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200067179?s=gh-canada-jobs-2027) |
+| **Microsoft** | Ingénieur(e) électrique de centres de données /Data Center Electrical Engineer | Quebec City, QC | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200067179?s=gh-canada-jobs-2027) |
 | **NVIDIA** | ASIC Verification Intern - Summer 2027 | Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027982?s=gh-canada-jobs-2027) |
 | **Stantec** | Electrical EIT- Water | Edmonton, AB | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1008584?s=gh-canada-jobs-2027) |
 | **WSP** | Electrical Technician - North of QC | Rouyn-Noranda, QC | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-wsp-88539?s=gh-canada-jobs-2027) |
@@ -509,12 +509,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
 | **Baxter International** | Chemist - Midnight shift (Sunday to Thursday 23:00-7:30) | Alliston | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-210830?s=gh-canada-jobs-2027) |
 | **Baxter International** | Quality Engineer I, QA Systems | Alliston | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-212007?s=gh-canada-jobs-2027) |
 | **Baxter International** | Human Resources Generalist | Mississauga | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-212093?s=gh-canada-jobs-2027) |
 | **Broadridge** | Vote Audit Analyst (Contract) (Hybrid) | Markham, ON | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-broadridge-careers-JR1087758?s=gh-canada-jobs-2027) |
-| **Altera** | IP Design Engineer – IP Design and Flows | Toronto | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03436?s=gh-canada-jobs-2027) |
+| **Altera** | IP Design Engineer – IP Design and Flows | Toronto | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03436?s=gh-canada-jobs-2027) |
 | **Manulife** | SEO Analyst | Toronto | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26101313?s=gh-canada-jobs-2027) |
 | **Manulife** | Customer Service Professional | Halifax | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26091882?s=gh-canada-jobs-2027) |
 | **Manulife** | Service Relationship Specialist | CAN | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26110466?s=gh-canada-jobs-2027) |
@@ -546,12 +546,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Magna** | Manufacturing Engineer | Mississauga, CA | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-magna-magna-R00270915?s=gh-canada-jobs-2027) |
 | **BMO** | Scorecard Reporting Analyst | Toronto, ON | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260031276?s=gh-canada-jobs-2027) |
 | **BMO** | Personal Banker | Calgary, AB | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260031793?s=gh-canada-jobs-2027) |
-| **Intel** | Compiler Engineering Intern | Canada | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0287934?s=gh-canada-jobs-2027) |
+| **Intel** | Compiler Engineering Intern | Canada | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0287934?s=gh-canada-jobs-2027) |
 | **Danaher** | SA25 Product Manager | Burnaby | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1319586?s=gh-canada-jobs-2027) |
 | **TD Bank** | Business Systems Analyst III | Toronto | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1513928?s=gh-canada-jobs-2027) |
-| **Stryker** | Endo On-Site Specialist | Toronto | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R577441?s=gh-canada-jobs-2027) |
-| **Stryker** | Sales Representative - Acute Care - Vancouver | Vancouver | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R577142?s=gh-canada-jobs-2027) |
-| **Stryker** | Sales Representative - Acute Care - Winnipeg (Contract) | Winnipeg | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R577201?s=gh-canada-jobs-2027) |
+| **Stryker** | Endo On-Site Specialist | Toronto | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R577441?s=gh-canada-jobs-2027) |
+| **Stryker** | Sales Representative - Acute Care - Vancouver | Vancouver | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R577142?s=gh-canada-jobs-2027) |
+| **Stryker** | Sales Representative - Acute Care - Winnipeg (Contract) | Winnipeg | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R577201?s=gh-canada-jobs-2027) |
 | **Morgan Stanley** | Advance Solutions Project Specialist, AVP | Calgary Canada +2 more | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ms-external-PT-JR046426?s=gh-canada-jobs-2027) |
 | **Air Liquide** | Clinical Respiratory Consultant | Victoria, BC | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10101480?s=gh-canada-jobs-2027) |
 | **Teledyne** | Sales Order Administrator | Canada - Surrey, BC | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ33698?s=gh-canada-jobs-2027) |
