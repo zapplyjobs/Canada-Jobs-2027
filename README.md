@@ -16,8 +16,8 @@
 <p align="center">🚀 Entry-level, new-grad, and early-career jobs across Canada, sourced live and updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Canada%20Jobs-3674-3FB950?style=flat&logo=briefcase" height="30" alt="Canada Jobs">
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-390-2F81F7?style=flat&logo=briefcase" height="30" alt="AI / ML">
+  <img src="https://img.shields.io/badge/Canada%20Jobs-3675-3FB950?style=flat&logo=briefcase" height="30" alt="Canada Jobs">
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-391-2F81F7?style=flat&logo=briefcase" height="30" alt="AI / ML">
   <img src="https://img.shields.io/badge/Companies-282-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
@@ -68,7 +68,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **BMO** | Developer - Data, AI, Platform & Support | Toronto, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260031252?s=gh-canada-jobs-2027) |
 | **BMO** | Quality Engineer /SRE | Toronto, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260032197?s=gh-canada-jobs-2027) |
 | **BMO** | AI Software Engineer | Toronto, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260032207?s=gh-canada-jobs-2027) |
-| **BlackBerry** | BlackBerry Radar- Software Developer in Test | Ottawa | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bb-blackberry-20260339?s=gh-canada-jobs-2027) |
 | **TD Bank** | Information Security Specialist (Vulnerability Management Data Insights & Reporting  ) | Toronto | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1514694?s=gh-canada-jobs-2027) |
 | **CIBC** | Consultant, Information Security | Toronto, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cibc-search-2623402?s=gh-canada-jobs-2027) |
 | **Danaher** | Software Automation Test Developer -I | Concord | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1323241?s=gh-canada-jobs-2027) |
@@ -80,12 +79,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Capco** | Développeur logiciel backend | Canada - Montreal | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-capco-8407365?s=gh-canada-jobs-2027) |
 | **Capco** | Software Engineer, Implementation & Support | Canada - Toronto | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-capco-8384329?s=gh-canada-jobs-2027) |
 | **MongoDB** | Software Engineer 3 | Ontario, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-mongodb-8406857?s=gh-canada-jobs-2027) |
+| **BlackBerry** | BlackBerry Radar- Software Developer in Test | Ottawa | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bb-blackberry-20260339?s=gh-canada-jobs-2027) |
 | **Teledyne** | Systems Engineer (II) | Canada - Waterloo, ON | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ37594?s=gh-canada-jobs-2027) |
 | **Cisco** | ASIC Product Design Developer | Vancouver | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2031275?s=gh-canada-jobs-2027) |
 | **Cisco** | ASIC DFT Developer | Vancouver | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2028202?s=gh-canada-jobs-2027) |
 | **Lumentum** | Process Automation Software Engineer - MEMS | Canada - Ottawa | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lumentum-lite-20261527?s=gh-canada-jobs-2027) |
 | **Analog Devices** | Engineer, Embedded Software | Canada | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R268243?s=gh-canada-jobs-2027) |
-| **Altera** | FPGA Software Engineer Intern | Toronto | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03445?s=gh-canada-jobs-2027) |
 | **TD Bank** | Engineer II - IAM SailPoint Developer Engineer | Toronto | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1518458?s=gh-canada-jobs-2027) |
 | **TD Bank** | Software Engineer II | Toronto | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1523310?s=gh-canada-jobs-2027) |
 | **Motorola Solutions** | Software Developer in Test II (Backend) | Vancouver | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68441?s=gh-canada-jobs-2027) |
@@ -99,6 +98,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sopra Steria** | Embedded Software Engineer - DO 178 | Montréal, QC | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000162578348?s=gh-canada-jobs-2027) |
 | **Sopra Steria** | Systems Engineer – Defense C2 Integration & Deployment | Montréal, QC | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000162575631?s=gh-canada-jobs-2027) |
 | **Eaton** | Développeur(euse) en assurance qualité logicielle - Software Quality Assurance Developer | Brossard | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-eaton-687239200434?s=gh-canada-jobs-2027) |
+| **Altera** | FPGA Software Engineer Intern | Toronto | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03445?s=gh-canada-jobs-2027) |
 | **NVIDIA** | Developer Relations Manager, Higher Education and Research - Foundational AI | Canada | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023172?s=gh-canada-jobs-2027) |
 | **Synechron** | Java Developer | Calgary, AB | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synechron-synechroncareers-JR1045642?s=gh-canada-jobs-2027) |
 | **ResMed** | Software Engineer | Halifax | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-resmed-resmed-external-careers-JR_055285?s=gh-canada-jobs-2027) |
@@ -115,7 +115,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sopra Steria** | CSIRT L3 Relay – Cybersecurity Operational Coordinator | Toronto, ON | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000162170219?s=gh-canada-jobs-2027) |
 | **Manulife** | Software Engineer, Banking Technology | Toronto | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26110161?s=gh-canada-jobs-2027) |
 | **CIBC** | Consultant, Full Stack Developer | Toronto, ON | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cibc-search-2616928?s=gh-canada-jobs-2027) |
-| **Salesforce** | Software Engineering MTS | Canada - Toronto | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR367059?s=gh-canada-jobs-2027) |
 | **Arondite** | Deployed Software Engineer (experienced) - Canada | Ottawa | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workable-arondite-877358810E?s=gh-canada-jobs-2027) |
 | **Fortinet** | Embedded Software Developer | Burnaby, BC | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-fortinet-24986?s=gh-canada-jobs-2027) |
 | **Fortinet** | Embedded Software Developer | Burnaby, BC | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-fortinet-24987?s=gh-canada-jobs-2027) |
@@ -124,19 +123,20 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Motorola Solutions** | Software Engineer Co-op | Gatineau | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R70361?s=gh-canada-jobs-2027) |
 | **StackAdapt** | Software Engineer, Identity | Canada | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stackadapt-4509035009?s=gh-canada-jobs-2027) |
 | **General Motors** | 2027 Winter Co-op Data Engineering Software Developer | Oshawa | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202624328?s=gh-canada-jobs-2027) |
+| **Salesforce** | Software Engineering MTS | Canada - Toronto | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR367059?s=gh-canada-jobs-2027) |
 | **Fortinet** | Presales Security Expert Mid-Market | Montreal, QC | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-fortinet-24963?s=gh-canada-jobs-2027) |
 | **Manulife** | Full Stack Software Engineer | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26101403?s=gh-canada-jobs-2027) |
 | **Sysco** | Software Engineer | Sysco Canada Inc. | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R275003?s=gh-canada-jobs-2027) |
 | **Tailscale** | Developer Relations Engineer | Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-tailscale-4754059005?s=gh-canada-jobs-2027) |
 | **Teledyne** | Windows Kernel Driver Developer - Image Acquisition Software | Canada Ottawa ON TDY +1 more | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ36185?s=gh-canada-jobs-2027) |
-| **Canadian Tire** | Business Systems Engineer, AI | Toronto, ON | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-canadiantirecorporation-enterprise-exter-JR160709?s=gh-canada-jobs-2027) |
 | **Johnson Controls** | Technicien en sécurité / Field Security Technician CCTV & EAS | Quebec-Quebec-Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30278616?s=gh-canada-jobs-2027) |
-| **Salesforce** | Platform and Security Growth Business Account Executive | Canada - Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR362693?s=gh-canada-jobs-2027) |
 | **Cardinal Health** | JDE Systems Engineer | WFH, BC | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20189990?s=gh-canada-jobs-2027) |
 | **1Password** | Security Engineer, Corporate Security | Remote | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-1password-13200311-77c5-49ed-a3ce-8460d5c72d91?s=gh-canada-jobs-2027) |
 | **Eaton** | Intern, Power Systems Engineering (4-12 month) - Milton, ON | Milton | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-eaton-687239930904?s=gh-canada-jobs-2027) |
 | **Eaton** | Intern, Power Systems Engineering (4-12 month) - Kitchener, ON | Kitchener | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-eaton-687239932836?s=gh-canada-jobs-2027) |
 | **Instacart** | Security Incident Manager | AB | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-instacart-8383333?s=gh-canada-jobs-2027) |
+| **Salesforce** | Platform and Security Growth Business Account Executive | Canada - Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR362693?s=gh-canada-jobs-2027) |
+| **Canadian Tire** | Business Systems Engineer, AI | Toronto, ON | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-canadiantirecorporation-enterprise-exter-JR160709?s=gh-canada-jobs-2027) |
 | **General Motors** | Software Developer- Simulation Tooling | Markham | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202620338?s=gh-canada-jobs-2027) |
 | **Stantec** | Physical Security Engineer | Longueuil, QC | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1005043?s=gh-canada-jobs-2027) |
 | **Kent Building Supplies** | Supply Chain Security Advisor | Dartmouth, NS | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kent-building-supplies-12970?s=gh-canada-jobs-2027) |
@@ -156,10 +156,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Hitachi** | DevOps Analyst Intern | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0145523?s=gh-canada-jobs-2027) |
 | **HP Inc** | Android & Linux Software Engineer | Vancouver | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3170617?s=gh-canada-jobs-2027) |
 | **HP Inc** | Security Engineer - Android & Linux | Vancouver | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3170618?s=gh-canada-jobs-2027) |
-| **Altera** | Software Engineer -  Intern | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03414?s=gh-canada-jobs-2027) |
 | **RTX** | Systems Engineering Analyst | On, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01888512?s=gh-canada-jobs-2027) |
 | **Microchip Technology** | Software Engineer | Canada - Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-microchiphr-external-R4603-26?s=gh-canada-jobs-2027) |
 | **Johnson Controls** | Technicien en sécurité / Field Security Technician CCTV & EAS | Montréal-Québec-Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30284688?s=gh-canada-jobs-2027) |
+| **Altera** | Software Engineer -  Intern | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03414?s=gh-canada-jobs-2027) |
 | **NTT Data** | Oracle EBS Technical - Developer | Calgary, AB | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ntt-data-397528?s=gh-canada-jobs-2027) |
 | **Cohere** | Software Engineer, ML Workload Platform | Remote | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-cohere-8f60b8e2-55b9-4258-a4cc-813273161f97?s=gh-canada-jobs-2027) |
 | **DRW** | Software Developer | Montreal | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-drweng-8357329?s=gh-canada-jobs-2027) |
@@ -201,10 +201,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TD Bank** | Manager, Advanced Analytic, Insurance Model Validations  (Quants) | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1515315?s=gh-canada-jobs-2027) |
 | **TD Bank** | Data Scientist I (Quants) – Insurance Model Validation | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1515326?s=gh-canada-jobs-2027) |
 | **Ecolab** | Electrical Engineering Co-Op | Calgary | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ecolab-R00310179?s=gh-canada-jobs-2027) |
-| **Altera** | FPGA Development Tools Engineer | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03413?s=gh-canada-jobs-2027) |
-| **Altera** | FPGA Design Verification Intern | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03440?s=gh-canada-jobs-2027) |
 | **Ecolab** | Electrical Assembler | Calgary | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ecolab-R00309092?s=gh-canada-jobs-2027) |
 | **Hitachi** | Ingénieur de projet–génie électrique / Project Engineer–Electrical | Saint-Laurent | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0113196?s=gh-canada-jobs-2027) |
+| **Altera** | FPGA Development Tools Engineer | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03413?s=gh-canada-jobs-2027) |
+| **Altera** | FPGA Design Verification Intern | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03440?s=gh-canada-jobs-2027) |
 | **onsemi** | Test Engineer | Burlington, ON | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-onsemi-2507074?s=gh-canada-jobs-2027) |
 | **Intel** | Graphics Hardware Validation Undergraduate Engineering Intern | Canada | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0287535?s=gh-canada-jobs-2027) |
 | **Qualcomm** | FY27 Intern - Software Validation Engineering Internship - Canada (16 months) | Markham | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/qualcomm-3099139?s=gh-canada-jobs-2027) |
@@ -297,6 +297,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TD Bank** | Personal Banking Associate Trainee (Full time)- Chicoutimi | Chicoutimi | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1522973?s=gh-canada-jobs-2027) |
 | **TD Bank** | Personal Banking Associate Trainee - Pierrefonds, St-Jean | Pierrefonds | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1522304?s=gh-canada-jobs-2027) |
 | **CIBC** | Financial Advisor - Saint-Léonard, Qc | Saint Leonard, QC | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cibc-search-2602330?s=gh-canada-jobs-2027) |
+| **UPS** | Air Admin Assistant | RICHMOND | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26038512?s=gh-canada-jobs-2027) |
 | **UPS** | Full Time Courier Driver - Kamloops BC | KAMLOOPS | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26007311?s=gh-canada-jobs-2027) |
 | **NTT Data** | Représentant(e) bilingue, service à la clientèle - Télétravail | Quebec City, QC | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ntt-data-387763?s=gh-canada-jobs-2027) |
 | **NTT Data** | Oracle Fusion & EBS Supply Chain Solution Architect  - Remote | Toronto, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ntt-data-393297?s=gh-canada-jobs-2027) |
@@ -349,7 +350,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Johnson Controls** | Silent-Aire Assembler Hiring Event - November 2026 | Nisku-Alberta-Canada | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30285447?s=gh-canada-jobs-2027) |
 | **General Motors** | Controls Engineer - Multiple Openings (Body, Paint, GA etc.) | Oshawa | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202623974?s=gh-canada-jobs-2027) |
 | **Veolia Environnement SA** | Stagiaire en gestion et coordination de flotte / Fleet Management Intern | Montréal, QC | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000162190809?s=gh-canada-jobs-2027) |
-| **UPS** | Seasonal Delivery Helper - Kamloops Areas | KAMLOOPS | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26040441?s=gh-canada-jobs-2027) |
 | **WSP** | Stagiaire, Génie géotechnique | Montreal, QC | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-wsp-99648?s=gh-canada-jobs-2027) |
 | **Stantec** | Roadways Engineer-in-Training | Kelowna, BC | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1008965?s=gh-canada-jobs-2027) |
 | **Lyft** | ML Engineer, Marketplace | Toronto | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8944659002?s=gh-canada-jobs-2027) |
@@ -381,11 +381,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Eaton** | Stagiaire, Ingénierie / Fabrication - Engineering / Manufacturing Intern | Lachine | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-eaton-687240169386?s=gh-canada-jobs-2027) |
 | **Philips** | Sales, Territory Manager/ Gestionnaire de territoire, ventes – Soins buccodentaires (Rive-Sud de... | Montreal | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-594064?s=gh-canada-jobs-2027) |
 | **Allstate** | Allstate Sales Agent Trainee | Canadian Head | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allstate-allstate-careers-R36960?s=gh-canada-jobs-2027) |
-| **Workday Inc** | AI Engineer - Evisort Agentic Dev | BC | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-workday-workday-JR-0108859?s=gh-canada-jobs-2027) |
 | **RTX** | Gestionnaire de projet (risques) / Project Manager (Risks) | Qc, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01866028?s=gh-canada-jobs-2027) |
 | **RTX** | Santé/Sécurité et Hygiène Industriel Gestionnaire   Health & Safety Industrial Hygiene Manager | Qc, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01867982?s=gh-canada-jobs-2027) |
 | **Motorola Solutions** | Training Portfolio Owner | British Columbia | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69785?s=gh-canada-jobs-2027) |
 | **Honeywell** | Technicien(ne) de service sur le terrain, Automatisation Industrielle | Quebec, QC | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-honeywell-161884?s=gh-canada-jobs-2027) |
+| **Sherwin-Williams** | Paint Manufacturing Production Operator | Fort Erie, ON | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-sherwin-williams-2629105?s=gh-canada-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -397,7 +397,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Baxter International** | Field Service Technician, VIC (12 months Casual) | Brunswick | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-212203?s=gh-canada-jobs-2027) |
+| **Baxter International** | Field Service Technician, VIC (12 months Casual) | Brunswick | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-212203?s=gh-canada-jobs-2027) |
 | **Expedia Group** | IT Technical Support Tech | Montreal, QC | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-expedia-private-R-111217?s=gh-canada-jobs-2027) |
 | **UPS** | Seasonal Support Driver | REGINA | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26038569?s=gh-canada-jobs-2027) |
 | **Caterpillar** | Field Service Representative | Rowville | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000372752?s=gh-canada-jobs-2027) |
@@ -405,7 +405,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TD Bank** | Finance Operations Analyst II | Dieppe | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1522594?s=gh-canada-jobs-2027) |
 | **TD Bank** | Business Operations Support Representative III | Vancouver | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1516178?s=gh-canada-jobs-2027) |
 | **Baxter International** | Field Service Representative | Edmonton | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-208932?s=gh-canada-jobs-2027) |
-| **Visa** | Analyst, Strategy & Operations | Toronto, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF090724W?s=gh-canada-jobs-2027) |
 | **ABB** | Discovery Program - Operations | Saint-Laurent | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00045383?s=gh-canada-jobs-2027) |
 | **JLL** | Conseillèr(e) aux opérations environnementales  / Environmental Operations Advisor | Bromont, QC | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ518044?s=gh-canada-jobs-2027) |
 | **UPS** | Seasonal Support Driver | SHERBROOKE | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26037137?s=gh-canada-jobs-2027) |
@@ -415,6 +414,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **GitLab** | Professional Services, Program Manager | Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-gitlab-8957093002?s=gh-canada-jobs-2027) |
 | **Eaton** | Intern, Field Service Representative (8 Months) - Kitchener, Ontario | Kitchener | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-eaton-687240227064?s=gh-canada-jobs-2027) |
 | **Tenstorrent** | Technical Program Manager, Silicon Enablement and System Software | Toronto, ON +1 more | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-tenstorrent-5302697007?s=gh-canada-jobs-2027) |
+| **Visa** | Analyst, Strategy & Operations | Toronto, CA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF090724W?s=gh-canada-jobs-2027) |
 | **Veolia Environnement SA** | Process Engineering Operations Co-op | Oakville, ON | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000162595159?s=gh-canada-jobs-2027) |
 | **Wealthsimple** | Team Lead, Client Experience Operations (Banking) | Remote | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-wealthsimple-d9a24b57-1d84-4087-8c47-0716482296fe?s=gh-canada-jobs-2027) |
 | **BMO** | Operations Administrator, Private Wealth | Toronto, ON | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260031632?s=gh-canada-jobs-2027) |
@@ -431,7 +431,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Philips** | Field Service Employee - Imaging Systems (Field: Halifax, NS) | Halifax | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-594994?s=gh-canada-jobs-2027) |
 | **General Motors** | CCA Financial Analyst, Financial Planning and Analysis (FP&A) and Oshawa Operations | Oshawa | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202618485?s=gh-canada-jobs-2027) |
 | **Motorola Solutions** | Technical Support Elite Specialist | British Columbia Remote Work | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R70352?s=gh-canada-jobs-2027) |
-| **Salesforce** | GTM Strategy and Operations Associate Analyst | Canada - Toronto | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR368699?s=gh-canada-jobs-2027) |
 | **Veolia Environnement SA** | Process Engineering Operations Intern | Oakville, ON | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000162190640?s=gh-canada-jobs-2027) |
 | **Vertiv** | Field Service Representative - Thermal | Mississauga, ON | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-vertiv-20287929?s=gh-canada-jobs-2027) |
 | **Kabam** | People Operations and Payroll Co-Op | Vancouver | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-kabam-83e8f972-f58a-4b88-bc9e-7a818b4f9a5b?s=gh-canada-jobs-2027) |
@@ -440,7 +439,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Microsoft** | Critical Environment Field Service Engineer - Data Centers | Toronto, ON | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200059174?s=gh-canada-jobs-2027) |
 | **Lyft** | Regulatory Operations Program Manager | Toronto | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8935229002?s=gh-canada-jobs-2027) |
 | **Eaton** | Field Service Technician, UPS | Toronto | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-eaton-687240252852?s=gh-canada-jobs-2027) |
-| **BlackBerry** | Support Operations Specialist | Ottawa | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bb-blackberry-20260336?s=gh-canada-jobs-2027) |
+| **Salesforce** | GTM Strategy and Operations Associate Analyst | Canada - Toronto | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR368699?s=gh-canada-jobs-2027) |
 | **BMO** | Branch Operations Administrator/Receptionist | Victoria, BC | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bmo-external-R260030654?s=gh-canada-jobs-2027) |
 | **Manulife** | Summer Intern/Co-op 2027 – Canadian Operations Management (8 Months) | Toronto | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26100178?s=gh-canada-jobs-2027) |
 | **RTX** | Financial Analyst – Manufacturing Operations | Ns, CA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01888697?s=gh-canada-jobs-2027) |
@@ -449,26 +448,27 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Veolia Environnement SA** | Field Service Representative-Resident - Water Technologies | Fort McMurray, AB | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000161908499?s=gh-canada-jobs-2027) |
 | **Stripe** | Integration Reliability Engineer, Technical Operations | Toronto | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stripe-8360332?s=gh-canada-jobs-2027) |
 | **Microsoft** | Technical Program Manager  - Success Services Delivery | Ottawa, ON | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200064774?s=gh-canada-jobs-2027) |
+| **BlackBerry** | Support Operations Specialist | Ottawa | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bb-blackberry-20260336?s=gh-canada-jobs-2027) |
 | **Curtiss-Wright** | Program Manager, Deputy | Canada-Stratford | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-curtisswright-cw-external-career-site-JR12789?s=gh-canada-jobs-2027) |
 | **Nissan** | Bilingual Analyst Wholesale, Operations | Mississauga | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00216446?s=gh-canada-jobs-2027) |
-| **Canadian Tire** | Operations Integration Student, Pro Hockey Life (4 Months) - Winter 2027 | Toronto, ON | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-canadiantirecorporation-enterprise-exter-JR165526?s=gh-canada-jobs-2027) |
 | **Manulife** | Summer Intern 2027 - Global WAM Marketing Strategy Operations | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-manulife-mfcjh-jobs-JR26080927?s=gh-canada-jobs-2027) |
 | **NTT Data** | Application Support Analyst - Finance (Hyperion) | Halifax, NS | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ntt-data-397396?s=gh-canada-jobs-2027) |
 | **Wealthsimple** | Specialist, People Operations (12 month contract) | Remote | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-wealthsimple-3de8c796-7525-4f4e-992b-b1b703b71c1a?s=gh-canada-jobs-2027) |
 | **Agility PR Solutions** | Business Operations Analyst | Ottawa | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/rippling-agilitypr-2a38ed0b-ef92-4a13-bd82-087be52768ba?s=gh-canada-jobs-2027) |
 | **Eaton** | Field Service Representative (Technologist / Technician) | Dartmouth | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-eaton-687240228654?s=gh-canada-jobs-2027) |
+| **Canadian Tire** | Operations Integration Student, Pro Hockey Life (4 Months) - Winter 2027 | Toronto, ON | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-canadiantirecorporation-enterprise-exter-JR165526?s=gh-canada-jobs-2027) |
 | **Curtiss-Wright** | Team Lead, Warehouse Operations | Canada-Ottawa | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-curtisswright-cw-external-career-site-JR14279?s=gh-canada-jobs-2027) |
-| **Canadian Tire** | Sales Support Administrator, Quarry Park | Calgary, AB | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-canadiantirecorporation-enterprise-exter-JR168045?s=gh-canada-jobs-2027) |
 | **State Street** | Investor Services - Operations Client Service, Assistant Vice President | Toronto | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-801072?s=gh-canada-jobs-2027) |
 | **Kent Building Supplies** | Operations Support | Saint John, NB | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kent-building-supplies-13328?s=gh-canada-jobs-2027) |
 | **Citi** | FX Client Testing Support - Applications Development Analyst, AVP | Mississauga Ontario Canada | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-citi-2-261005206?s=gh-canada-jobs-2027) |
 | **Lightspeed** | Revenue Operations Analyst | Montreal | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-lightspeedhq-a9fecd3d-a5e9-4a75-8303-a40b5ec16428?s=gh-canada-jobs-2027) |
 | **Lightspeed** | Revenue Operations Analyst | Montreal | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-lightspeedhq-e322aaea-a289-433c-ba55-cb983d59a725?s=gh-canada-jobs-2027) |
-| **Canadian Tire** | Business Operations Analyst Student (4 months) - Winter 2027 | Welland, ON | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-canadiantirecorporation-enterprise-exter-JR164928?s=gh-canada-jobs-2027) |
+| **Canadian Tire** | Sales Support Administrator, Quarry Park | Calgary, AB | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-canadiantirecorporation-enterprise-exter-JR168045?s=gh-canada-jobs-2027) |
 | **ABB** | Associate Field Service Technician | Dartmouth | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00052829?s=gh-canada-jobs-2027) |
 | **Vertiv** | Field Service Representative I - Thermal | Edmonton, AB | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-vertiv-20286087?s=gh-canada-jobs-2027) |
 | **Nokia** | NPI Lab Support Co-op/Intern | Canada | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-nokia-40963?s=gh-canada-jobs-2027) |
 | **Stripe** | Credit Operations Analyst | Chicago, IL +2 more | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stripe-8354560?s=gh-canada-jobs-2027) |
+| **Canadian Tire** | Business Operations Analyst Student (4 months) - Winter 2027 | Welland, ON | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-canadiantirecorporation-enterprise-exter-JR164928?s=gh-canada-jobs-2027) |
 | **Generac** | Customer Success Manager | Toronto Canada +5 more | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generac-external-JR17627?s=gh-canada-jobs-2027) |
 | **Motorola Solutions** | Back Office Support Specialist | Vancouver | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R70574?s=gh-canada-jobs-2027) |
 | **CIBC** | Technical Support Specialist - Bilingual | Toronto, ON | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cibc-search-2623200?s=gh-canada-jobs-2027) |
@@ -508,12 +508,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
-| **Baxter International** | Compounding Assistant | Brunswick | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-212349?s=gh-canada-jobs-2027) |
+| **Apple** | CA - Specialist: Seasonal, Part-time | Canada | 8m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
+| **Baxter International** | Compounding Assistant | Brunswick | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-212349?s=gh-canada-jobs-2027) |
 | **TD Bank** | Customer Experience Associate-1 | Mississauga | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1520867?s=gh-canada-jobs-2027) |
+| **UPS** | Part-time Warehouse Worker - Local Sorter | CHATHAM | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26040035?s=gh-canada-jobs-2027) |
 | **UPS** | Day Sort Warehouse Worker - Richmond | RICHMOND | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26036625?s=gh-canada-jobs-2027) |
 | **UPS** | Package Handler AM | MOUNT HOPE | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26042170?s=gh-canada-jobs-2027) |
-| **UPS** | Early Morning Local Sort Warehouse Associate | CONCORD | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26040809?s=gh-canada-jobs-2027) |
 | **AbbVie** | Spécialiste thérapeutique, Rhumatologie - Montréal-Est | Montreal, QC | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017022966?s=gh-canada-jobs-2027) |
 | **AbbVie** | Therapeutic Specialist, Rheumatology, Montreal East | Montreal, QC | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017022856?s=gh-canada-jobs-2027) |
 | **Intel** | Compiler Engineering Intern | Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0287934?s=gh-canada-jobs-2027) |
@@ -549,13 +549,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Johnson Controls** | NPI Quality Engineer | Edmonton-Alberta-Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30285542?s=gh-canada-jobs-2027) |
 | **Johnson Controls** | CFAA Fire Alarm Technician | Hamilton-Ontario-Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30285158?s=gh-canada-jobs-2027) |
 | **Johnson Controls** | Administration des ventes | Montréal-Québec-Canada | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30285531?s=gh-canada-jobs-2027) |
-| **Broadridge** | Vote Audit Analyst (Contract) (Hybrid) | Markham, ON | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-broadridge-careers-JR1087758?s=gh-canada-jobs-2027) |
-| **Warner Bros. Discovery** | Animateur.trice technique avancé.e / Advanced Technical Animator | Montreal 888 | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-warnerbros-global-R000110042?s=gh-canada-jobs-2027) |
-| **Canadian Tire** | Category Business Planner | Toronto, ON | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-canadiantirecorporation-enterprise-exter-JR168069?s=gh-canada-jobs-2027) |
-| **Altera** | IP Design Engineer – IP Design and Flows | Toronto | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03436?s=gh-canada-jobs-2027) |
-| **Bio-Techne** | Manufacturing Technician - Cartridge Assembly | Toronto | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-biotechne-biotechne-JR102104?s=gh-canada-jobs-2027) |
-| **Bio-Techne** | Manufacturing Technician - Cartridge Assembly | Toronto | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-biotechne-biotechne-JR102290?s=gh-canada-jobs-2027) |
-| **Visa** | Consultant, Client Success | Toronto, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF090556W?s=gh-canada-jobs-2027) |
 | **Morgan Stanley** | Advance Solutions Project Specialist, AVP | Calgary Canada +2 more | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ms-external-PT-JR046426?s=gh-canada-jobs-2027) |
 | **Danaher** | SA25 Product Manager | Burnaby | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1319586?s=gh-canada-jobs-2027) |
 | **Stryker** | Endo On-Site Specialist | Toronto | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R577441?s=gh-canada-jobs-2027) |
@@ -583,6 +576,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Microsoft** | Ingénieur(e) mécanique des Centre de Données / Data Center Mechanical Engineer | Quebec City, QC | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200067178?s=gh-canada-jobs-2027) |
 | **Hitachi** | Designer, Hardware Application Design | Toronto | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0149233?s=gh-canada-jobs-2027) |
 | **Veolia Environnement SA** | Assistant Ash Crane Operator | Burnaby, BC | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000162746181?s=gh-canada-jobs-2027) |
+| **Broadridge** | Vote Audit Analyst (Contract) (Hybrid) | Markham, ON | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-broadridge-careers-JR1087758?s=gh-canada-jobs-2027) |
+| **Warner Bros. Discovery** | Animateur.trice technique avancé.e / Advanced Technical Animator | Montreal 888 | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-warnerbros-global-R000110042?s=gh-canada-jobs-2027) |
+| **Canadian Tire** | Category Business Planner | Toronto, ON | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-canadiantirecorporation-enterprise-exter-JR168069?s=gh-canada-jobs-2027) |
+| **Altera** | IP Design Engineer – IP Design and Flows | Toronto | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-altera-altera-R03436?s=gh-canada-jobs-2027) |
+| **Bio-Techne** | Manufacturing Technician - Cartridge Assembly | Toronto | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-biotechne-biotechne-JR102104?s=gh-canada-jobs-2027) |
+| **Bio-Techne** | Manufacturing Technician - Cartridge Assembly | Toronto | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-biotechne-biotechne-JR102290?s=gh-canada-jobs-2027) |
+| **Visa** | Consultant, Client Success | Toronto, CA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF090556W?s=gh-canada-jobs-2027) |
 | **Magna** | Manufacturing Engineer | Mississauga, CA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-magna-magna-R00270915?s=gh-canada-jobs-2027) |
 | **Teledyne** | Sales Order Administrator | Canada - Surrey, BC | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ33698?s=gh-canada-jobs-2027) |
 | **Hitachi** | Ingénieur concepteur de transformateurs – Services de transformateur / Transformer Design... | Mont-Saint-Hilaire | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0152901?s=gh-canada-jobs-2027) |
@@ -595,8 +595,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Medtronic** | Clinical Specialist- CRM/CAS | Calgary | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R79260?s=gh-canada-jobs-2027) |
 | **Palo Alto Networks** | Sales Engineer- IAM/IGA Solutions | Toronto Canada +1 more | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-paloaltonetworks-panwexternalcareers-JR-020557?s=gh-canada-jobs-2027) |
 | **Palo Alto Networks** | Business Development Representative |  | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-paloaltonetworks-panwexternalcareers-JR-024834?s=gh-canada-jobs-2027) |
-| **Warner Bros. Discovery** | Artiste technique de personnages avancé.e / Advanced Technical Character Artist | Montreal 888 | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-warnerbros-global-R000110038?s=gh-canada-jobs-2027) |
-| **Canadian Tire** | Supervisor, Non-Merch AP | Oakville, ON | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-canadiantirecorporation-enterprise-exter-JR168074?s=gh-canada-jobs-2027) |
 | **Rolls-Royce** | Ajusteur-monteur classe B / Fitter Class B | Montreal | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rollsroyce-professional-JR6159602?s=gh-canada-jobs-2027) |
 | **Rolls-Royce** | Ajusteur-monteur classe B / Fitter Class B | Montreal | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rollsroyce-professional-JR6159603?s=gh-canada-jobs-2027) |
 | **Rolls-Royce** | Ajusteur-monteur classe B / Fitter Class B | Montreal | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rollsroyce-professional-JR6159605?s=gh-canada-jobs-2027) |
@@ -608,6 +606,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Danaher** | Clinical Specialist | Vancouver | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1322810?s=gh-canada-jobs-2027) |
 | **JLL** | Building Operator | Toronto, ON | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ535346?s=gh-canada-jobs-2027) |
 | **Citi** | Senior QA Test Analyst, Assistant Vice President | Ontario Canada | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-citi-2-261008395?s=gh-canada-jobs-2027) |
+| **Amazon Development Centre Canada ULC** | Software Development Engineer III - Advertising, MADS | Toronto, ON | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-25a5ce92-f36a-4b26-9594-e3a5f2921cff?s=gh-canada-jobs-2027) |
+| **Stantec** | Intermediate Instrumentation and Controls Engineer-Water | Edmonton, AB | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1008946?s=gh-canada-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -694,7 +694,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3674 current opportunities from 282 companies**
+**🎯 3675 current opportunities from 282 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
