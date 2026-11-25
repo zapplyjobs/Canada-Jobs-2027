@@ -506,7 +506,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | CA - Specialist | Canada | 13m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
+| **Apple** | CA - Specialist | Canada | 17m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
 | **Caterpillar** | Technical Marketing Communicator | Tullamarine | 1h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000406855?s=gh-canada-jobs-2027) |
 | **TD Bank** | Wealth Learning Designer | Toronto | 5h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1524232?s=gh-canada-jobs-2027) |
 | **TD Bank** | Personal Banking Associate - Mandarin or Spanish Language Skills an Asset | Surrey | 5h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1521133?s=gh-canada-jobs-2027) |
@@ -527,7 +527,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **UPS** | Warehouse Worker - Day | LACHINE | 12h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26034828?s=gh-canada-jobs-2027) |
 | **UPS** | Driver Helper | MOUNT PEARL | 12h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26036495?s=gh-canada-jobs-2027) |
 | **Microsoft** | Data Center Project Manager | Toronto, ON | 13h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/microsoft-200067181?s=gh-canada-jobs-2027) |
-| **Lightspeed** | Spécialiste en habilitation IA | Montreal | 13h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/ashby-lightspeedhq-007be1db-a0c2-42a2-9287-761f67fe5639?s=gh-canada-jobs-2027) |
+| **Lightspeed** | Spécialiste en habilitation IA | Montreal | 14h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/ashby-lightspeedhq-007be1db-a0c2-42a2-9287-761f67fe5639?s=gh-canada-jobs-2027) |
 | **FacilityOS** | Customer Onboarding Specialist | Toronto | 14h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/ashby-facilityos-d694dc01-aaf2-4632-a882-d0ae4ffb3594?s=gh-canada-jobs-2027) |
 | **Microsoft** | Data Center Critical Environment Technician Manager - Evening shift | Greater Toronto, ON | 15h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/microsoft-200052819?s=gh-canada-jobs-2027) |
 | **Red Bull** | On Premise Manager - Musketeer | Montreal, QC | 15h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000163549480?s=gh-canada-jobs-2027) |
