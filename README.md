@@ -400,7 +400,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **Opendoor** | Legal Operations Specialist | Toronto | Date unknown |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/rippling-opendoor-686b1651-7247-4fa5-aabd-37a20e99d47a?s=gh-canada-jobs-2027) |
 | **UPS** | Seasonal Support Driver | SAINT JOHN | 12h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26036776?s=gh-canada-jobs-2027) |
-| **Skydio** | Field Support Representative - Canada | Canada Remote | 13h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-f2df8f22-5d73-4439-b136-ad8b2b88b2da?s=gh-canada-jobs-2027) |
+| **Skydio** | Field Support Representative - Canada | Canada Remote | 14h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-f2df8f22-5d73-4439-b136-ad8b2b88b2da?s=gh-canada-jobs-2027) |
 | **Veolia Environnement SA** | Pilot Field Service Representative | Oakville, ON | 22h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163693519?s=gh-canada-jobs-2027) |
 | **TD Bank** | IT Support Analyst III | Toronto | 1d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1522013?s=gh-canada-jobs-2027) |
 | **TD Bank** | TDS Operations Analyst III | Toronto | 1d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1517402?s=gh-canada-jobs-2027) |
@@ -509,18 +509,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CIBC** | Client Engagement Associate \[Hourly\] | Ottawa, ON | 5m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cibc-search-2624334?s=gh-canada-jobs-2027) |
-| **Apple** | CA - Specialist | Canada | 7m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
-| **TD Bank** | Customer Experience Associate | St. Catharines | 50m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1524140?s=gh-canada-jobs-2027) |
-| **Uline** | Sales Account Representative | Calgary, AB | 50m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R269477?s=gh-canada-jobs-2027) |
+| **CIBC** | Client Engagement Associate \[Hourly\] | Ottawa, ON | 11m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cibc-search-2624334?s=gh-canada-jobs-2027) |
+| **Apple** | CA - Specialist | Canada | 13m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
+| **TD Bank** | Customer Experience Associate | St. Catharines | 56m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1524140?s=gh-canada-jobs-2027) |
+| **Uline** | Sales Account Representative | Calgary, AB | 57m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R269477?s=gh-canada-jobs-2027) |
 | **Abbott** | Planificateur(trice) du transport – Nutrition (Montréal) | Montreal, QC | 5h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31168038?s=gh-canada-jobs-2027) |
 | **TD Bank** | Financial Planner - Kentville, NS | Kentville | 5h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1517835?s=gh-canada-jobs-2027) |
 | **Hitachi** | Opérateur au bobinage (3-01) | Varennes | 6h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0153070?s=gh-canada-jobs-2027) |
 | **Hitachi** | Assembleur/Assembleuse de transformateurs - Cuvage et assemblage final (5-03) | Varennes | 6h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0153057?s=gh-canada-jobs-2027) |
 | **TD Bank** | Solutions Design IT Specialist | Toronto | 7h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1510852?s=gh-canada-jobs-2027) |
-| **Fresenius Medical Care** | RN Nurse 2 Year 8 NT | Katherine, NT | 7h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0278076?s=gh-canada-jobs-2027) |
-| **CIBC** | Client Engagement Associate - Part-time (15 hours/week) | Brampton, ON | 7h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cibc-search-2622539?s=gh-canada-jobs-2027) |
-| **CIBC** | Client Engagement Associate \[Hourly\] | Hannon, ON | 7h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cibc-search-2623390?s=gh-canada-jobs-2027) |
+| **Fresenius Medical Care** | RN Nurse 2 Year 8 NT | Katherine, NT | 8h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0278076?s=gh-canada-jobs-2027) |
+| **CIBC** | Client Engagement Associate - Part-time (15 hours/week) | Brampton, ON | 8h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cibc-search-2622539?s=gh-canada-jobs-2027) |
+| **CIBC** | Client Engagement Associate \[Hourly\] | Hannon, ON | 8h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cibc-search-2623390?s=gh-canada-jobs-2027) |
 | **Opendoor** | Applied Science- Growth | Toronto | Date unknown |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/rippling-opendoor-3a749e18-77ea-4333-9269-49d8dd4ff642?s=gh-canada-jobs-2027) |
 | **Opendoor** | Applied Scientist- Pricing | Toronto | Date unknown |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/rippling-opendoor-0a9c38af-cf87-43b3-bfbd-93e189259e7f?s=gh-canada-jobs-2027) |
 | **Lynx Software Technologies** | Software Quality Assurance Engineer - DO178 | Canada | Date unknown |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/rippling-lynx-software-technologies-ac52d758-d017-45c6-8dda-772f125cdb5c?s=gh-canada-jobs-2027) |
