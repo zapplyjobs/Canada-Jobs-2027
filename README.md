@@ -67,7 +67,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **Lockheed Martin** | Certification Systems Engineer Stf | Montreal +2 more | 16h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/eightfold-lockheedmartin-996477848053?s=gh-canada-jobs-2027) |
 | **Capco** | Full Stack Developer (Angular & Java ) | Canada - Toronto | 17h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-capco-8419547?s=gh-canada-jobs-2027) |
-| **Capco** | Frontend Developer - React/Node.js | Canada - Toronto | 17h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-capco-8418222?s=gh-canada-jobs-2027) |
+| **Capco** | Frontend Developer - React/Node.js | Canada - Toronto | 18h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-capco-8418222?s=gh-canada-jobs-2027) |
 | **Capco** | Backend Developer - Java/Spring Boot | Canada - Toronto | 18h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-capco-8418203?s=gh-canada-jobs-2027) |
 | **Google** | Software Developer, Google Workspace, Web and Back-End Developer | Canada | Date unknown |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/google-106279857268105926?s=gh-canada-jobs-2027) |
 | **TD Bank** | Java Developer, TD Securities | Toronto | 1d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1517534?s=gh-canada-jobs-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Ecolab** | Electrical Manufacturing Engineer | Calgary | 12h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ecolab-R00308946?s=gh-canada-jobs-2027) |
+| **Ecolab** | Electrical Manufacturing Engineer | Calgary | 13h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ecolab-R00308946?s=gh-canada-jobs-2027) |
 | **WSP** | Electrical Designer / Estimator | Vancouver, BC | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-wsp-98656?s=gh-canada-jobs-2027) |
 | **Kent Building Supplies** | Plumbing/Electrical Associate | Mount Pearl, NL | 1d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-kent-building-supplies-13562?s=gh-canada-jobs-2027) |
 | **TD Bank** | Applied Machine Learning Scientist I ATH# 5645 (Tabular Deep Learning Model Validation) | Toronto | 2d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1514923?s=gh-canada-jobs-2027) |
@@ -397,8 +397,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Benevity** | Legal Operations Specialist | Toronto, ON | 16h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/ashby-benevity-05d7cdf9-4bae-4794-912a-003c60428c1b?s=gh-canada-jobs-2027) |
 | **Benevity** | Legal Operations Specialist | Calgary, AB +1 more | 16h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/ashby-benevity-d110ab34-dac9-406f-8d69-af09e00b81c3?s=gh-canada-jobs-2027) |
 | **Boston Scientific** | Customer Operations Representative I | Ottawa CA-ON | 17h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813862431?s=gh-canada-jobs-2027) |
-| **Airbnb** | Support Specialist, Premium (Italian) | Montréal | 20h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-airbnb-8417974?s=gh-canada-jobs-2027) |
-| **Airbnb** | Spécialiste au Support Premium (Italien) | Montréal | 20h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-airbnb-8417975?s=gh-canada-jobs-2027) |
+| **Airbnb** | Support Specialist, Premium (Italian) | Montréal | 21h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-airbnb-8417974?s=gh-canada-jobs-2027) |
+| **Airbnb** | Spécialiste au Support Premium (Italien) | Montréal | 21h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-airbnb-8417975?s=gh-canada-jobs-2027) |
 | **Eaton** | Technicien(ne) de Service (Field Service Technician) | Laval +1 more | 21h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/eightfold-eaton-687240524024?s=gh-canada-jobs-2027) |
 | **TD Bank** | IT Operations Analyst IV | Toronto | 1d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1500708?s=gh-canada-jobs-2027) |
 | **TD Bank** | TDS Operations Analyst II | Toronto | 1d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1519937?s=gh-canada-jobs-2027) |
@@ -505,14 +505,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | CA - Specialist | Canada | 11m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
-| **TD Bank** | Customer Experience Associate | Mississauga | 25m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1524406?s=gh-canada-jobs-2027) |
+| **Apple** | CA - Specialist | Canada | 18m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/apple-114438004?s=gh-canada-jobs-2027) |
+| **TD Bank** | Customer Experience Associate | Mississauga | 32m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1524406?s=gh-canada-jobs-2027) |
 | **TD Bank** | Contact Center Rep II, Borrowing (Markham, On) | 3500 Steeles Avenue East | 8h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1517135?s=gh-canada-jobs-2027) |
-| **AutoZone** | PROFESIONAL VENDEDOR DE AUTOPARTES | Tijuana, BC | 12h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-182169?s=gh-canada-jobs-2027) |
-| **Kent Building Supplies** | HVAC Technician | Halifax, NS | 12h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-kent-building-supplies-13495?s=gh-canada-jobs-2027) |
-| **Kent Building Supplies** | Robotics Technician | Halifax, NS | 12h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-kent-building-supplies-13500?s=gh-canada-jobs-2027) |
-| **Cencora** | Caseworker - Evergreen | Remote | 12h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-cencora-R2619192?s=gh-canada-jobs-2027) |
-| **Cencora** | Reimbursement Specialist | Victoria | 12h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-cencora-R2619722?s=gh-canada-jobs-2027) |
+| **AutoZone** | PROFESIONAL VENDEDOR DE AUTOPARTES | Tijuana, BC | 13h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-182169?s=gh-canada-jobs-2027) |
+| **Kent Building Supplies** | HVAC Technician | Halifax, NS | 13h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-kent-building-supplies-13495?s=gh-canada-jobs-2027) |
+| **Kent Building Supplies** | Robotics Technician | Halifax, NS | 13h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-kent-building-supplies-13500?s=gh-canada-jobs-2027) |
+| **Cencora** | Caseworker - Evergreen | Remote | 13h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-cencora-R2619192?s=gh-canada-jobs-2027) |
+| **Cencora** | Reimbursement Specialist | Victoria | 13h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-cencora-R2619722?s=gh-canada-jobs-2027) |
 | **Airwallex** | Solutions Architect / Solutions Engineer, Payments | Toronto, CA | 14h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/ashby-airwallex-11e20f3c-7744-4e6f-b6d1-0803b8b45636?s=gh-canada-jobs-2027) |
 | **League** | Legal Counsel | Toronto, ON | 15h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-leagueinc-6272198004?s=gh-canada-jobs-2027) |
 | **Red Bull** | Account Sales Manager | Kamloops, BC | 15h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000163927478?s=gh-canada-jobs-2027) |
